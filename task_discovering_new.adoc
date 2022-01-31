@@ -1,0 +1,30 @@
+---
+sidebar: sidebar 
+permalink: task_discovering_new.html 
+keywords: netapp, saas backup, microsoft 365, discover, discovery, discovering, new, mailboxes, sites, groups, teams, shared, archive 
+summary: NetApp SaaS Backup for Microsoft 365 내에서 서비스 계정을 관리하고, 새로 추가된 계정을 검색하고, 계정 알림을 설정할 수 있습니다. 
+---
+= 새 사서함, 사이트 및 그룹을 검색합니다
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup에서 검색할 새 편지함(공유 및 아카이브 메일박스 포함), 사이트, 그룹, 팀을 SaaS Backup과 Microsoft 365 계정 간에 동기화해야 합니다. 기본적으로 동기화는 24시간마다 자동으로 수행됩니다. 하지만 변경을 수행하고 다음 예약 * 자동 동기화 * 전에 검색을 수행하려는 경우 즉시 동기화를 시작할 수 있습니다.
+
+.단계
+. 을 클릭합니다 image:services.gif["서비스 단추 스크린샷"] 왼쪽 탐색 창에서
+. Microsoft 365 설정 아이콘을 클릭합니다.image:mso365_settings.gif["Microsoft 365 단추 스크린샷"]
+. 동기화할 서비스 옆의 * 지금 동기화 * 를 클릭합니다.image:sync_now.png[""]새 사용자, 공유 메일박스 및 아카이브 메일박스가 검색되고 보호되지 않은 상태로 추가됩니다. 새로 검색한 사용자, 공유 사서함 또는 아카이브 사서함을 백업하려면 사용자의 백업 정책을 보호되지 않는 그룹에서 미리 정의된 계층 그룹 중 하나로 변경해야 합니다.
+. 확인 * 을 클릭합니다.
+. 진행 상황을 모니터링하려면 * 작업 진행 상황 보기 * 를 클릭합니다. 작업이 완료되면 최근 완료된 작업 * 에서 작업을 클릭하여 동기화 중에 추가 또는 제거된 사용자 수를 볼 수 있습니다. 사용자 계정 변경 사항은 다음과 같이 표시됩니다.
++
+** * 재발견 * 사용자는 변경되지 않은 사용자 계정의 수를 나타냅니다.
+** * Deactivated * 사용자는 삭제된 사용자 계정의 수를 나타냅니다.
+** * 새로 추가된 * 사용자는 새 사용자 계정의 수를 나타냅니다.
+
+
+

@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: task_signing_up_for_o365_free_trial.html 
+keywords: netapp, saas backup, microsoft 365, getting started, free trial, sign up, signing up 
+summary: SaaS Backup for Microsoft 365를 시작하려면 데이터 백업, 관련 정보 수집, Microsoft 365 서비스 계정 생성, 사용자 권한 할당에 사용할 스토리지 유형을 결정해야 합니다. 
+---
+= Microsoft 365 무료 평가판 계정을 등록하십시오
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Microsoft 365 비즈니스 에디션 무료 30일 평가판으로 Microsoft 365 및 SaaS Backup for Microsoft 365의 최신 기능을 이용할 수 있습니다.
+
+.단계
+. 로 이동합니다 https://www.microsoft.com/en-us/microsoft-365/microsoft-365-business-standard-one-month-trial["Microsoft 365 비즈니스 에디션 사이트"] 를 클릭하여 평가판 구독을 시작합니다.
+. 1개월 무료 체험 * 을 클릭합니다.
+. 화면의 지침에 따라 Microsoft 365 무료 평가판 계정을 만듭니다.
+

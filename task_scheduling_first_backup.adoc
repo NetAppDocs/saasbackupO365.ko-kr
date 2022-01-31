@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: task_scheduling_first_backup.html 
+keywords: netapp, saas backup, microsoft 365, getting started, schedule, scheduling, first, performing 
+summary: SaaS Backup for Microsoft 365를 설정하는 경우 기본적으로 데이터는 보호되지 않고 백업으로 예약되지 않습니다. 첫 번째 백업을 시작하려면 데이터를 보호된 계층으로 이동해야 합니다. 
+---
+= 첫 번째 백업을 예약합니다
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup for Microsoft 365를 설정하면 기본적으로 데이터가 보호되지 않습니다. 선택한 계층의 다음 예약 백업 중에 데이터가 백업되도록 보호되지 않는 계층에서 보호 계층 중 하나로 데이터를 이동해야 합니다.
+
+.단계
+. 대시보드에서 보호되지 않은 데이터가 포함된 서비스를 선택합니다.
+. 보호되지 않은 사서함 수, 내 사이트, 사이트 또는 그룹 옆에 있는 * 보기 * 를 클릭합니다.
+. 보호할 항목을 선택합니다.
+. 그룹 * 메뉴를 클릭합니다.image:groups_menu.gif["SaaS Backup Groups 메뉴 단추의 스크린샷"]
+. 할당할 백업 정책의 * 계층 * 을 선택합니다. 을 참조하십시오 link:concept_backup_policies.html["백업 정책"] 백업 정책 계층에 대한 설명은 를 참조하십시오.
+. 적용 * 을 클릭합니다.
+

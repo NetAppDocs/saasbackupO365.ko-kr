@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: task_viewing_restore_file_locations.html 
+keywords: netapp, saas backup, microsoft 365, find, viewing, jobs, log, restore, file, locations 
+summary: 복원된 파일 및 폴더의 제목과 위치에 대한 로그를 다운로드할 수 있습니다. 
+---
+= 복원된 파일을 찾습니다
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+일부 파일 또는 폴더가 복원되면 새로 만든 복원 폴더 내에 포함됩니다. 복원된 항목을 쉽게 찾을 수 있도록 복원된 파일 및 폴더의 이름과 위치가 포함된 Excel 파일을 다운로드할 수 있습니다.
+
+.단계
+. 을 클릭합니다 image:jobs_button.gif["작업 단추 스크린샷"] 를 클릭합니다.
+. 최근에 완료된 작업 * 에서 복원된 파일을 찾을 작업을 클릭합니다.
+. 오른쪽 상단에서 * 다운로드 * 를 클릭합니다. Excel 파일은 특정 작업에 대해 복원된 파일의 이름과 위치가 포함된 로컬에 다운로드됩니다.
+

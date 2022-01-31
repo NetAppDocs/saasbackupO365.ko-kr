@@ -1,0 +1,182 @@
+---
+sidebar: sidebar 
+permalink: reference_new_saasbackupO365.html 
+keywords: what's new, features, release notes, enhancements 
+summary: SaaS Backup for Microsoft 365는 새로운 기능, 개선 사항 및 버그 수정을 제공하는 새로운 릴리즈를 정기적으로 소개합니다. 
+---
+= 새로운 기능 및 업데이트
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+이번 릴리스의 NetApp SaaS Backup for Microsoft 365에는 다음과 같은 새로운 기능과 업데이트가 추가되었습니다.
+
+
+
+== 2021년 11월
+
+Microsoft 365는 2021년 10월 Exchange Online의 기본 인증을 사용 중단하도록 목표로 하고 있습니다. 자세한 내용은 을 참조하십시오 link:https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-authentication-and-exchange-online-september-2021-update/ba-p/2772210["기본 인증 및 Exchange Online - 2021년 9월 업데이트"]. 사용 중단 후 Microsoft 365 그룹과 공유 및 아카이브 메일박스에 대한 검색 실패가 발생할 수 있습니다. 이러한 오류를 방지하기 위해 언제든지 최신 인증을 활성화할 수 있습니다.
+
+신규 고객인 경우 등록할 때 Modern Authentication이 활성화됩니다. 별도의 조치가 필요하지 않습니다.
+
+기존 고객이고 최신 인증을 활성화하지 않은 경우 조치를 취해야 합니다. 을 참조하십시오 link:task_enable_modern_authentication.html["최신 인증 사용"].
+
+
+
+== 2020년 12월
+
+미국에 Microsoft Azure를 구축한 경우 Microsoft 환경에서 데이터가 떠나지 않습니다. SaaS Backup for Microsoft 365의 등록 프로세스 중에 Azure Blob 저장소 또는 사용자 지정 스토리지를 사용할 수 있습니다.
+
+link:task_signing_up_for_saasbkup_free_trial.html["무료 평가판을 통해 SaaS Backup에 등록하십시오"]
+
+link:task_signing_up_for_saasbkup_paid_subscription.html["유료 구독에서 SaaS Backup에 등록하십시오"]
+
+
+
+== 2020년 11월
+
+* 이번 달부터 모든 서비스에 대한 사용자 데이터를 모니터링할 수 있습니다. 이 새로운 기능을 사용하면 Excel 파일을 다운로드하여 전자 메일 또는 URL 주소, 사서함 유형, 라이선스 사용, 검색 상태, 마지막 검색, 백업 상태, 백업 계층 등
++
+link:task_monitoring_data.html["사용자 데이터를 모니터링합니다"]
+
+* 이제 Microsoft Office 365 그룹을 다른 그룹으로 복원할 수 있습니다.
++
+link:task_performing_high_level_restore.html["높은 수준의 복원을 수행합니다"]
+
+* 비즈니스용 OneDrive 라이센스 소유자는 제한 없이 라이선스를 릴리스하고 사용자를 제거할 수 있습니다.
++
+link:task_releasing_a_user_license.html["사용자 라이센스를 해제합니다"]
+
+
+* 작업 기록 로그에서 검색할 때 작업 유형, 서비스, 시작 시간 및 종료 시간 외에 작업 완료 상태별로 필터링할 수 있습니다.
++
+link:task_viewing_history_and_activity.html["작업 기록을 봅니다"]
+
+
+
+
+
+== 2020년 6월
+
+* SaaS Backup for Microsoft 365는 이제 Exchange Online 사용자를 위한 고급 검색 기능을 지원합니다. 고급 검색 * 을 활성화한 후 백업 데이터 이후 6개월 이내에 개별, 공유 및 아카이브 사서함 항목을 검색할 수 있습니다.
++
+link:task_using_advanced_search.html["고급 검색을 사용합니다"]
+
++
+이 기능을 활성화하려면 으로 이동합니다 link:https://mysupport.netapp.com/["지원"] 요청을 제출합니다.
+
++
+또한 SaaS Backup 지원 팀에 saasbackupsupport@netapp.com 으로 이메일을 보낼 수도 있습니다.
+
+
+
+
+
+== 2020년 3월/4월
+
+* 이제 다른 시간 범위를 선택하여 Microsoft 365 Exchange, SharePoint, OneDrive for Business 및 Groups for protected users의 백업을 찾아볼 수 있습니다.
++
+image:date_range_browse_feature.gif["이미지 백업 탐색을 위한 시간 범위 옵션을 표시합니다"]
+
++
+link:task_browsing_backups.html["백업 찾아보기"]
+
+* SaaS Backup for Microsoft 365는 이제 Microsoft TeamsChat에 대한 백업을 지원합니다. 이 새로운 기능을 사용하면 대화, 채널, 탭, 첨부 파일, 구성원, 및 설정은 Microsoft TeamsChat에서 찾을 수 있습니다.
++
+link:task_performing_immediate_backup_of_service.html["서비스의 즉각적인 백업을 수행합니다"]
+
++
+이 기능을 활성화하려면 으로 이동합니다 link:https://mysupport.netapp.com/["지원"] 요청을 제출합니다.
+
++
+또한 SaaS Backup 지원 팀에 saasbackupsupport@netapp.com 으로 이메일을 보낼 수도 있습니다.
+
+
+
+
+
+== 2020년 1월
+
+* 이제 프로비전되지 않은 사서함, 사이트, 내 사이트, 그룹 또는 계정을 볼 수 있습니다.link:task_viewing_deprovisioned.html["프로비저닝 해제 항목을 봅니다"]
+* 사용자 라이센스는 이제 계정이 삭제된 후 7일 후에 자동으로 릴리스됩니다. 7일 내에 제거되도록 예약된 항목 목록과 이미 삭제된 항목 목록을 볼 수 있습니다.link:task_viewing_purged.html["삭제된 데이터 목록을 봅니다"]
+* Microsoft OneNote 전자 필기장용 백업은 이제 Microsoft SharePoint Online 및 OneDrive for Business에서 지원됩니다.link:task_enabling_onenote_backups.html["OneNote에 대한 백업을 사용하도록 설정합니다"]
+
+
+
+
+== 2019년 9월
+
+* 이제 SaaS Backup의 유료 구독에 대한 지원을 활성화할 수 있습니다. 지원을 활성화하면 전화, 온라인 채팅 또는 웹 티켓 시스템을 통해 기술 지원에 액세스할 수 있습니다.
++
+link:task_activate_support.html["지원을 활성화합니다"]
+
+
+
+
+
+== 2019년 6월
+
+* SaaS Backup for Microsoft 365는 이제 Microsoft SharePoint Online 및 Microsoft OneDrive for Business의 복사 기능을 사용하여 만든 항목의 백업 및 복원을 지원합니다.
+* 복원 크기, 복원 위치 및 추가 설명을 포함하여 복원 통계에 추가 세부 사항을 포함하도록 기능이 향상되었습니다.
+
+
+
+
+== 2019년 5월
+
+* SaaS Backup은 이제 애드온 라이센스를 지원합니다.
++
+link:task_updating_subscription_information.html["구독 정보를 업데이트합니다"]
+
+
+
+
+
+== 2019년 4월
+
+* SaaS Backup for Microsoft 365는 이제 보안 그룹 삭제를 지원합니다.
++
+link:task_deleting_security_groups.html["보안 그룹을 삭제합니다"]
+
+* 공유 사서함에서 더 이상 사용자 라이센스를 사용하지 않습니다.
+
+
+
+
+== 2019년 3월
+
+* SaaS Backup for Microsoft 365는 이제 지원되는 각 지역에서 여러 백업 위치를 지원합니다.
++
+이제 선택한 지역에서 사용 가능한 위치를 데이터 백업 사이트로 선택할 수 있습니다. 데이터 위치와 지리적으로 가장 가까운 위치를 선택하는 것이 좋습니다. SaaS Backup에서 권장하는 위치는 옵션 목록에서 * preferred * 로 표시됩니다.
+
++
+
+NOTE: 평가판 버전에서 업그레이드하는 경우 평가판에서 사용된 위치와 다른 백업 위치를 선택하면 평가판 데이터가 보존되지 않습니다.
+
++
+link:task_upgrading_from_trial.html["평가판 구독에서 업그레이드합니다"]
+
+* 이제 사용자 라이센스를 릴리스하여 다른 사용자가 사용할 수 있도록 설정할 수 있습니다.link:task_releasing_a_user_license.html["사용자 라이센스를 해제합니다"]
+
+
+
+
+== 2019년 2월
+
+* SaaS Backup for Microsoft 365는 이제 다음을 지원합니다.
++
+** 아카이브 메일박스의 백업 및 복원
+** Microsoft Office Exchange Online, SharePoint, OneDrive for Business에서 향상된 백업 및 복원 통계.
+
+
+
+
+
+
+== 보관됨
+
+을 클릭합니다 link:reference_new_archived.html["여기"] 새 기능의 보관된 목록을 표시합니다

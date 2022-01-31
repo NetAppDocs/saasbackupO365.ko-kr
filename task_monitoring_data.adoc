@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: task_monitoring_data.html 
+keywords: netapp, saas backup, microsoft office 365, sharepoint, onedrive for business, exchange, groups, monitor, monitoring, user, data, user data, email, url, mailbox, license, licenses, discovery state, discovery, backup status, backup tier 
+summary: SaaS Backup for Microsoft Office 365에서는 이메일 또는 URL 주소, 메일박스 유형, 라이센스 사용, 검색 상태, 마지막 검색, 백업 상태, 백업 계층 등 
+---
+= 사용자 데이터를 모니터링합니다
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup for Microsoft Office 365에서는 이메일 또는 URL 주소, 메일박스 유형, 라이센스 사용, 검색 상태, 마지막 검색, 백업 상태, 백업 계층 등
+
+.단계
+. 서비스 * 를 클릭합니다.
+. 사용자 데이터를 내보낼 서비스를 클릭합니다.
++
+.. Microsoft Exchange Online의 경우 보호된 사서함, 보류 사서함 또는 보호되지 않은 사서함 수를 클릭합니다.
+.. Microsoft SharePoint Online의 경우 보호, 보류 또는 보호되지 않는 사이트 수를 클릭합니다.
+.. Microsoft OneDrive for Business의 경우 보호, 보류 또는 보호되지 않는 내 사이트 수를 클릭합니다.
+.. Microsoft Office 365 그룹의 경우 보호 그룹, 보류 그룹 또는 보호되지 않는 그룹 수를 클릭합니다.
+
+
+. 해당 서비스에 대한 사용자 데이터의 Excel 파일을 내보내려면 * 다운로드 * 를 클릭합니다.
+

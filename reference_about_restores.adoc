@@ -1,0 +1,346 @@
+---
+sidebar: sidebar 
+permalink: reference_about_restores.html 
+keywords: netapp, saas backup, microsoft 365, restores, microsoft teams, groups, sharepoint, exchange, onedrive, teams data, teams data locations, locations, teams, email, channels, documents, channel, chat, private channel, individual user chat, group chats, files 
+summary: SaaS Backup for Microsoft 365는 각 서비스에 대해 세밀한 레벨의 복원 옵션을 제공합니다. 
+---
+= 복원에 대해 설명합니다
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup for Microsoft 365를 사용하면 Exchange Online, SharePoint Online, OneDrive for Business, Microsoft 365 Groups 및 팀에 대해 높은 수준의 세분화된 복원을 수행할 수 있습니다.
+
+높은 수준의 세분화된 복원을 수행하는 방법에 대해 알아보십시오.
+
+* link:task_performing_high_level_restore.html["높은 수준의 복원을 수행합니다"]
+* link:task_performing_granular_level_restore_exchange.html["Exchange Online에 대해 세밀한 레벨의 복구를 수행합니다"]
+* link:task_performing_granular_level_restore_sharepoint.html["SharePoint Online에 대해 세밀한 레벨의 복원을 수행합니다"]
+* link:task_performing_granular_level_restore_onedrive.html["OneDrive for Business에 대한 세밀한 레벨의 복원을 수행합니다"]
+* link:task_performing_granular_level_restore_teams.html["그룹 및 팀에 대해 세밀한 레벨의 복원 수행"]
+
+
+다음 표에서는 서비스별로 지원되는 상위 수준 복원 옵션과 SaaS Backup에서 복원된 데이터를 찾을 위치를 보여 줍니다.
+
+
+NOTE: 데이터가 삭제되거나 프로비전될 때 데이터를 다른 위치(사서함, 사이트, 내 사이트, 그룹 또는 팀)로 복원하거나 데이터를 내보낼 수 있습니다. 같은 위치로 복원할 수 없습니다.
+
+
+
+== Exchange Online을 클릭합니다
+
+[cols="15a,15a,15a,15a,40"]
+|===
+| 항목의 유형입니다 | 같은 사서함으로 복원합니다 | 다른 사서함으로 복원합니다 | PST로 내보냅니다 | SaaS Backup에서 찾을 수 있는 위치 
+
+
+ a| 
+단일 편지함
+ a| 
+예
+ a| 
+예
+ a| 
+예
+| Exchange Online > 메일함 - 사용자/공유/아카이브 
+
+
+ a| 
+여러 개의 사서함
+ a| 
+예
+ a| 
+예
+ a| 
+아니요
+| Exchange Online > 메일함 - 사용자/공유/아카이브 
+
+
+ a| 
+사서함 콘텐츠
+ a| 
+예
+ a| 
+예
+ a| 
+예
+| Exchange Online > 메일함 - 사용자/공유/아카이브 > <사용자 이름> 
+|===
+
+
+== SharePoint Online을 클릭합니다
+
+[cols="15a,15a,15a,15a,40"]
+|===
+| 항목의 유형입니다 | 같은 사이트로 복원합니다 | 다른 사이트로 복원합니다 | 데이터를 내보냅니다 | SaaS Backup에서 찾을 수 있는 위치 
+
+
+ a| 
+단일 SharePoint 사이트
+ a| 
+예
+ a| 
+예
+ a| 
+예
+| SharePoint Online > 사이트 를 클릭합니다 
+
+
+ a| 
+여러 SharePoint 사이트
+ a| 
+예
+ a| 
+예
+ a| 
+아니요
+| SharePoint Online > 사이트 를 클릭합니다 
+
+
+ a| 
+SharePoint 사이트 콘텐츠
+ a| 
+예
+ a| 
+예
+ a| 
+예
+| SharePoint Online > 사이트 > <사이트 이름> 을 클릭합니다 
+
+
+ a| 
+복구 전용 역할이 설정된 단일 SharePoint 사이트
+ a| 
+예
+ a| 
+아니요
+ a| 
+아니요
+| SharePoint Online > 사이트 를 클릭합니다 
+
+
+ a| 
+단일 하위 사이트
+ a| 
+예
+ a| 
+예
+ a| 
+예
+| SharePoint Online > 사이트 > <사이트 이름> 을 클릭합니다 
+
+
+ a| 
+여러 하위 사이트
+ a| 
+예
+ a| 
+예
+ a| 
+예
+| SharePoint Online > 사이트 > <사이트 이름> 을 클릭합니다 
+
+
+ a| 
+SharePoint 하위 사이트 콘텐츠
+ a| 
+예
+ a| 
+예
+ a| 
+예
+| SharePoint Online > 사이트 > <사이트 이름> 을 클릭합니다 
+
+
+ a| 
+복원 전용 역할이 설정된 단일/다중 하위 사이트
+ a| 
+예
+ a| 
+아니요
+ a| 
+아니요
+| SharePoint Online > 사이트 > <사이트 이름> 을 클릭합니다 
+|===
+
+
+== 비즈니스용 OneDrive
+
+[cols="15a,15a,15a,15a,40"]
+|===
+| 항목의 유형입니다 | 동일한 MySite로 복원합니다 | 다른 MySite로 복원합니다 | 데이터를 내보냅니다 | SaaS Backup에서 찾을 수 있는 위치 
+
+
+ a| 
+단일 드라이브
+ a| 
+예
+ a| 
+예
+ a| 
+예
+| 비즈니스용 OneDrive > 내 사이트 를 선택합니다 
+
+
+ a| 
+다중 드라이브
+ a| 
+아니요
+ a| 
+아니요
+ a| 
+아니요
+| 비즈니스용 OneDrive > 내 사이트 를 선택합니다 
+
+
+ a| 
+단일 드라이브 컨텐츠
+ a| 
+예
+ a| 
+예
+ a| 
+예
+| 비즈니스용 OneDrive > 내 사이트 > <OneDrive 사용자> 
+|===
+
+
+== 그룹
+
+[cols="15a,15a,15a,15a,40"]
+|===
+| 항목의 유형입니다 | 같은 그룹으로 복원합니다 | 다른 그룹으로 복원합니다 | 데이터를 내보냅니다 | SaaS Backup에서 찾을 수 있는 위치 
+
+
+ a| 
+단일 그룹
+ a| 
+예
+ a| 
+예
+ a| 
+예
+| Office 365 그룹 > 그룹 을 클릭합니다 
+
+
+ a| 
+여러 그룹
+ a| 
+예
+ a| 
+아니요
+ a| 
+아니요
+| Office 365 그룹 > 그룹 을 클릭합니다 
+
+
+ a| 
+콘텐츠를 그룹화합니다
+ a| 
+예
+ a| 
+예
+ a| 
+예
+| Office 365 그룹 > 그룹 > <그룹 이름> 을 클릭합니다 
+
+
+ a| 
+사서함 콘텐츠
+ a| 
+예
+ a| 
+아니요
+ a| 
+예
+| Office 365 그룹 > 그룹 > (그룹 전자 메일) > 그룹 이름 을 선택합니다 
+
+
+ a| 
+SharePoint 콘텐츠
+ a| 
+예
+ a| 
+아니요
+ a| 
+예
+| Office 365 그룹 > 그룹 > <그룹 이름> <사이트 이름> 
+|===
+
+
+== 팀
+
+[cols="15a,15a,15a,15a,40"]
+|===
+| 항목의 유형입니다 | 같은 팀으로 복원합니다 | 다른 팀으로 복원합니다 | 데이터를 내보냅니다 | SaaS Backup에서 찾을 수 있는 위치 
+
+
+ a| 
+단일 팀
+ a| 
+예
+ a| 
+예
+ a| 
+예
+| Office 365 그룹 > 팀 을 클릭합니다 
+
+
+ a| 
+여러 팀
+ a| 
+예
+ a| 
+아니요
+ a| 
+아니요
+| Office 365 그룹 > 팀 을 클릭합니다 
+
+
+ a| 
+팀 콘텐츠
+ a| 
+예
+ a| 
+예
+ a| 
+예
+| Office 365 그룹 > 팀 > <팀 이름> 을 클릭합니다 
+
+
+ a| 
+사서함 콘텐츠
+ a| 
+예
+ a| 
+아니요
+ a| 
+예
+| Office 365 그룹 > 팀 > (팀 전자 메일) > 팀 이름 을 클릭합니다 
+
+
+ a| 
+SharePoint 콘텐츠
+ a| 
+예
+ a| 
+아니요
+ a| 
+예
+| Office 365 그룹 > 팀 > <팀 이름> <사이트 이름> 
+
+
+ a| 
+채널
+ a| 
+예
+ a| 
+아니요
+ a| 
+아니요
+| Office 365 그룹 > 팀 > (팀 전자 메일) 
+|===

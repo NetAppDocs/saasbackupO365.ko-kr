@@ -1,0 +1,44 @@
+---
+sidebar: sidebar 
+permalink: task_downloading_data.html 
+keywords: netapp, saas backup, microsoft 365, jobs, history, activity, log, download, downloading 
+summary: SaaS Backup 활동 및 작업 기록의 로그를 보거나 다운로드할 수 있습니다. 
+---
+= 로그를 다운로드합니다
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup for Microsoft 365는 SaaS Backup에 작업 기록의 로그를 저장합니다. 작업 기록 및 완료된 작업 목록을 다운로드할 수 있습니다.
+
+
+
+== 활동 로그를 다운로드합니다
+
+로그는 SaaS Backup for Microsoft 365 내에서 발생하는 모든 활동의 저장됩니다. 이 로그에는 작업을 수행한 사용자의 이름과 함께 수행된 각 작업의 날짜가 포함됩니다. 활동 로그를 .csv 파일로 다운로드할 수 있습니다.
+
+.단계
+. 을 클릭합니다 image:reporting.gif["보고 단추의 스크린샷"] 를 클릭합니다.
+. Activity Log(활동 로그) * 탭을 클릭합니다. 모든 SaaS Backup for Microsoft 365 활동 목록이 표시됩니다.
+. 을 클릭합니다 image:download_activitylog.gif["활동 로그 오른쪽 구석에 있는 다운로드 단추 스크린샷"]. 활동 로그는 .csv 파일로 다운로드됩니다.
+
+
+
+
+== 완료된 작업의 로그를 다운로드합니다
+
+성공적으로 완료된 작업의 Excel 스프레드시트를 다운로드할 수 있습니다.
+
+.단계
+. 왼쪽 탐색 창에서 * Jobs * 를 클릭합니다.
+. 다운로드하려는 최근에 완료된 작업을 클릭합니다.
+. 성공적으로 완료된 작업 수 아래에서 * Successful * 을 클릭합니다.
++
+image:completed_jobs.gif["완료된 작업의 스크린샷"]
+
+. 오른쪽 상단에서 * 다운로드 * 를 클릭합니다. 로그가 다운로드됩니다.
+

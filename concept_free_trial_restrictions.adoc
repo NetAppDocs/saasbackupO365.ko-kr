@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: concept_free_trial_restrictions.html 
+keywords: netapp, saas backup, microsoft 365, getting started, free trial, restrictions 
+summary: 무료 평가판 계정에 적용되는 특정 제한 사항을 알고 있어야 합니다. 
+---
+= 무료 평가판 제한
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+무료 평가판 계정에 적용되는 제한 사항은 다음과 같습니다.
+
+* Microsoft Exchange Online의 경우 최대 25명의 사용자와 Microsoft SharePoint Online의 경우 25개의 사이트 모음이 있습니다.
+* 하루에 최대 3개의 즉시 백업
+* 처음 30일 동안만 백업을 자동화합니다.
+* 무료 평가판이 종료된 후 15일의 유예 기간에는 예약된 백업이 허용되지 않습니다.
+* 모든 서비스에 대해 24시간 동안 최대 10개의 복원이 허용됩니다.
+* TeamsChat 백업은 기본적으로 비활성화되어 있으며 요청 시 saasbackupsupport@netapp.com 으로 SaaS Backup Support에 이메일을 보내 활성화할 수 있습니다. TeamsChat을 활성화하려면 모든 활성 팀 사용자에게 SaaS Backup의 라이센스가 있어야 합니다.
+

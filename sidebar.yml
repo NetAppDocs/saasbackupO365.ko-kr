@@ -1,0 +1,194 @@
+---
+entries:
+- title: Microsoft 365용 NetApp SaaS 백업
+  url: "/index.html"
+- title: 릴리스 정보
+  entries:
+  - title: 새로운 소식
+    url: "/reference_new_saasbackupO365.html"
+  - title: 새로운 아카이브
+    url: "/reference_new_archived.html"
+  - title: 알려진 문제 및 제한 사항
+    url: "/reference_kpls.html"
+- title: 개념
+  entries:
+  - title: 개요
+    url: "/concept_overview.html"
+  - title: SaaS Backup과 함께 사용할 수 있는 스토리지 유형입니다
+    url: "/concept_storage_types.html"
+- title: 시작하십시오
+  entries:
+  - title: 무료 평가판을 사용해 보십시오
+    entries:
+    - title: 워크플로우
+      url: "/concept_free_trial_workflow.html"
+    - title: 무료 평가판 제한
+      url: "/concept_free_trial_restrictions.html"
+    - title: 무료 평가판 활성화 코드를 등록하십시오
+      url: "/task_registering_for_free_trial_activation_code.html"
+    - title: Microsoft 365 무료 평가판 계정을 등록하십시오
+      url: "/task_signing_up_for_o365_free_trial.html"
+    - title: 전역 권한이 있는 Microsoft 365 서비스 계정을 만듭니다
+      url: "/task_creating_msservice_account_with_global_permissions.html"
+    - title: Microsoft Exchange Online에 대한 가장 구성
+      url: "/task_configuring_impersonation.html"
+    - title: SaaS Backup for Microsoft 365의 무료 평가판을 신청하십시오
+      url: "/task_signing_up_for_saasbkup_free_trial.html"
+    - title: 첫 번째 백업을 예약합니다
+      url: "/task_scheduling_first_backup.html"
+    - title: 임미일 백업을 수행합니다
+      url: "/task_performing_immediate_backup_of_policy.html"
+    - title: 평가판 구독에서 업그레이드합니다
+      entries:
+      - title: 업그레이드
+        url: "/task_upgrading_from_trial.html"
+      - title: 업그레이드 후 지원을 활성화합니다
+        url: "/task_activate_support.html"
+    - title: 무료 평가판 데이터 삭제
+      url: "/reference_free_trial_data.html"
+  - title: 유료 구독으로 시작하십시오
+    entries:
+    - title: 워크플로우
+      url: "/concept_paid_subscription_workflow.html"
+    - title: 전역 권한이 있는 MS Office 서비스 계정을 만듭니다
+      url: "/task_creating_msservice_account_with_global_permissions.html"
+    - title: Microsoft Exchange Online에 대한 가장 구성
+      url: "/task_configuring_impersonation.html"
+    - title: SaaS Backup for Microsoft 365의 유료 구독에 등록하십시오
+      url: "/task_signing_up_for_saasbkup_paid_subscription.html"
+    - title: 첫 번째 백업을 예약합니다
+      url: "/task_scheduling_first_backup.html"
+    - title: 임미일 백업을 수행합니다
+      url: "/task_performing_immediate_backup_of_policy.html"
+    - title: 유료 가입 데이터 삭제
+      url: "/reference_paid_subscription_data.html"
+- title: 서비스 관리
+  entries:
+  - title: 서비스를 활성화합니다
+    url: "/task_activating_a_service.html"
+  - title: 서비스를 비활성화합니다
+    url: "/task_deactivating_a_service.html"
+  - title: 지원을 활성화합니다
+    url: "/task_activate_support.html"
+  - title: 새 사서함, 사이트 및 그룹을 검색합니다
+    url: "/task_discovering_new.html"
+  - title: 사용자, 사이트 모음 또는 Microsoft 365 그룹을 제거합니다
+    url: "/task_purging.html"
+  - title: 최신 인증 사용
+    url: "/task_enable_modern_authentication.html"
+- title: 설정을 관리합니다
+  entries:
+  - title: 백업 정책
+    url: "/concept_backup_policies.html"
+  - title: 백업 설정
+    url: "/concept_backup_settings.html"
+  - title: 알림을 설정합니다
+    url: "/task_setting_account_notifications.html"
+  - title: 권한
+    entries:
+    - title: 서비스 계정에 권한을 추가합니다
+      url: "/task_adding_permissions_to_service_accounts.html"
+    - title: Azure Active Directory와 사용자 권한을 동기화합니다
+      url: "/task_syncing_user_permissions_with_azure.html"
+    - title: 공유 사서함을 사용할 수 있는 권한을 부여합니다
+      url: "/task_granting_permissions_to_enable_shared_mailboxes.html"
+  - title: 역할 기반 계정 액세스
+    entries:
+    - title: 사용자 계정에 관리 역할을 할당합니다
+      url: "/task_assigning_admin_roles_to_user_accounts.html"
+    - title: 사용자 계정에 할당된 관리 역할을 업데이트합니다
+      url: "/task_updating_admin_roles_assigned_to_user_accounts.html"
+    - title: 사용자 계정에서 모든 관리 역할을 삭제합니다
+      url: "/task_deleting_admin_roles_from_a_user_account.html"
+- title: 사용자 관리
+  entries:
+  - title: 추가 수익 실적을
+    entries:
+    - title: 라이센스를 추가합니다
+      url: "/task_adding_a_license.html"
+    - title: 구독 정보를 업데이트합니다
+      url: "/task_updating_subscription_information.html"
+    - title: 사용자 라이센스를 해제합니다
+      url: "/task_releasing_a_user_license.html"
+  - title: 규칙
+    entries:
+    - title: 새 규칙을 만듭니다
+      url: "/task_creating_rules.html"
+    - title: 기존 규칙 적용
+      url: "/task_applying_rules.html"
+    - title: 규칙을 삭제합니다
+      url: "/task_deleting_rules.html"
+  - title: 보안 그룹
+    entries:
+    - title: 보안 그룹을 추가합니다
+      url: "/task_adding_security_groups.html"
+    - title: 보안 그룹을 삭제합니다
+      url: "/task_deleting_security_groups.html"
+- title: 백업 관리
+  entries:
+  - title: 백업 예약 또는 백업 빈도 변경
+    url: "/task_scheduling_backup_or_changing_frequency.html"
+  - title: 즉시 백업을 수행합니다
+    url: "/task_performing_immediate_backup_of_service.html"
+  - title: 백업 찾아보기
+    url: "/task_browsing_backups.html"
+  - title: 작업을 취소합니다
+    url: "/task_canceling_job.html"
+  - title: 백업 보존 기간을 업데이트합니다
+    url: "/task_updating_backup_retention_period.html"
+  - title: OneNote에 대한 백업을 사용하도록 설정합니다
+    url: "/task_enabling_onenote_backups.html"
+  - title: Microsoft SharePoint Online에서 백업에 지원되는 서식 파일 및 앱
+    url: "/concept_supported_templates_and_apps.html"
+- title: 복구 관리
+  entries:
+  - title: 복원에 대해 설명합니다
+    url: "/reference_about_restores.html"
+  - title: 높은 수준의 복원을 수행합니다
+    url: "/task_performing_high_level_restore.html"
+  - title: 세부적인 수준의 복원을 수행합니다
+    entries:
+    - title: Exchange의 경우
+      url: "/task_performing_granular_level_restore_exchange.html"
+    - title: SharePoint의 경우
+      url: "/task_performing_granular_level_restore_sharepoint.html"
+    - title: OneDrive의 경우
+      url: "/task_performing_granular_level_restore_onedrive.html"
+    - title: 그룹 및 팀의 경우
+      url: "/task_performing_granular_level_restore_teams.html"
+  - title: 셀프 서비스 포털 정보
+    url: "/reference_about_ssp.html"
+  - title: 셀프 서비스 포털을 사용합니다
+    url: "/task_use_ssp.html"
+  - title: 이전 백업에서 복원합니다
+    url: "/task_restoring_from_previous_backup.html"
+  - title: 작업을 취소합니다
+    url: "/task_canceling_job.html"
+  - title: 복원된 파일을 찾습니다
+    url: "/task_viewing_restore_file_locations.html"
+- title: 데이터 보기
+  entries:
+  - title: 사용자 정의 필터를 만듭니다
+    url: "/task_creating_user_defined_filter.html"
+  - title: 검색을 수행합니다
+    url: "/task_performing_search.html"
+  - title: 고급 검색을 사용합니다
+    url: "/task_using_advanced_search.html"
+  - title: 작업 기록 및 활동 로그를 봅니다
+    url: "/task_viewing_history_and_activity.html"
+  - title: 프로비저닝 해제 항목을 봅니다
+    url: "/task_viewing_deprovisioned.html"
+  - title: 제거된 데이터를 봅니다
+    url: "/task_viewing_purged.html"
+  - title: 삭제된 항목 보기
+    url: "/task_viewing_deleted.html"
+  - title: 데이터 다운로드
+    url: "/task_downloading_data.html"
+  - title: 사용자 데이터를 모니터링합니다
+    url: "/task_monitoring_data.html"
+- title: 피드백을 제공합니다
+  url: "/task_providing_feedback.html"
+- title: 도움을 받을 수 있는 곳 및 자세한 정보를 얻을 수 있는 곳
+  url: "/concept_get_help_find_info.html"
+- title: 법적 고지
+  url: "/reference_legal_notices.html"

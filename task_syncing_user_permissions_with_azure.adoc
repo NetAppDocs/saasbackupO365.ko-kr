@@ -1,0 +1,36 @@
+---
+sidebar: sidebar 
+permalink: task_syncing_user_permissions_with_azure.html 
+keywords: netapp, saas backup, microsoft 365, synchronize, synchronizing, granting, permissions, azure, active directory 
+summary: NetApp SaaS Backup for Microsoft 365 내에서 Azure Active Directory의 사용 권한을 관리할 수 있습니다. 
+---
+= Azure Active Directory와 사용자 권한을 동기화합니다
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+SaaS Backup for Microsoft 365 내에서 사용자 권한을 Azure Active Directory와 수동으로 동기화할 수 있습니다.
+
+.단계
+. 을 클릭합니다 image:services.gif["서비스 단추 스크린샷"] 왼쪽 탐색 창에서
+. Microsoft 365 링크를 클릭합니다.
++
+image:mso365_settings.gif["Microsoft 365 단추 스크린샷"]
+
+. 권한 재검색 * 을 클릭합니다.
++
+image:rediscover_permissions.gif["사용 권한 다시 검색 아이콘"]
+
++
+서비스에 대한 사용 권한이 검색되면 서비스가 활성 옵션과 함께 표시됩니다.
+
+

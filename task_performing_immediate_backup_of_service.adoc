@@ -1,0 +1,65 @@
+---
+sidebar: sidebar 
+permalink: task_performing_immediate_backup_of_service.html 
+keywords: netapp, saas backup, microsoft 365, perform, performing, immediate, backup, service 
+summary: 필요에 따라 Microsoft 365 서비스의 즉각적인 백업을 수행할 수 있습니다. 
+---
+= 서비스의 즉각적인 백업을 수행합니다
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+필요에 따라 Microsoft 365 서비스의 즉각적인 백업을 수행할 수 있습니다.
+
+.단계
+. 대시보드에서 즉시 백업을 수행할 서비스 상자에서 * protected * (보호됨 *) 위의 번호를 클릭합니다.
+. 백업 옵션을 선택합니다.
++
+.. Exchange의 경우
++
+*** 공유 사서함을 백업하는 경우 * shared * 탭을 클릭합니다.
+*** 아카이브 사서함을 백업하는 경우 * archive * 탭을 클릭합니다.
+*** 일반 사서함을 백업하는 경우 * user * 탭에 그대로 둡니다.
+
+
+.. SharePoint의 경우
++
+*** 사이트를 백업하는 경우 * sites * 탭에 그대로 있습니다.
+
+
+.. OneDrive의 경우
++
+*** 사용자를 백업하는 경우 * user * 탭에 그대로 유지됩니다.
+
+
+.. Microsoft 365 그룹의 경우
++
+*** 그룹을 백업하는 경우 * GROUPS * 탭에 남아 있습니다.
+*** 팀을 백업하는 경우 * Teams * 탭을 클릭합니다.
++
+
+NOTE: TeamsChat 메시지는 설정에서 TeamsChat이 활성화된 경우에만 백업됩니다. 연락처 link:https://mysupport.netapp.com/["지원"] 를 눌러 이 기능을 활성화합니다.
+
++
+
+NOTE: API 제한으로 인해 SaaS 백업은 퍼블릭 채널과 프라이빗 채널을 구분할 수 없습니다.
+
+
+
+
+
+. 백업할 항목을 선택합니다.
+. 지금 백업 * 을 클릭합니다.
++
+image:backup_now.gif["지금 백업 버튼"]
+
++
+선택한 서비스가 백업을 위해 작업 대기열에 배치됨을 나타내는 메시지가 표시됩니다.
+
+. 확인 * 을 클릭합니다. 백업 작업이 생성되었다는 메시지가 표시됩니다.
+. 백업 진행률을 모니터링하려면 * 작업 진행률 보기 * 를 클릭합니다.
+

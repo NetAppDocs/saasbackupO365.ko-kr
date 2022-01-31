@@ -1,0 +1,51 @@
+---
+sidebar: sidebar 
+permalink: task_viewing_history_and_activity.html 
+keywords: netapp, saas backup, microsoft 365, view, viewing, jobs, history, activity, log 
+summary: SaaS Backup 활동 및 작업 기록의 로그를 보거나 다운로드할 수 있습니다. 
+---
+= 작업 기록 및 활동 로그를 봅니다
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup for Microsoft 365는 SaaS Backup 내에서 수행된 작업 내역과 모든 작업의 로그를 저장합니다.
+
+
+
+== 작업 기록을 봅니다
+
+NetApp SaaS Backup for Office 365에서 모든 작업 기록에 대한 보고서를 보거나 다운로드할 수 있습니다. 작업 유형, 서비스, 시작 시간, 종료 시간 및 완료 상태를 기준으로 검색을 필터링할 수 있습니다.
+
+.단계
+. 왼쪽 탐색 창에서 * Reporting * (보고 *)을 클릭합니다. 모든 SaaS Backup 작업 목록이 * Job History * 탭 아래에 표시됩니다.
+. 결과를 필터링하려면 * Filter * 를 클릭합니다.
+. 선택 * 드롭다운 메뉴를 클릭하고 필터를 선택합니다. 정책, 서비스, 유형 또는 상태별로 필터링할 수 있습니다. 필터를 선택하면 검색 필드가 나타납니다.
+. 검색 기준을 입력합니다.
+. 필터를 더 추가하려면 * 필터 추가 * 를 클릭합니다.
+. 필터 적용 * 을 클릭합니다. 필터 결과가 표시됩니다.
+. 추가 작업 세부 정보를 보려면 작업을 클릭하여 보기를 확장합니다.
+
+
+
+
+== 활동 로그를 봅니다
+
+로그는 SaaS Backup for Microsoft 365 내에서 발생하는 모든 활동의 저장됩니다. 이 로그에는 작업을 수행한 사용자의 이름과 함께 수행된 각 작업의 날짜가 포함됩니다. 서비스 및 이벤트별로 활동 로그를 필터링할 수 있습니다. 예를 들어 Microsoft Exchange Online에 대해 발생한 모든 복원 작업을 확인해야 하는 경우 작업 로그를 필터링하여 해당 특정 결과를 볼 수 있습니다.
+
+.단계
+. 왼쪽 탐색 창에서 * Reporting * (보고 *)을 클릭합니다.
+. Activity Log(활동 로그) * 탭을 클릭합니다. 모든 SaaS Backup for Microsoft 365 활동 목록이 표시됩니다.
+. 결과를 필터링하려면 * Filter * 를 클릭합니다.
+. 선택 * 드롭다운 메뉴를 클릭하고 필터를 선택합니다. 서비스 또는 이벤트별로 필터링할 수 있습니다. 필터를 선택하면 검색 필드가 나타납니다.
+. 검색 기준을 입력합니다.
+. 필터를 더 추가하려면 * 필터 추가 * 를 클릭합니다.
+. 필터 적용 * 을 클릭합니다.
++
+필터 결과가 표시됩니다.
+
+

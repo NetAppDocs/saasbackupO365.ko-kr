@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: task_adding_a_license.html 
+keywords: netapp, saas backup, microsoft 365, add, adding, release, license 
+summary: 라이센스를 추가하거나 릴리즈할 수 있습니다. 
+---
+= 라이센스를 추가합니다
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+유료 구독에 대한 라이선스를 방금 받은 경우 다음을 따르십시오 <<concept_paid_subscription_workflow.adoc#workflow-for-etting-started-with-a-paid-subscription-toSaaS-Backup-for-Office-365,유료 구독 시작 워크플로>>. 워크플로의 일부로 라이센스 키를 입력합니다.
+
+SaaS Backup을 이미 사용 중인 경우 다음 단계를 따라 라이센스를 추가할 수 있습니다.
+
+교육 도메인은 교직원용 라이센스와 학생을 위한 별도의 라이선스를 가질 수 있습니다.
+
+.단계
+. 을 클릭합니다 image:services.gif["서비스 단추 스크린샷"] 왼쪽 탐색 창에서
+. 을 클릭합니다 image:bluecircle_icon.gif["파란색 더하기 기호 아이콘"] 오른쪽 모서리에 있습니다.
+. 라이센스 정보를 입력합니다.
+. 구독 유효성 확인 * 을 클릭합니다.
+. 다음 * 을 클릭합니다.
+. 저장 * 을 클릭합니다.
+

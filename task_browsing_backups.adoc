@@ -1,0 +1,41 @@
+---
+sidebar: sidebar 
+permalink: task_browsing_backups.html 
+keywords: netapp, saas backup, Microsoft, microsoft 365, protected, protected instances, backup, backed up items, backups, browse, browsing, OneDrive, SharePoint, Exchange, Microsoft 365 Groups, date range, days, items, user, users, group, groups 
+summary: 모든 Microsoft 365 서비스에서 백업을 찾아볼 수 있습니다. 
+---
+= 백업 찾아보기
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+최신 백업이나 Microsoft 365 Exchange, SharePoint, OneDrive for Business 및 Groups의 모든 백업에서 보호된 인스턴스를 찾아볼 수 있습니다.
+
+
+NOTE: 기본 탐색 설정은 * 마지막 5일 백업 * 을 표시하는 것입니다. 5일을 선택하면 지난 5일 동안 백업된 항목만 나타납니다. 필요에 따라 시간 범위를 변경할 수 있습니다.
+
+원하는 항목을 찾으려면 시간 범위 드롭다운 메뉴 왼쪽에 있는 날짜를 확인합니다.
+
+image:8_october_last_5_days_backup_highlight_date_&_count.png["이미지는 사용자 사서함의 찾아보기 날짜와 개수를 강조 표시합니다"]
+
+.단계
+. 대시보드 * 에서 백업을 찾을 서비스를 선택한 다음 보호된 인스턴스를 선택합니다.
++
+image:number_protected_unprotected_highlight_protected.gif["보호된 Exchange 인스턴스가 강조 표시됩니다"]
+
+. 검색할 계정을 선택합니다.
+. 검색할 백업 항목의 시간 범위를 선택합니다.
++
+image:date_range_browse_feature.gif["이미지 백업 탐색을 위한 시간 범위 옵션을 표시합니다"]
+
++
+
+NOTE: * 백업 기록 보기 * 에는 백업의 달력 보기가 표시됩니다. 백업 기록 보기 * 를 선택하고 현재 날짜 이전의 날짜를 선택하면 표시되는 백업의 시간 범위가 변경됩니다. 예를 들어 오늘은 10월 8일이고 달력 보기에서 10월 5일을 선택한 다음 10월 5일부터 마지막 5일을 탐색하도록 선택하면 10월 1-5일에서 10월 5일까지 검색할 수 있습니다.
+
+. 메일, 일정, 작업, 연락처, 파일, 목차 또는 기타.
+. 백업된 항목을 찾습니다.
+

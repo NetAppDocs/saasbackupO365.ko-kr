@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: task_performing_immediate_backup_of_policy.html 
+keywords: netapp, saas backup, microsoft 365, getting started, perform, performing, immediate, backup, backup policy 
+summary: SaaS Backup for Microsoft 365를 시작하려면 데이터 백업, 관련 정보 수집, Microsoft 365 서비스 계정 생성, 사용자 권한 할당에 사용할 스토리지 유형을 결정해야 합니다. 
+---
+= 특정 백업 정책의 즉각적인 백업을 수행합니다
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup for Microsoft 365를 설정하면 기본적으로 모든 데이터가 보호되지 않습니다. 데이터를 보호 계층으로 이동한 후에는 데이터를 이동한 계층에 대해 즉시 백업을 수행할 수 있습니다. 이렇게 하면 첫 번째 예약된 백업이 발생할 때까지 데이터가 위험에 노출되지 않도록 할 수 있습니다. 첫 번째 예약된 백업을 기다릴 수 있는 경우에는 즉시 백업을 수행할 필요가 없습니다.
+
+데이터 보호에 필요한 것으로 판단되는 경우 언제든지 즉시 백업을 수행할 수 있습니다. SaaS Backup for Microsoft 365의 평가판 버전을 실행 중인 경우 서비스당 매일 3번의 즉각적인 백업을 수행할 수 있습니다.
+
+.단계
+. 대시보드에서 즉시 백업을 수행할 서비스를 선택합니다.
+. 백업 정책 * 에서 백업할 계층을 클릭합니다.
+. 지금 백업 을 클릭합니다.
++
+image:backup_now.gif["SaaS Backup \"Backup Now\" 버튼 스크린샷"]
+
++
+선택한 계층의 서비스가 즉시 백업을 위해 작업 대기열에 배치됨을 나타내는 메시지가 표시됩니다.
+
+. 확인 * 을 클릭합니다. 백업 작업이 생성되었다는 메시지가 표시됩니다.
+. 백업 진행률을 모니터링하려면 * 작업 진행률 보기 * 를 클릭합니다.
+

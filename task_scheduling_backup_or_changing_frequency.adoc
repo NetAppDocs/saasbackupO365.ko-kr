@@ -1,0 +1,61 @@
+---
+sidebar: sidebar 
+permalink: task_scheduling_backup_or_changing_frequency.html 
+keywords: netapp, saas backup, microsoft 365, schedule, scheduling, backup policies, changing backup policies, canceling job, immediate backup, SharePoint Online templates, shared mailboxes, archive mailboxes, archive, archive, shared, mailboxes 
+summary: 동일한 프로세스에 따라 새 백업을 예약하거나 현재 백업 빈도로 변경합니다. 
+---
+= 백업 예약 또는 백업 빈도 변경
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+보호되지 않은 데이터를 백업 정책에 할당하여 백업할 수 있습니다. 보호되지 않은 데이터가 백업 정책에 할당되면 할당된 정책에 대해 예약된 다음 백업이 발생할 때까지 * pending * 상태로 이동하며, 그 후에는 * protected * 상태로 이동합니다. 보호 데이터의 백업 빈도를 변경하려면 데이터를 다른 백업 정책 계층에 할당할 수 있습니다.
+
+.단계
+. 대시보드에서 변경하려는 서비스 상자에서 * protected * 또는 * protected * 를 클릭합니다. 보호된 데이터의 백업 빈도를 변경하려면 * protected * (보호 *)를 클릭합니다. 새로 검색된 메일박스, 사이트 또는 MySites를 백업하려면 * 보호되지 않음 * 을 선택합니다.
++
+image:number_protected_unprotected.gif[""]
+
+. 백업 옵션을 선택합니다.
++
+.. Exchange의 경우
++
+*** 공유 사서함을 백업하는 경우(계층 3에만 해당) * 공유 * 탭을 클릭합니다.
+*** 아카이브 메일박스를 백업하는 경우(계층 3만 해당) * archive * 탭을 클릭합니다.
+*** 일반 사서함을 백업 또는 변경하는 경우 * user * 탭에 그대로 있습니다.
+
+
+.. SharePoint의 경우
++
+*** 사이트에 대한 백업 정책을 백업 또는 변경하는 경우 * sites * 탭에 그대로 유지됩니다.
+
+
+.. OneDrive의 경우
++
+*** 사용자의 백업 정책을 백업 또는 변경하는 경우 * user * 탭에 그대로 유지됩니다.
+
+
+.. Microsoft 365 그룹의 경우
++
+*** 그룹을 백업하는 경우(계층 3만 해당) * GROUPS * 탭에 그대로 둡니다.
+*** 팀을 백업하는 경우(계층 3만 해당) * Teams * 탭을 클릭합니다.
+
+
+
+
+. 백업할 항목을 선택합니다.
+. 그룹 * 메뉴를 클릭합니다.
++
+image:groups_menu.gif["그룹 메뉴"]
+
+. 백업에 대한 새 정책 계층을 선택합니다.
++
+
+NOTE: Microsoft 365 그룹 및 아카이브 사서함은 계층 3 정책으로만 이동할 수 있습니다.
+
+. 적용 * 을 클릭합니다.
+

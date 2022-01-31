@@ -1,0 +1,72 @@
+---
+sidebar: sidebar 
+permalink: reference_teams_data_locations.html 
+keywords: netapp, saas backup, microsoft 365, microsoft teams, groups, sharepoint, exchange, onedrive, teams data, teams data locations, locations, teams, email, channels, documents, channel, chat, private channel, individual user chat, group chats, files 
+summary: 표 참조에서는 SaaS Backup에서 팀 데이터를 찾을 수 있는 위치를 보여줍니다. 
+---
+= 팀 데이터 위치
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Microsoft 팀의 데이터는 SaaS Backup for Microsoft 365에 서로 다른 위치에 있습니다.
+
+이 표에서는 SaaS Backup에서 팀 데이터를 찾을 수 있는 위치를 보여 줍니다.
+
+[cols="12,64a"]
+|===
+| 팀 데이터 | SaaS Backup의 위치는 어디입니까? 
+
+
+| 팀 이메일  a| 
+Microsoft 365 Groups > Teams > SampleTeam > Mailbox 를 클릭합니다
+
+
+
+| 팀 채널  a| 
+Microsoft 365 Groups > Teams > SampleTeam > Channels 를 선택합니다
+
+
+
+| 팀 표준 채널 문서  a| 
+Microsoft 365 Groups > Teams > SampleTeam > SharePoint Site > Documents > SampleTeam - StdChannel 을 선택합니다
+
+
+
+| 팀 표준 채널 채팅  a| 
+* Microsoft 365 그룹 > 팀 > SampleTeam > 사서함 > 대화 > 팀 채팅 을 클릭합니다
+* Microsoft 365 그룹 > 팀 > SampleTeam > 사서함 > 메일 > 대화 내용 > 팀 채팅(실제 위치)
+
+
+
+
+| 팀 비공개 채널 문서  a| 
+SharePoint > SampleTeam – SampleTeam - PrivChannel > 문서 > SampleTeam - PrivChannel
+
+
+NOTE: 이름이 “<팀 이름 – 개인 채널 이름>”인 별도의 사이트 모음이 있습니다. 템플릿 ID:TEAMCHANNEL#0을 사용하여 이러한 사이트 모음을 필터링할 수 있습니다.
+
+
+
+| 팀 비공개 채널 채팅  a| 
+* Exchange > “개인 채널의 사용자” > 메일 > 대화 > 팀 채팅 을 선택합니다
+* Exchange > “개인 채널의 사용자” > 메일 > 대화 기록 > 팀 채팅(실제 위치)
+
+
+
+
+| 개별 사용자 채팅 및 그룹 채팅  a| 
+* Exchange > “사용자” > 메일 > 대화 > 팀 채팅 으로 이동합니다
+* Exchange > “사용자” > 메일 > 대화 내용 > 팀 채팅(실제 위치)
+
+
+
+
+| 개별 사용자 채팅 및 그룹 채팅에서 공유되는 파일  a| 
+OneDrive > “사용자” > 파일 > Microsoft 팀 채팅 파일
+
+|===

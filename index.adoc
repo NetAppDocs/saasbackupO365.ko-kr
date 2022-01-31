@@ -1,0 +1,41 @@
+---
+sidebar: sidebar 
+permalink: index.html 
+summary: NetApp SaaS Backup for Microsoft 365의 문서 포털에 오신 것을 환영합니다. 
+---
+= NetApp SaaS Backup for Microsoft 365 문서
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:keywords: ontap, cloud, amazon web services, saas backup, microsoft 365, microsoft office exchange, onedrive for business, sharepoint online, groups, teams, saas restore, documentation
+
+
+NetApp SaaS Backup은 Microsoft 365 데이터를 Amazon S3 스토리지 및 Microsoft Azure Blob 스토리지에 백업하는 안전한 웹 기반 SaaS(Software-as-a-Service) 오퍼링입니다.
+
+
+
+== 새로운 기능 알아보기
+
+* link:reference_new_saasbackupO365.html["SaaS Backup for Microsoft 365의 새로운 기능"]
+
+
+
+
+== 시작하십시오
+
+* link:concept_paid_subscription_workflow.html["유료 구독으로 시작하십시오"]
+* link:concept_free_trial_workflow.html["무료 평가판을 사용해 보십시오"]
+* link:task_upgrading_from_trial.html["무료 평가판에서 업그레이드하십시오"]
+
+
+
+
+== 피드백을 제공하거나, 도움을 받거나, 더 많은 정보를 찾을 수 있습니다
+
+* link:task_providing_feedback.html["피드백을 제공합니다"]
+* link:concept_get_help_find_info.html["도움을 받을 수 있는 곳 및 자세한 정보를 얻을 수 있는 곳"]
+* link:https://cloud.netapp.com/saas-backup["제품 페이지"]
+* link:https://www.netapp.com/pdf.html?item=/media/21210-SB-3831-1220-NetApp-SaaS-Backup.pdf["솔루션 개요"]
+

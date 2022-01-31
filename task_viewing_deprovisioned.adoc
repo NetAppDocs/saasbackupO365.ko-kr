@@ -1,0 +1,27 @@
+---
+sidebar: sidebar 
+permalink: task_viewing_deprovisioned.html 
+keywords: netapp, saas backup, microsoft 365, view, viewing, jobs, deprovisioned, deleted, accounts, mailboxes, sites, mysites 
+summary: 삭제된 사서함 또는 사용자 계정 목록을 볼 수 있습니다. 
+---
+= 프로비저닝 해제 항목 목록을 봅니다
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+프로비전되지 않은 사서함 또는 사용자 계정 목록을 볼 수 있습니다.
+
+.단계
+. 왼쪽 탐색 창에서 * services * 를 클릭합니다.
+. 원하는 서비스에서 보호되지 않는 항목의 수를 클릭합니다.
+. DEPROVISIONED * 탭을 클릭합니다.
+

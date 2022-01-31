@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: task_updating_admin_roles_assigned_to_user_accounts.html 
+keywords: netapp, saas backup, microsoft 365, role-based accounts, administrative roles, privileges, update, updating, changing 
+summary: 사용자의 관리 역할을 업데이트하면 사용자는 SaaS Backup for Microsoft 365에서 자동으로 로그아웃됩니다. 사용자가 다시 로그인하면 관리 역할 업데이트가 사용자 계정에 반영됩니다. 
+---
+= 사용자 계정에 할당된 관리 역할을 업데이트합니다
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+사용자의 관리 역할을 업데이트하면 사용자는 SaaS Backup for Microsoft 365에서 자동으로 로그아웃됩니다. 사용자가 다시 로그인하면 관리 역할 업데이트가 사용자 계정에 반영됩니다.
+
+.단계
+. 설정 아이콘을 클릭합니다 image:configure_icon.gif["구성 아이콘 스크린샷"] 화면 왼쪽 상단의 사용자 ID 옆에 있습니다.
+. 계정 설정 * 을 클릭합니다.
+. 역할 관리 * 를 클릭합니다.
+. 업데이트하려는 사용자 이름 옆에 있는 * 사용자 업데이트 * 를 클릭합니다.
+. 드롭다운 메뉴를 클릭하여 역할을 선택합니다. 사용자에게 하나 이상의 역할을 할당할 수 있습니다.
+. 확인 * 을 클릭합니다.
+

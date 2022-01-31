@@ -1,0 +1,56 @@
+---
+sidebar: sidebar 
+permalink: concept_backup_policies.html 
+keywords: netapp, saas backup, microsoft 365, backup, policies, byos, provides, storage, tiers, tier 1, tier 2, tier 3, frequency, default, data, retention, 
+summary: SaaS Backup for Microsoft 365에는 3가지 사전 정의된 백업 정책 계층이 있습니다. 이러한 정책 계층은 SaaS Backup에서 제공하는 스토리지 또는 BYOS를 사용하는지 여부에 따라 백업 빈도와 데이터 보존 기간에 따라 달라집니다. 
+---
+= 백업 정책
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup for Microsoft 365에는 3가지 사전 정의된 백업 정책 계층이 있습니다. 이러한 정책 계층은 SaaS Backup에서 제공하는 스토리지 또는 BYOS를 사용하는지 여부에 따라 백업 빈도와 데이터 보존 기간에 따라 달라집니다.
+
+세 정책 간에 데이터를 이동할 수는 있지만 새 정책을 생성하거나 사전 정의된 계층의 매개 변수를 변경할 수는 없습니다.
+
+
+
+== SaaS Backup 제공 스토리지에 대한 백업 정책
+
+|===
+| 백업 정책 | 백업 빈도 | 기본 데이터 보존 기간 
+
+
+| 계층 1 | 12시간마다 한 번 | 3년 
+
+
+| 계층 2 | 18시간마다 한 번 | 3년 
+
+
+| 계층 3 | 24시간마다 한 번 | 3년 
+|===
+
+NOTE: 관리자는 SaaS Backup 제공 스토리지의 데이터 보존 기간을 최대 무제한 변경할 수 있습니다. SaaS Backup은 구독이 활성 상태인 경우 보존 기간 동안 백업 데이터를 유지합니다.
+
+
+
+== BYOS에 대한 백업 정책
+
+BYOS는 기존 고객 전용입니다.
+
+|===
+| 백업 정책 | 백업 빈도 | 기본 데이터 보존 기간 
+
+
+| 계층 1 | 12시간마다 한 번 | 무제한 
+
+
+| 계층 2 | 18시간마다 한 번 | 무제한 
+
+
+| 계층 3 | 24시간마다 한 번 | 무제한 
+|===

@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: task_releasing_a_user_license.html 
+keywords: netapp, saas backup, release, releasing, reassigned, user, license, shared, regular, archive, mailbox 
+summary: 일반 또는 아카이브 사서함 사용자는 보호되거나 보호되지 않든 라이센스를 사용합니다. 특정 사용자에 대한 라이센스가 더 이상 필요하지 않은 경우 라이선스를 해제하여 재할당할 수 있습니다. 
+---
+= 사용자 라이센스를 해제합니다
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+일반 또는 아카이브 사서함 사용자는 보호되거나 보호되지 않든 라이센스를 사용합니다. 특정 사용자에 대한 라이센스가 더 이상 필요하지 않은 경우 라이선스를 해제하여 재할당할 수 있습니다. 사용자 라이센스가 해제되면 사용자는 보호되지 않는 계층으로 이동되고 해당 사용자의 백업은 중단됩니다.
+
+
+NOTE: 공유 사서함은 라이센스를 소비하지 않습니다.
+
+.단계
+. 을 클릭합니다 image:configure_icon.gif["구성 아이콘 스크린샷"] 왼쪽 상단 모서리에 있는 SaaS Backup 사용자 ID 옆에 있습니다.
+. 계정 설정 * 을 선택합니다.
+. 보존 및 비우기 * 를 클릭합니다.
+. 라이센스 릴리스 * 에서 라이센스를 릴리스할 사용자의 계정 이름을 입력합니다.
+. 계정이 발견되면 자동 입력된 목록에서 계정을 선택하고 을 클릭합니다 image:bluecircle_icon.gif["파란색 더하기 기호 아이콘"].
+. 필요한 경우 계정을 추가합니다.
+. 릴리스 * 를 클릭합니다.
+. Yes, please release license(s) * 를 클릭합니다.
+. 확인 * 을 클릭합니다.
+

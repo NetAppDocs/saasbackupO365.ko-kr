@@ -1,0 +1,1410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="1a6c0852bc4cf3c92e38de75f70af41c" category="summary">NetApp SaaS Backup for Microsoft 365 내에서 Azure Active Directory의 사용 권한을 관리할 수 있습니다.</block>
+  <block id="eafac00ae1f3bb3038f2dfec18a92f47" category="doc">Azure Active Directory와 사용자 권한을 동기화합니다</block>
+  <block id="90ad7a12c47aa1f3742250d3a05db8ce" category="paragraph">SaaS Backup for Microsoft 365 내에서 사용자 권한을 Azure Active Directory와 수동으로 동기화할 수 있습니다.</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">단계</block>
+  <block id="4caf2a417fda014d9642d15608a05642" category="inline-image-macro">서비스 단추 스크린샷</block>
+  <block id="83ad3239e67dfcbf95287a1e7ea84635" category="list-text">을 클릭합니다 <block ref="5dae113680257bfa8a9a9f41c78b194f" category="inline-image-macro-rx" type="image"></block> 왼쪽 탐색 창에서</block>
+  <block id="8e1f5330825bb765d62481c37ddd02aa" category="list-text">Microsoft 365 링크를 클릭합니다.</block>
+  <block id="92fdf17a32b5b5cb9be97afb8513883a" category="inline-image-macro">Microsoft 365 단추 스크린샷</block>
+  <block id="f9631d5c739c4c4b4fe570c209766ce1" category="paragraph"><block ref="f9631d5c739c4c4b4fe570c209766ce1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f539d7f1bdbf16c50af991895771bbf1" category="list-text">권한 재검색 * 을 클릭합니다.</block>
+  <block id="fbce842955659213032c20e4ddbbbf37" category="inline-image-macro">사용 권한 다시 검색 아이콘</block>
+  <block id="1587302f361278e6e8f58e4089765634" category="paragraph"><block ref="1587302f361278e6e8f58e4089765634" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1bb1174e1fd4bf448666d9f46f3d55e1" category="paragraph">서비스에 대한 사용 권한이 검색되면 서비스가 활성 옵션과 함께 표시됩니다.</block>
+  <block id="5a916052a81a1188c4b5c7a8c9b8f57c" category="summary">서비스를 비활성화하면 해당 서비스와 관련된 모든 일정이 제거되고 추가 백업이 수행되지 않습니다. 비활성화 전에 마지막으로 수행된 백업을 볼 수 있으며 복원을 수행할 수도 있습니다.</block>
+  <block id="77f613867eacec10936150d3772d27d8" category="doc">서비스를 비활성화합니다</block>
+  <block id="10fab75dabb94cc751cbc585c4033a73" category="paragraph">필요한 경우 하나 이상의 SaaS Backup for Microsoft 365 서비스를 비활성화할 수 있습니다. 서비스를 비활성화하면 해당 서비스와 관련된 모든 일정이 제거되고 추가 백업이 수행되지 않습니다. 비활성화 전에 마지막으로 수행된 백업을 볼 수 있으며 복원을 수행할 수도 있습니다.</block>
+  <block id="72fbcfb365b58ea3e04253c83ae7be8f" category="inline-image-macro">비활성화 단추의 스크린샷</block>
+  <block id="a934446538191824083af8a8ceeffd53" category="list-text">을 클릭합니다 <block ref="7a2df93b9d06827856a796e9d39efc33" category="inline-image-macro-rx" type="image"></block> 비활성화할 서비스 옆에 있습니다.</block>
+  <block id="8183c9dbb2354fb933c18a1e36501526" category="list-text">확인 * 을 클릭합니다.</block>
+  <block id="1bdac635ce4139030bb822472e615a6d" category="summary">SaaS Backup for Microsoft 365의 무료 평가판을 신청하려면 인증 코드가 있어야 합니다.</block>
+  <block id="22e2acbc5d542c00c7ad5d2693661006" category="doc">무료 평가판 활성화 코드를 등록하십시오</block>
+  <block id="33802f42e0a28dafca8f766c0830bd74" category="paragraph">SaaS Backup for Microsoft 365의 무료 평가판을 신청하려면 인증 코드가 있어야 합니다. 채널 파트너 또는 영업 담당자가 활성화 코드를 제공했을 수 있습니다. 그렇지 않은 경우, 등록하려면 등록해야 합니다.</block>
+  <block id="6c92285fa6d3e827b198d120ea3ac674" category="inline-link">여기</block>
+  <block id="29e9455249b19d05b4fb1352b5c216da" category="list-text">을 클릭합니다<block ref="e8cec0ed878027a1aa2ac01b473adb49" category="inline-link-rx"></block> 를 방문하여 SaaS Backup for Microsoft 365 무료 평가판 URL로 이동하십시오.</block>
+  <block id="a189a1df7360b047444647d114f49f87" category="list-text">요청된 등록 정보를 입력하고 * Submit * 을 클릭합니다. 무료 평가판 활성화 코드가 포함된 이메일을 받게 됩니다.</block>
+  <block id="6295a9cc66be5476ec7f7b659b57ee9f" category="summary">즉시 백업 또는 즉시 복구를 시작했지만 이 작업이 완료되기 전에 취소해야 하는 경우 즉시 백업을 수행할 수 있습니다.</block>
+  <block id="24391a0c4e58147fa07febdb32887a1a" category="doc">작업을 취소합니다</block>
+  <block id="95b7f4d6a198fdf63d26ec910aefe409" category="inline-image-macro">작업 단추 스크린샷</block>
+  <block id="c4847d7d96f65dca923f79caeb317cfd" category="list-text">을 클릭합니다 <block ref="57896efc0de0d48cea535446c297cd85" category="inline-image-macro-rx" type="image"></block> 왼쪽 탐색 창에서</block>
+  <block id="e103be6f64222dbfd978e48abb80646b" category="list-text">최근 실행 작업 * 에서 취소할 작업을 클릭합니다.</block>
+  <block id="14746ab9705143711849289cd0368e51" category="list-text">취소 * 를 클릭합니다. 취소된 작업의 진행률이 * 최근 완료된 작업 * 에 표시됩니다.</block>
+  <block id="0292df1cde394a7f4bcde7c13f731961" category="summary">NetApp SaaS Backup for Microsoft 365 내에서 서비스 계정을 관리하고, 새로 추가된 계정을 검색하고, 계정 알림을 설정할 수 있습니다.</block>
+  <block id="894de4021ad5b4bf29b15a5a24d5c77b" category="doc">새 사서함, 사이트 및 그룹을 검색합니다</block>
+  <block id="c3610f7768b54458847dbaecb3245abb" category="paragraph">SaaS Backup에서 검색할 새 편지함(공유 및 아카이브 메일박스 포함), 사이트, 그룹, 팀을 SaaS Backup과 Microsoft 365 계정 간에 동기화해야 합니다. 기본적으로 동기화는 24시간마다 자동으로 수행됩니다. 하지만 변경을 수행하고 다음 예약 * 자동 동기화 * 전에 검색을 수행하려는 경우 즉시 동기화를 시작할 수 있습니다.</block>
+  <block id="4aac6497c390aec3dde95c25051ad5f5" category="list-text">Microsoft 365 설정 아이콘을 클릭합니다.<block ref="f9631d5c739c4c4b4fe570c209766ce1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-image-macro"></block>
+  <block id="5711630f8e077835bf99b1b02452977e" category="list-text">동기화할 서비스 옆의 * 지금 동기화 * 를 클릭합니다.<block ref="59f685d268d02e05adc0df25fd86ae38" category="inline-image-macro-rx" type="image"></block>새 사용자, 공유 메일박스 및 아카이브 메일박스가 검색되고 보호되지 않은 상태로 추가됩니다. 새로 검색한 사용자, 공유 사서함 또는 아카이브 사서함을 백업하려면 사용자의 백업 정책을 보호되지 않는 그룹에서 미리 정의된 계층 그룹 중 하나로 변경해야 합니다.</block>
+  <block id="ea615b65faf1869ba29efdd885fc56f2" category="list-text">진행 상황을 모니터링하려면 * 작업 진행 상황 보기 * 를 클릭합니다. 작업이 완료되면 최근 완료된 작업 * 에서 작업을 클릭하여 동기화 중에 추가 또는 제거된 사용자 수를 볼 수 있습니다. 사용자 계정 변경 사항은 다음과 같이 표시됩니다.</block>
+  <block id="96ecb6729f84a1f68f82827963f702fd" category="list-text">* 재발견 * 사용자는 변경되지 않은 사용자 계정의 수를 나타냅니다.</block>
+  <block id="1cef46db28ec90d117c3756df3841ce4" category="list-text">* Deactivated * 사용자는 삭제된 사용자 계정의 수를 나타냅니다.</block>
+  <block id="916871e5e73e2a939c1c862425f924ad" category="list-text">* 새로 추가된 * 사용자는 새 사용자 계정의 수를 나타냅니다.</block>
+  <block id="5b335e9f3b0633102d36e44b53625fd3" category="summary">백업 설정을 업데이트하여 다양한 백업 옵션을 제어할 수 있습니다. 사용 가능한 백업 설정은 서비스에 따라 다릅니다.</block>
+  <block id="85a86867d1d4ec61a552e99542bdde26" category="doc">백업 설정을 업데이트합니다</block>
+  <block id="6b09ab256ee91abfcbae14dc82d761dc" category="inline-xref">백업 설정</block>
+  <block id="dd391d5eb69f6ac3ad69cdea778bd111" category="paragraph">를 업데이트할 수 있습니다 <block ref="2e592cc5a678838965aee2c9a9ecd6e7" category="inline-xref-macro-rx"></block> 다양한 백업 옵션을 제어합니다. 사용 가능 <block ref="2e592cc5a678838965aee2c9a9ecd6e7" category="inline-xref-macro-rx"></block> 서비스에 따라 다릅니다.</block>
+  <block id="573e26a27d5af2a3ee2613d71b6f3bd6" category="list-text">왼쪽 탐색 창에서 * 서비스 * 를 클릭합니다.</block>
+  <block id="5dae113680257bfa8a9a9f41c78b194f" category="paragraph"><block ref="5dae113680257bfa8a9a9f41c78b194f" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="33989930102951f2d357835c47ab758c" category="list-text">Microsoft 365를 클릭합니다.</block>
+  <block id="5ace6f088ad9ed4c2fc20561712be550" category="inline-image-macro">구성 아이콘 스크린샷</block>
+  <block id="f3a09c346a0939534943e1765af14ca8" category="list-text">서비스 관리 * 에서 백업 설정 아이콘을 클릭합니다 <block ref="92b2090f67667b3cc14920419b32a5f9" category="inline-image-macro-rx" type="image"></block> 업데이트해야 하는 서비스 옆에 있습니다. 선택한 서비스에 사용할 수 있는 백업 설정 목록이 표시됩니다.</block>
+  <block id="28cc97006f71a367003b706a5e09da20" category="list-text">원하는 백업 설정을 선택합니다.</block>
+  <block id="502181d06604b40a7bc5780586e1047a" category="summary">SaaS Backup for Microsoft 365를 설정하는 경우 기본적으로 데이터는 보호되지 않고 백업으로 예약되지 않습니다. 첫 번째 백업을 시작하려면 데이터를 보호된 계층으로 이동해야 합니다.</block>
+  <block id="6788d0448f06c02d615181227fd9b6cb" category="doc">첫 번째 백업을 예약합니다</block>
+  <block id="a305a1c21b0ea9da7bdc7fe8b3239ff0" category="paragraph">SaaS Backup for Microsoft 365를 설정하면 기본적으로 데이터가 보호되지 않습니다. 선택한 계층의 다음 예약 백업 중에 데이터가 백업되도록 보호되지 않는 계층에서 보호 계층 중 하나로 데이터를 이동해야 합니다.</block>
+  <block id="66481d00d93eff0b31dd17194ddbb356" category="list-text">대시보드에서 보호되지 않은 데이터가 포함된 서비스를 선택합니다.</block>
+  <block id="4fb44d8692ad90bf2755340b177db1a0" category="list-text">보호되지 않은 사서함 수, 내 사이트, 사이트 또는 그룹 옆에 있는 * 보기 * 를 클릭합니다.</block>
+  <block id="7342d5d8444ac1796811718e9e675a5b" category="list-text">보호할 항목을 선택합니다.</block>
+  <block id="067daba3186482a4c6545ccb72a9bd40" category="inline-image-macro">SaaS Backup Groups 메뉴 단추의 스크린샷</block>
+  <block id="d6cad9ed80ad838daeded80bb3ea67ef" category="list-text">그룹 * 메뉴를 클릭합니다.<block ref="2ec67b6713eb1983f587fe6d043d3b22" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f29af97513bb1a8e1b5d4a0b681250d4" category="inline-link-macro">백업 정책</block>
+  <block id="b406dcf2d30712d6e126b3826a5ca331" category="list-text">할당할 백업 정책의 * 계층 * 을 선택합니다. 을 참조하십시오 <block ref="00b2f8924defbf1ee2f308ef72378b6f" category="inline-link-macro-rx"></block> 백업 정책 계층에 대한 설명은 를 참조하십시오.</block>
+  <block id="400fae8e788b3721b9ac25fe01f04f50" category="list-text">적용 * 을 클릭합니다.</block>
+  <block id="7f25d4d65b1003453bc7e1329a9c178d" category="summary">라이선스가 있는 버전의 SaaS Backup for Microsoft 365로 업그레이드하지 않으면 무료 평가판 기간 동안 사용된 데이터가 삭제됩니다.</block>
+  <block id="4946cdf19ac5285412e4b530ede0f075" category="doc">무료 평가판 데이터 삭제</block>
+  <block id="a420949a90cbed96b9c03780a9cb9e9c" category="paragraph">SaaS Backup for Microsoft 365의 라이센스 버전으로 업그레이드하지 않으면 무료 평가판 기간 동안 사용된 데이터가 다음과 같이 삭제됩니다.</block>
+  <block id="20a399ea47f7779f35a917d5bfc35871" category="cell">SaaS Backup 무료 평가판을 다음과 같은 경우에 사용할 수 있습니다.</block>
+  <block id="e6180df64654cd45d8f372d6b33c4870" category="cell">시험 종료 후 경과한 일 수입니다</block>
+  <block id="eec1e6e91c656e3f608e6d1c55f15f99" category="cell">귀하의 데이터는...</block>
+  <block id="24fe48030f7d3097d5882535b04c3fa8" category="cell">만료됨</block>
+  <block id="951502ee7afce1344e61a10b86aaa1f9" category="cell">1-15일</block>
+  <block id="afd64a17a7c36e9153991fbe0eda0f76" category="cell">사용 가능: 관리자가 일반 액세스 권한을 가지고 수동 백업 및 복구를 수행할 수 있습니다. SaaS Backup은 경고를 계속 표시하고 알림을 보냅니다.</block>
+  <block id="b9f5c797ebbf55adccdd8539a65a0241" category="cell">사용 안 함</block>
+  <block id="d1c185ec36277c99c073ca28fa167601" category="cell">16-30일</block>
+  <block id="f9d9979b8e9789483bcdf131846b8078" category="cell">비활성화됨: 관리자가 SaaS Backup 포털에 액세스할 수 없습니다. 이 기간 동안 구독이 업데이트된 경우 데이터를 다시 활성화할 수 있습니다.</block>
+  <block id="04ae8e08c8997b56dd2db946fffa8577" category="cell">프로비저닝 해제됨</block>
+  <block id="fca24f68b0a283e4a4e35cde4dfa0a3a" category="cell">31일 이상</block>
+  <block id="f698dce7cb7262aee1c5f6bbe5519878" category="cell">삭제됨: 모든 데이터가 삭제되고 테넌트 계정이 제거됩니다.</block>
+  <block id="17a7f7612ee5c332c72c543bfc879c0a" category="summary">SaaS Backup for Microsoft 365에는 3가지 사전 정의된 백업 정책 계층이 있습니다. 이러한 정책 계층은 SaaS Backup에서 제공하는 스토리지 또는 BYOS를 사용하는지 여부에 따라 백업 빈도와 데이터 보존 기간에 따라 달라집니다.</block>
+  <block id="9f02509e5496e861df4c341dba05386e" category="doc">백업 정책</block>
+  <block id="a0f6625830185faf63102ac6f8475d06" category="paragraph">SaaS Backup for Microsoft 365에는 3가지 사전 정의된 백업 정책 계층이 있습니다. 이러한 정책 계층은 SaaS Backup에서 제공하는 스토리지 또는 BYOS를 사용하는지 여부에 따라 백업 빈도와 데이터 보존 기간에 따라 달라집니다.</block>
+  <block id="4dc87dc04732df6a76651e7d1f0cb0e7" category="paragraph">세 정책 간에 데이터를 이동할 수는 있지만 새 정책을 생성하거나 사전 정의된 계층의 매개 변수를 변경할 수는 없습니다.</block>
+  <block id="cce23dfd8a8429eb8a553d0789561b40" category="section-title">SaaS Backup 제공 스토리지에 대한 백업 정책</block>
+  <block id="7759a4720271a1ab3b4e6b1c36a67058" category="cell">백업 정책</block>
+  <block id="4e92547e997fe98c132fd1cfb873bc65" category="cell">백업 빈도</block>
+  <block id="fd597450368b610e3110c7036f852ae9" category="cell">기본 데이터 보존 기간</block>
+  <block id="538a4400e894e9e5dbff6dcd6e9d6e17" category="cell">계층 1</block>
+  <block id="82875668baf626071ef9cf3c751ec69c" category="cell">12시간마다 한 번</block>
+  <block id="89ee81dad12fa06ec6a5b8461129cdd0" category="cell">3년</block>
+  <block id="3e335d546de3fa7d51e6942ccc8339b7" category="cell">계층 2</block>
+  <block id="585a8bd659fa917cebfb861f91e2e30b" category="cell">18시간마다 한 번</block>
+  <block id="83ee9728e65dff5bbbf6297550157b9e" category="cell">계층 3</block>
+  <block id="81ab7d159caeeff3fad2829d4a3d72bd" category="cell">24시간마다 한 번</block>
+  <block id="ba2732ae170f2661137875b2933074e1" category="admonition">관리자는 SaaS Backup 제공 스토리지의 데이터 보존 기간을 최대 무제한 변경할 수 있습니다. SaaS Backup은 구독이 활성 상태인 경우 보존 기간 동안 백업 데이터를 유지합니다.</block>
+  <block id="98d7bf286c797b48801a0d31c2bae53c" category="section-title">BYOS에 대한 백업 정책</block>
+  <block id="c9830d418bce60d67ea2c8c1282b22c6" category="paragraph">BYOS는 기존 고객 전용입니다.</block>
+  <block id="545f6c2f382c04810103b3e5e6f7d841" category="cell">무제한</block>
+  <block id="7e1669d62449aae995a5fc99102a986d" category="summary">모든 Microsoft 365 서비스에서 백업을 찾아볼 수 있습니다.</block>
+  <block id="c6ca0e56ba9c9a94f317ed88374773e8" category="doc">백업 찾아보기</block>
+  <block id="4c56bf9d3c6d21d59223de5a3e265bb1" category="paragraph">최신 백업이나 Microsoft 365 Exchange, SharePoint, OneDrive for Business 및 Groups의 모든 백업에서 보호된 인스턴스를 찾아볼 수 있습니다.</block>
+  <block id="7d2cab41c99baa3618cdc771cf23af02" category="admonition">기본 탐색 설정은 * 마지막 5일 백업 * 을 표시하는 것입니다. 5일을 선택하면 지난 5일 동안 백업된 항목만 나타납니다. 필요에 따라 시간 범위를 변경할 수 있습니다.</block>
+  <block id="ec6ee776a34b4263e0b91b4316ec2a92" category="paragraph">원하는 항목을 찾으려면 시간 범위 드롭다운 메뉴 왼쪽에 있는 날짜를 확인합니다.</block>
+  <block id="bea52b10bad6f00b3d9bae4387b7e835" category="inline-image-macro">이미지는 사용자 사서함의 찾아보기 날짜와 개수를 강조 표시합니다</block>
+  <block id="d768fbd73db7045dd654f6b32fe93fcb" category="paragraph"><block ref="339933014d3c66941b820e9998bd8db4" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="635f0a4227ff67a5b82c42b163c68174" category="list-text">대시보드 * 에서 백업을 찾을 서비스를 선택한 다음 보호된 인스턴스를 선택합니다.</block>
+  <block id="75d78f140ab8606e9d99546e83d99040" category="inline-image-macro">보호된 Exchange 인스턴스가 강조 표시됩니다</block>
+  <block id="616d1695965f4372e9971e911fc2a832" category="paragraph"><block ref="616d1695965f4372e9971e911fc2a832" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9a68559b74ee8f6da44ceebabb49cb4a" category="list-text">검색할 계정을 선택합니다.</block>
+  <block id="f4c57093ba87ee0853ab59e05e17f6f8" category="list-text">검색할 백업 항목의 시간 범위를 선택합니다.</block>
+  <block id="ab1f19cdf5662bf18316f507c72e1a53" category="inline-image-macro">이미지 백업 탐색을 위한 시간 범위 옵션을 표시합니다</block>
+  <block id="595b5248464aaec131a614f73b852fb6" category="paragraph"><block ref="595b5248464aaec131a614f73b852fb6" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="4341deb83d2801685a02468740f1a8e0" category="admonition">* 백업 기록 보기 * 에는 백업의 달력 보기가 표시됩니다. 백업 기록 보기 * 를 선택하고 현재 날짜 이전의 날짜를 선택하면 표시되는 백업의 시간 범위가 변경됩니다. 예를 들어 오늘은 10월 8일이고 달력 보기에서 10월 5일을 선택한 다음 10월 5일부터 마지막 5일을 탐색하도록 선택하면 10월 1-5일에서 10월 5일까지 검색할 수 있습니다.</block>
+  <block id="298f7e405df9bd70d503f666655b7a2f" category="list-text">메일, 일정, 작업, 연락처, 파일, 목차 또는 기타.</block>
+  <block id="428d3946534ec712b3769c0d38b438df" category="list-text">백업된 항목을 찾습니다.</block>
+  <block id="1ec574257b8a9d0b57e964b4eba66ddf" category="summary">삭제된 사서함 또는 사용자 계정 목록을 볼 수 있습니다.</block>
+  <block id="90d150ad765ab3f96aae750d3759c8c2" category="doc">삭제된 데이터 목록을 봅니다</block>
+  <block id="6d997e84fe0c81277b98ea3c000c76ec" category="list-text">을 클릭합니다 <block ref="92b2090f67667b3cc14920419b32a5f9" category="inline-image-macro-rx" type="image"></block> 왼쪽 상단 모서리에 있는 SaaS Backup 사용자 ID 옆에 있습니다.</block>
+  <block id="ff0244144bc03606b2edcb1e3bcd4350" category="list-text">계정 설정 * 을 선택합니다.</block>
+  <block id="b4e9d8e1645ce21b7cb93c733b1a0a1c" category="list-text">보존 및 비우기 * 를 클릭합니다.</block>
+  <block id="e5c1d95016a1ed09953b597cad3e8d3a" category="list-text">데이터 삭제 * 에서 * 제거된 목록 표시 * 를 클릭합니다.</block>
+  <block id="d8091fc55883e9e6fecd0030e2b022a3" category="paragraph">비우기 예약된 항목 목록과 이미 삭제된 항목 목록을 볼 수 있습니다.</block>
+  <block id="e167007d1e03b72505e28867f91075ca" category="summary">사용자의 관리 역할을 업데이트하면 사용자는 SaaS Backup for Microsoft 365에서 자동으로 로그아웃됩니다. 사용자가 다시 로그인하면 관리 역할 업데이트가 사용자 계정에 반영됩니다.</block>
+  <block id="83913e953071b43e82d99b522663debf" category="doc">사용자 계정에 할당된 관리 역할을 업데이트합니다</block>
+  <block id="77e568ce24fa92de1ba7644fce6ab87a" category="list-text">설정 아이콘을 클릭합니다 <block ref="92b2090f67667b3cc14920419b32a5f9" category="inline-image-macro-rx" type="image"></block> 화면 왼쪽 상단의 사용자 ID 옆에 있습니다.</block>
+  <block id="fe31ae091ef6472576514f4b01733356" category="list-text">계정 설정 * 을 클릭합니다.</block>
+  <block id="b8f29be2600f101e351d72a11f05a114" category="list-text">역할 관리 * 를 클릭합니다.</block>
+  <block id="dda542577d68335a63e6b1756f5db314" category="list-text">업데이트하려는 사용자 이름 옆에 있는 * 사용자 업데이트 * 를 클릭합니다.</block>
+  <block id="5d267101ea44f1e416644b36ba62ae84" category="list-text">드롭다운 메뉴를 클릭하여 역할을 선택합니다. 사용자에게 하나 이상의 역할을 할당할 수 있습니다.</block>
+  <block id="279ee743f91b8d9d2e194a5cc60edf39" category="summary">새로운 서비스 활성화, 기존 서비스 비활성화, 데이터 삭제, 작업 취소 등 NetApp SaaS Backup 내에서 다양한 방법으로 서비스를 관리할 수 있습니다.</block>
+  <block id="acc4fa3808d7a71e25f10c6866cdfc8c" category="doc">사용자, 사이트 모음 또는 Microsoft 365 그룹을 제거합니다</block>
+  <block id="7d735cae736c4d6f5e334d312ae9db1f" category="paragraph">사용자, 사이트 모음 또는 Microsoft 365 그룹과 연결된 모든 데이터를 완전히 제거할 수 있습니다. 삭제된 데이터는 7일 동안 복구할 수 있습니다. 7일이 지나면 데이터가 영구적으로 삭제되고 사용자 라이센스가 자동으로 해제됩니다.</block>
+  <block id="1caa902112b42d538aa48a404aed49df" category="list-text">구성 아이콘을 클릭합니다 <block ref="92b2090f67667b3cc14920419b32a5f9" category="inline-image-macro-rx" type="image"></block> 왼쪽 상단 모서리에 있는 SaaS Backup 사용자 ID 옆에 있습니다.</block>
+  <block id="0ecc794c57963be54ab37fd5945b22c4" category="list-text">데이터 삭제 * 의 드롭다운 메뉴에서 * 서비스 유형 * (Exchange, OneDrive 또는 SharePoint)을 선택합니다.</block>
+  <block id="0b8916bcfec132a5710165dd6a4cdb67" category="list-text">제거할 사용자, 사이트 모음 또는 Microsoft 365 그룹을 검색합니다. Microsoft Exchange Online 또는 OneDrive for Business의 경우 사용자 또는 Microsoft 365 그룹 이름을 입력합니다. SharePoint Online의 경우 사이트 모음 이름을 입력합니다. +참고: 사용자에게 보관 사서함이 있는 경우 보관 사서함의 사용자 이름 앞에는 "현재 위치 보관" 접두사가 붙습니다.</block>
+  <block id="efc09c83ec7ff5984fef64634663f5dd" category="inline-image-macro">파란색 더하기 기호 아이콘</block>
+  <block id="675107b136168f3b1529cdd9e5203bf5" category="list-text">검색 결과가 반환되면 를 클릭합니다 <block ref="196c8e0673c96199553d3e57046ae92d" category="inline-image-macro-rx" type="image"></block> 사용자, 사이트 모음 또는 Microsoft 365 그룹을 선택합니다.</block>
+  <block id="4cc186df234138a57b2e8c5d8e5f7f8d" category="list-text">저장 * 을 클릭합니다.</block>
+  <block id="b49fdb326c966a3dd88a042831a9f144" category="list-text">예 * 를 클릭하여 데이터를 삭제할 것인지 확인합니다.</block>
+  <block id="0f638f48553fda495650e517cecc05b2" category="summary">보안 그룹을 필터링 옵션으로 사용하여 데이터를 보고 규칙을 만들 수 있습니다.</block>
+  <block id="2ffbe959edbe01c0c5cd56c90bc00d8d" category="doc">보안 그룹을 추가합니다</block>
+  <block id="0f9443e6e2ae0748eadaf4c71d113455" category="paragraph">최대 3개의 보안 그룹을 추가할 수 있습니다. 그런 다음 보안 그룹을 SaaS Backup의 필터링 옵션으로 사용할 수 있습니다.</block>
+  <block id="3293e39cea32d292601ae293cef7ecba" category="inline-link">관리 센터에서 보안 그룹을 생성, 편집 또는 삭제합니다</block>
+  <block id="72d7a07f71d29741a440a6ccd3420924" category="paragraph">새 보안 그룹을 추가하려면 먼저 자동 동기화 또는 수동 동기화를 통해 새 보안 그룹을 검색해야 합니다.<block ref="5773e7c53afca7373ca53d4316d577c4" category="inline-link-rx"></block>.</block>
+  <block id="1f4d9b0a992b8429cc71724e98b50255" category="list-text">보안 그룹 * 을 클릭합니다.</block>
+  <block id="c56e0bf3df88870012e054d6d8888966" category="list-text">검색 필드에 추가할 보안 그룹의 이름을 입력합니다.</block>
+  <block id="7dee7e783d13b6d5d415926ce0bfc306" category="list-text">추가 * 를 클릭합니다.</block>
+  <block id="67d991d78fa5108aec7ff0c45194bd85" category="summary">인라인 검색을 사용하여 특정 콘텐츠를 찾을 수 있습니다.</block>
+  <block id="eb988e6b170684f13ddc8f2e3974559a" category="doc">검색을 수행합니다</block>
+  <block id="094b46cd4e2b4226382c342909cf9e52" category="paragraph">SaaS Backup for Microsoft 365에서는 Exchange Online, SharePoint Online, OneDrive for Business, Groups, Teams 등의 모든 서비스에서 보호된 데이터를 검색할 수 있습니다.</block>
+  <block id="5f688eec1ef4e3c2115e695b24827ad7" category="paragraph">보호되지 않은 인스턴스를 검색할 수 있지만 이전 백업을 수행한 경우에만 검색 결과를 얻을 수 있습니다.</block>
+  <block id="af1b2fc00c7e4ebce76f4d940d1bd773" category="paragraph">검색 결과를 개선하려면 다음 기준을 사용하십시오.</block>
+  <block id="9e41845b5c9498bfe8fa9640fbeccd46" category="list-text">최소 3자</block>
+  <block id="eeae9bb2017810513006bd7a795dc65f" category="admonition">3자를 초과하여 입력한 경우 이전 검색 결과에 3자의 검색 결과가 그대로 남아 있을 수 있습니다.</block>
+  <block id="4e35c84e73e978bda99e5d5f6b941c2f" category="list-text">영숫자 입력</block>
+  <block id="437aed5f8f8175eba539e11090c8b0c7" category="list-text">단어, 단어 문자열 또는 숫자와 정확히 일치하는 작은따옴표를 사용합니다. 예: “2014 예산”.</block>
+  <block id="bbd49f27ba92316c70ba2e9b8fc6345a" category="paragraph">아래 단계에 따라 보호된 인스턴스를 검색합니다.</block>
+  <block id="56e326341f68e822099b6a8535a4f238" category="inline-image-macro">강조 표시된 보호된 인스턴스의 스크린샷</block>
+  <block id="2ba0e310fe10f8a26c5057dc775e3b05" category="list-text">대시보드에서 검색할 서비스의 * Protected * 위 번호를 클릭합니다.<block ref="82f97feb0c1bddd52cb537084c959fa9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a8540d7fee74b4b5a05a0881c5b538a4" category="inline-image-macro">Exchange Online의 검색 상자 스크린샷</block>
+  <block id="e6d5fff8340dc69b65c5c43bbcd8fbed" category="list-text">페이지 오른쪽 위 구석에 있는 검색 상자를 찾습니다.<block ref="c3eb94c75866bdedeb3b1ece01fd1980" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="74e6ffebeb598f9cd9033c5c21aeacda" category="inline-image-macro">Exchange Online의 검색 프롬프트가 있는 검색 상자 스크린샷</block>
+  <block id="e9a9c69257da19d643cb87bcf1964fcd" category="paragraph">그런 다음 검색 상자에 "이름" 또는 "이메일"과 같이 검색 상자에 표시되는 정보를 입력합니다.<block ref="b701e8f8364dd17510b0090d64acbfc5" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="43eb3506bc40d7b3a82bb8da9d2cd119" category="list-text">Microsoft Exchange Online의 이름 또는 전자 메일 주소로 검색합니다.</block>
+  <block id="5b9debdf902cfa8c74dd5df529514aef" category="list-text">이름, 전자 메일 또는 MySite에서 Microsoft OneDrive for Business를 검색합니다.</block>
+  <block id="bcd7dd7afbb3676752c896a0b6cc7ee2" category="list-text">Microsoft SharePoint Online의 사이트 이름 또는 URL을 기준으로 검색합니다.</block>
+  <block id="d3db335c991cacd28296a6f1b8ab1b35" category="list-text">Microsoft 365 그룹 및 팀의 그룹 이름 또는 팀 이름으로 검색합니다.</block>
+  <block id="03a94ff01c264119f35c19662738d4e1" category="list-text">검색 조건에 맞거나 일치하는 결과가 나타납니다.</block>
+  <block id="ab09f98053829f456f7fa3b9633f25a9" category="paragraph">또한 각 서비스 내에서 보다 세부적인 수준에서 검색을 수행할 수도 있습니다. 검색 상자 오른쪽에 드롭다운 메뉴가 표시되면 드롭다운 메뉴에서 * 파일 * 또는 * 폴더 * 를 선택하여 검색 결과를 좁힙니다.</block>
+  <block id="64c73441167566d1b1f8513d0691175f" category="inline-image-macro">파일/폴더 드롭다운 메뉴가 있는 검색 상자</block>
+  <block id="6b76b82fa67dc740baacd3e8bbe8b1b1" category="paragraph"><block ref="40cd171e8c50f14eb30cb1efa19c6399" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="7de26495523771d8cefe28297f0f8359" category="summary">동일한 절차에 따라 Microsoft Exchange Online, Microsoft OneDrive for Business, Microsoft SharePoint Online 사이트, Microsoft 365 그룹의 사서함에 대해 높은 수준의 복원을 수행합니다.</block>
+  <block id="ec35161e4b60f2239e64a0e4d77c6f33" category="doc">높은 수준의 서비스 복원을 수행합니다</block>
+  <block id="307507606358033c7b7356d64b288c58" category="paragraph">기본적으로 가장 최근의 백업만 복구에 사용할 수 있습니다. 기타 사용 가능한 옵션은 다음과 같습니다.</block>
+  <block id="3afa9ce911c7556e33f1481ed3f9f806" category="inline-image-macro">복구에 사용할 수 있는 백업입니다</block>
+  <block id="cc16850ab63d07d2c68712085f701c8e" category="paragraph"><block ref="cc16850ab63d07d2c68712085f701c8e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d1e3fe66f5e62b80b26fb1bd320ed958" category="list-text">대시보드에서 복원을 수행할 서비스 상자에서 * protected * (보호됨 *) 위의 번호를 클릭합니다.</block>
+  <block id="256a7248dea88eb85865095b79ee3ad7" category="list-text">복원할 사서함, 그룹, 팀, 내 사이트 또는 사이트의 이름을 선택합니다.</block>
+  <block id="d1b0c7294d4efa4e343862f44dd254db" category="list-text">복원 옵션을 선택합니다.</block>
+  <block id="6e5d4c3475dd8385b64b8f525196abc7" category="admonition">PST로 내보내기 복원 옵션을 선택하면 제공된 링크는 7일 동안 유효하며 사전 인증됩니다.</block>
+  <block id="b6281bd84352e832e3d5d6140be8d0ce" category="list-text">Microsoft Exchange Online*용 사서함을 복원하는 경우 다음 옵션 중 하나를 선택합니다.</block>
+  <block id="99c5fbd0a596474428d050af247f198c" category="list-text">같은 사서함으로 복원합니다</block>
+  <block id="e81d9c1953190b260c8a9cfe0119f2c7" category="list-text">PST로 내보내기 PST로 내보내면 내보내기가 완료될 때 PST 파일의 위치와 함께 알림 이메일이 전송됩니다.</block>
+  <block id="e8ef8ab221052018d9ae0bfa7639e29e" category="list-text">다른 사서함으로 복원 다른 사서함으로 복원하는 경우 검색 필드에 대상 사서함을 입력해야 합니다. 검색 필드에 대상 이메일 주소의 일부를 입력하여 일치하는 대상 사서함에 대한 자동 검색을 시작할 수 있습니다.</block>
+  <block id="6c83abef123f7b77996a25d7acf1ab27" category="list-text">Microsoft Office 365 그룹 * 에 대한 그룹을 복원하는 경우 다음 옵션 중 하나를 선택합니다.</block>
+  <block id="b0189b01c3d471d3a36db4ed52c834cc" category="list-text">같은 그룹으로 복원합니다</block>
+  <block id="3c4182507d21bd1049547ede229598e9" category="list-text">다른 그룹으로 복원합니다</block>
+  <block id="94801fa959a52acea62e5791f11b35c1" category="list-text">데이터 내보내기 내보내면 Microsoft Exchange 파일로 PST 파일이 만들어지고 Microsoft SharePoint 사이트로 .zip 파일이 만들어집니다. PST 파일의 위치와 인증된 URL이 포함된 알림 이메일이 .zip 파일 위치에 전송됩니다.</block>
+  <block id="b84f8c8fa604b6012a4485f9811d6fe5" category="list-text">Microsoft Office 365 그룹 * 에서 팀을 복원하는 경우 다음 옵션 중 하나를 선택합니다.</block>
+  <block id="cb8bd7ca133970cb92cb4fbd663152bf" category="list-text">같은 팀으로 복원합니다</block>
+  <block id="a32b48318dd9af27f9b7b137d2c91279" category="list-text">다른 팀으로 복원 Microsoft 365에서 팀이 삭제된 경우에 적합합니다. 이 복원 옵션을 사용하려면 새 팀을 만들어야 합니다. 최근에 MS 팀에서 새 팀을 만든 경우 서비스를 동기화하여 검색합니다. 왼쪽의 * 서비스 설정 * 으로 이동합니다. Office 365 * 를 클릭합니다. 서비스 관리 * 에서 Microsoft 365 그룹에 대해 * 지금 동기화 * 를 클릭합니다.</block>
+  <block id="6639873842164597156a9ec6e1810356" category="list-text">데이터 내보내기 데이터를 내보내려면 데이터를 다운로드해야 합니다. 왼쪽 메뉴에서 보고 로 이동합니다. 내보내기 데이터 작업을 찾습니다. 전체 폴더 * 를 클릭합니다. 그런 다음 * 데이터 다운로드 링크 내보내기 * 를 클릭합니다. zip 파일이 다운로드됩니다. zip 파일을 열어 데이터 압축을 풉니다.</block>
+  <block id="c59d3c8a70c476e7cea53ba2a594946d" category="list-text">Microsoft OneDrive for Business * 용 MySites를 복원하는 경우 다음 옵션 중 하나를 선택합니다.</block>
+  <block id="b44cb0a6ed7f30f99a01005eae6383ba" category="list-text">동일한 MySite로 복원합니다</block>
+  <block id="8788fa589e97f94c210bd16cab18836e" category="list-text">다른 내 사이트로 복원 다른 내 사이트로 복원하는 경우 검색 필드에 대상 내 사이트를 입력합니다. 검색 필드에 대상 내 사이트의 일부를 입력하여 일치하는 대상 내 사이트에 대한 자동 검색을 시작할 수 있습니다.</block>
+  <block id="bb461b1db3507546209683727d395be6" category="list-text">데이터 내보내기 내보내면 MySites로 .zip 파일이 생성됩니다. 인증된 URL이 포함된 알림 이메일을 .zip 파일 위치에 받게 됩니다.</block>
+  <block id="c541ae3faba8f2f099a68e75b093b2f2" category="list-text">Microsoft SharePoint Online*용 사이트를 복원하는 경우 다음 옵션 중 하나를 선택합니다.</block>
+  <block id="5277371788fdb6ca6d4579114903a0bb" category="inline-image-macro">이미지 복구 전용 역할 옵션이 선택된 복원 창을 표시합니다</block>
+  <block id="46a9fdb21eaadd7618e8b94de642fa8f" category="list-text">같은 사이트로 복원 * 역할만 복원 * 을 선택하면 역할 및 사용 권한 복원만 가능합니다.<block ref="850d5cf073f61478f71f91dd9da02f5b" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="cd51e6f54324fe9a0b45c44457a6f627" category="list-text">다른 사이트로 복원 다른 사이트로 복원하는 경우 검색 필드에 대상 사이트를 입력합니다. 검색 필드에 대상 사이트의 일부를 입력하여 일치하는 대상 사이트에 대한 자동 검색을 시작할 수 있습니다.</block>
+  <block id="741ca8fc0ec3acbfcb60a057541fddb1" category="list-text">데이터 내보내기 내보내는 경우 사이트 모음과 함께 .zip 파일이 만들어집니다. 인증된 URL이 포함된 알림 이메일을 .zip 파일 위치에 받게 됩니다.</block>
+  <block id="14c24beebb6f641dbbf0779363a7d3c3" category="list-text">확인 * 을 클릭합니다. 복원 작업이 생성되었음을 나타내는 메시지가 표시됩니다.</block>
+  <block id="db0a14d5142d27cd10a1a5a3853bad29" category="list-text">복원 진행률을 모니터링하려면 * 작업 진행률 보기 * 를 클릭합니다.</block>
+  <block id="9a1e3ad881f27238be3ba18022725f9d" category="summary">SaaS Backup for Microsoft 365를 시작하려면 데이터 백업, 관련 정보 수집, Microsoft 365 서비스 계정 생성, 사용자 권한 할당에 사용할 스토리지 유형을 결정해야 합니다.</block>
+  <block id="7e01d5441a2bbda36f29dd5a8d2561b7" category="doc">SaaS Backup for Microsoft 365의 무료 평가판을 신청하십시오</block>
+  <block id="14ed5b6705ccff3400fb356b735cde29" category="paragraph">Microsoft 365 서비스 계정 또는 NetApp SSO 계정을 사용하여 SaaS Backup for Microsoft 365에 등록할 수 있습니다.</block>
+  <block id="c84082e63d1052aedfca36e4dd31f521" category="section-title">Microsoft 365 서비스 계정으로 무료 평가판을 신청하십시오</block>
+  <block id="abdc55eb1eb7165f452a2b5dc6896999" category="list-text">웹 브라우저에 SaaS Backup for Microsoft 365 URL을 입력합니다.<block ref="69b8c2567294d7944fbc4c95e2c3c422" category="inline-link-rx"></block></block>
+  <block id="fb40144187e6d6dfbb31bfddd7c8be12" category="list-text">지역을 선택하십시오. 선택한 영역에 테넌시가 생성됩니다. 데이터가 해당 데이터 센터 위치에 저장되고 나중에 변경할 수 없습니다.</block>
+  <block id="40de166a0206734afd1816e330dbd1b2" category="list-text">랜딩 페이지 맨 아래에 있는 * 등록 * 을 클릭합니다.</block>
+  <block id="b4b5965e3fc7783871b3048639a6d6c9" category="list-text">최종 사용자 사용권 계약에 동의합니다.</block>
+  <block id="a02be68c938a23e55fe461a1a0c8662c" category="inline-image-macro">Microsoft 365 서비스 계정을 사용하여 SaaS Backup for Microsoft 365에 서명하는 단추 스크린샷</block>
+  <block id="5edf3bb233f5b626bb40322b8864a9ac" category="list-text">Office 365 * 로 가입 을 클릭합니다.<block ref="cc35a44d9fa5e810fca7e609591a6e96" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="cb7275d9b71e140a3f1a91d0c6cc0747" category="list-text">Microsoft 365 테스트 또는 평가판 계정의 전자 메일 주소와 암호를 입력한 다음 * 로그인 * 을 클릭합니다. SaaS Backup for Microsoft 365에서 요청한 권한 목록이 표시됩니다.</block>
+  <block id="e17905dd31e746ef069a3367c5d92d78" category="list-text">Accept * 를 클릭합니다.</block>
+  <block id="183a922f9c99c146568fa3a722e97f1b" category="list-text">요청된 사용자 정보를 입력합니다.</block>
+  <block id="d2b5110030426d97e52b774bb6d336c9" category="list-text">등록 * 을 클릭합니다. SaaS Backup for Microsoft 365에 제공된 사용자 이름과 권한 목록이 표시됩니다.</block>
+  <block id="76a97ed15ed26c4ed99f1e665c6b36d4" category="list-text">다음 * 을 클릭합니다. 사용 가능한 Microsoft 365 서비스 목록이 표시됩니다.</block>
+  <block id="6e974e95f07eabcddb56ad1c8b6eb5e0" category="list-text">활성화할 Microsoft 365 서비스를 선택합니다.</block>
+  <block id="5a378b18f7bf0c4cabc6c655cd2f535e" category="list-text">다음 * 을 클릭합니다.</block>
+  <block id="e2dfed3093092bbfc3bed3cf01111b0a" category="list-text">구독 유형에 대해 * 무료 평가판 * 을 선택합니다.</block>
+  <block id="e7a56e29d931a374c7958199f1bafb29" category="list-text">채널 파트너 또는 세일즈 담당자가 제공하거나 등록 이메일을 통해 얻은 무료 평가판 활성화 코드를 입력하십시오.</block>
+  <block id="278cd16c1d88b9f641463ff754912c75" category="list-text">백업 스토리지 옵션을 선택합니다.</block>
+  <block id="97a7519ee014df6eb0ea7572f558697f" category="list-text">SaaS Backup에서 제공하는 스토리지 * 를 클릭합니다.</block>
+  <block id="e11100ed191aa6f176c829759972cfce" category="list-text">스토리지 옵션을 선택합니다.</block>
+  <block id="59bd9482937af8863abf9e7f4229fc09" category="list-text">구성을 검토한 다음 * Save * 를 클릭합니다.</block>
+  <block id="808117ba1d01d824c38cce84a65e2cf0" category="section-title">NetApp SSO 계정으로 무료 평가판을 신청하십시오</block>
+  <block id="abbc26a9920ffcb14ff167578b11c9f7" category="list-text">랜딩 페이지 아래쪽에서 등록 을 클릭합니다.</block>
+  <block id="69dc20d3740095eb96943daf74d8b8d7" category="list-text">NetApp SSO * 로 등록 을 클릭합니다.</block>
+  <block id="69e152d69f8d4373acc95d74926b0a61" category="inline-image-macro">NetApp SSO 계정을 사용하여 SaaS Backup for Microsoft 365에 서명하기 위해 클릭된 단추 스크린샷</block>
+  <block id="481c2d7848531f12a7fd6f119c471514" category="paragraph"><block ref="481c2d7848531f12a7fd6f119c471514" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="64f5ed414a16fc87a18ea948b34ff272" category="list-text">NetApp SSO 및 암호를 입력하고 * login * 을 클릭합니다.</block>
+  <block id="cdf30a87c9430cc5bdc1044ad7e168e9" category="list-text">요청한 사용자 정보를 입력한 다음 * 등록 * 을 클릭합니다. 채널 파트너, 영업 담당자 또는 등록 이메일에서 받은 무료 평가판 활성화 코드가 필요합니다.</block>
+  <block id="5a1b89c43bddf65f7ea65f271cf25c5b" category="inline-image-macro">SaaS Backup for Microsoft 365 서비스 아이콘의 스크린샷</block>
+  <block id="d5d752284cf9b3813c6cb75800200063" category="list-text">를 클릭합니다 <block ref="033e893069dbe1c51622ec6c06fe3419" category="inline-image-macro-rx" type="image"></block> 아이콘을 클릭합니다.</block>
+  <block id="c63915f53f7e6e9c07670ed5a82f0e91" category="inline-image-macro">Microsoft 365 아이콘</block>
+  <block id="fedadd6f719e834650ca6c6945b6f6dd" category="list-text">를 클릭합니다 <block ref="b6f2e54c54e3104f5cb63e0dad75def5" category="inline-image-macro-rx" type="image"></block> 를 눌러 SaaS 서비스를 선택합니다.</block>
+  <block id="aabc107b1dfbec701236740754fb113b" category="list-text">Microsoft Office 365 계정 추가 * 를 클릭합니다.</block>
+  <block id="531c29ba69b5ebe332db5b68278c5add" category="list-text">구독 유형에 대해 * 무료 평가판 * 을 선택합니다. 채널 파트너 또는 세일즈 담당자가 제공하거나 마케팅 담당자로부터 받은 활성화 코드를 이메일을 통해 입력합니다.</block>
+  <block id="7537f96c2f035f3bf4023172c5e1b6f7" category="list-text">백업 스토리지 옵션을 선택합니다.</block>
+  <block id="1add4107c561215f87879f537c668438" category="summary">라이센스를 업데이트, 추가 또는 갱신할 수 있습니다.</block>
+  <block id="e3a160a7cd4bc5ae0702343e9e786d15" category="doc">구독 정보를 업데이트합니다</block>
+  <block id="24107a07a8c4f6a917374c7796d10911" category="paragraph">애드온 라이센스 또는 구독 확장을 구입한 후에는 SaaS Backup 내부에서 구독 정보를 업데이트할 수 있습니다.</block>
+  <block id="7901d194d9941dfce88276e12fdf81dc" category="admonition">보호되거나 보호되지 않는 일반 사용자 사서함은 라이센스를 사용합니다. 공유 사서함은 라이센스를 소비하지 않습니다.</block>
+  <block id="b7408664f2049ff408a7abe1385870ea" category="list-text">을 클릭합니다 <block ref="92b2090f67667b3cc14920419b32a5f9" category="inline-image-macro-rx" type="image"></block> 오른쪽 모서리에 있습니다.</block>
+  <block id="335667a29d4d16064c66f675b3f3c215" category="list-text">구독 정보 옆에 있는 * 업데이트 * 를 클릭합니다.</block>
+  <block id="b25e6aa4b8585ffe6e9c679b4b763d43" category="list-text">처음 등록할 때 사용한 것과 동일한 사용자 이름과 암호를 입력합니다.</block>
+  <block id="4b5d2dd70af718ebe67bfea5b43d8667" category="list-text">제출 * 을 클릭합니다.</block>
+  <block id="7a00bdb3c8899a6fb0c89a7109d2eb8c" category="summary">특정 조건에 맞는 결과만 표시하도록 사서함, 사이트 또는 내 사이트 보기를 필터링할 수 있습니다.</block>
+  <block id="7005be9dcb2babc11145593389a5d0f0" category="doc">사용자 정의 필터를 만듭니다</block>
+  <block id="c9c180a3b2075f7816538aca2648b910" category="paragraph">특정 조건에 맞는 결과만 표시하도록 사서함, 사이트 또는 내 사이트 보기를 필터링할 수 있습니다. 예를 들어 특정 국가 및 해당 국가 내의 특정 부서의 사서함만 볼 수 있도록 필터를 설정할 수 있습니다.</block>
+  <block id="28034b25c973b0f0714d803930b9d1c0" category="list-text">대시보드에서 필터를 생성하려는 서비스 상자에서 * protected * 또는 * protected * 위의 번호를 클릭합니다. 위의 보호 숫자는 백업 정책에 의해 현재 보호되는 메일박스, MySites 또는 그룹의 수를 나타냅니다. 위의 숫자는 백업 정책에 의해 보호되지 않는 메일박스, MySites 또는 그룹의 수를 나타냅니다.</block>
+  <block id="92255e0954cb3755ebcf92c8861747e3" category="paragraph"><block ref="92255e0954cb3755ebcf92c8861747e3" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8e6dd3fc1948fff834e92e1bc58be40a" category="list-text">필터 * 를 클릭합니다.</block>
+  <block id="0b3d1161a9d66ac7d27ab7303cb3ceea" category="inline-image-macro">필터 드롭다운 메뉴 단추의 스크린샷</block>
+  <block id="7c33a0a38bfd59300b422201e28ff4a9" category="paragraph"><block ref="7c33a0a38bfd59300b422201e28ff4a9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6edea1d492cb6a3d40ae21df59162f0f" category="list-text">선택 * 드롭다운 메뉴를 클릭하고 원하는 필터를 선택합니다.</block>
+  <block id="a849fd1d0fdddaecae55f9037e78fa8c" category="paragraph">Microsoft SharePoint Online의 경우 서식 파일 ID로 필터링할 수 있습니다. 템플릿 ID를 입력하여 검색하거나 드롭다운 메뉴에서 선택할 수 있습니다.</block>
+  <block id="c378d5c32d9451f0f16d5f6d635058db" category="paragraph">기타 모든 서비스의 경우 그룹, 국가, 사무실, 부서, 직함을 기준으로 필터링할 수 있습니다. 도메인 또는 국가 보안 그룹이 있는 경우 필터링 옵션으로 나열됩니다.</block>
+  <block id="9dda94868c140c7171350220db85e759" category="paragraph">두 번째 드롭다운 메뉴는 선택한 필터에 따라 선택 항목으로 채워집니다. 예를 들어 첫 번째 필터로 그룹 을 선택한 경우 백업 정책 그룹 계층 중 하나를 보조 필터로 선택할 수 있습니다.</block>
+  <block id="b28f7aa637e3d34ee636903075ce64f9" category="inline-image-macro">첫 번째 필터 옵션 집합의 스크린샷</block>
+  <block id="10a2f85b5901bedb02be8ec21e9774f4" category="paragraph"><block ref="10a2f85b5901bedb02be8ec21e9774f4" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="338d9231cd71aada2a49d87857d615e9" category="paragraph">검색 필드가 나타납니다.</block>
+  <block id="8850a628cbae3a8547c5a9cb68a13969" category="list-text">검색 기준을 입력합니다.</block>
+  <block id="4310668c648943854ce73d240f05e8cc" category="list-text">필터를 더 추가하려면 * 필터 추가 * 를 클릭하고 원하는 필터를 선택합니다.</block>
+  <block id="a46e7abdc6a472f6bd7866496cff5225" category="list-text">필터 적용 * 을 클릭합니다. 필터 결과가 표시됩니다.</block>
+  <block id="2366a80c7e9969775e6e87113d8bd6b9" category="summary">Microsoft Exchange Online에서 SaaS Backup을 사용하려는 경우 가장을 구성해야 합니다.</block>
+  <block id="49f65f305bd3302abd16a6ba325b65d3" category="doc">Microsoft Exchange Online에 대한 가장 구성</block>
+  <block id="6b8c83c9898d85caa045d0de469c77db" category="paragraph">Microsoft Exchange Online에서 SaaS Backup을 사용하려는 경우 가장을 구성해야 합니다. 가장을 사용하면 Microsoft 365 서비스 계정이 사용자 계정을 가장하고 연결된 권한에 액세스할 수 있습니다.</block>
+  <block id="0069bf8587752e66f58cc50f214117f4" category="section-title">가장을 자동으로 구성합니다</block>
+  <block id="b07e7a5409779d1bd7057ab63b67afbb" category="inline-link">MSDN PowerShell 명령</block>
+  <block id="1f777bbd5f4402e8fcf8a9acae76f986" category="paragraph">가장을 자동으로 구성하려면 를 실행합니다<block ref="1f915facb5399ad0dfe75907e9cfd076" category="inline-link-rx"></block>.</block>
+  <block id="e04acd1f9cba307748f5d9735f00eda2" category="section-title">가장을 수동으로 구성합니다</block>
+  <block id="ac67a804e01713d24a3b80b009ba740f" category="inline-link-macro">전역 권한이 있는 Microsoft 365 서비스 계정 만들기</block>
+  <block id="475081efa8c55d5207fd6ebf2c8211d0" category="paragraph">SaaS Backup에 추가된 Microsoft 365 서비스 계정뿐만 아니라 Microsoft 365 관리자 계정으로 가장을 수동으로 구성할 수 있습니다. Microsoft 365 서비스 계정에 대한 자세한 내용은 을 참조하십시오 <block ref="1ec45c32bd2c8bfc7bfdde982598c029" category="inline-link-macro-rx"></block></block>
+  <block id="d183af63e5075dca403caa74f094cfa3" category="paragraph">가장을 수동으로 구성하려면 다음을 수행합니다.</block>
+  <block id="afe1726d53042cd31bac4c0da81ad743" category="list-text">Microsoft 365 서비스 계정에 로그인합니다.</block>
+  <block id="63bf294804ca9de414a867bb9b26bc4c" category="list-text">Exchange * 탭을 선택합니다.</block>
+  <block id="48ddabdcbc3578e3c15ba84216de335f" category="list-text">왼쪽의 대시보드에서 * Permissions * 를 선택합니다.</block>
+  <block id="24af6d3288de00e11d451bfa51f65b8e" category="list-text">관리자 역할 * 을 클릭합니다.</block>
+  <block id="f6ff089a34ba3a9ca6157779670dc8ff" category="list-text">오른쪽 창을 두 번 클릭하여 * 검색 관리 * 를 선택합니다.</block>
+  <block id="bfb1e7d573c9eb6bc643431408176da6" category="list-text">역할 * 에서 * + * 기호를 클릭합니다.</block>
+  <block id="3caa63f7f910d62a644b5d3376872c13" category="inline-image-macro">Microsoft Exchange Online에 대한 가장을 구성할 때 쓰기 범위 창의 스크린 샷</block>
+  <block id="eb21eff2ec724134a8bb2117fadc526d" category="paragraph"><block ref="eb21eff2ec724134a8bb2117fadc526d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1ba2cb3fa2d6e2e30f0337bca64ecb58" category="list-text">드롭다운 메뉴에서 * ApplicationImpersonation * 을 선택합니다.</block>
+  <block id="a72cc47fad7d1846d19b085d2e77e5ba" category="list-text">확인 * 을 클릭합니다.</block>
+  <block id="e6615ebb2db3d5d089acfb86aca50296" category="list-text">ApplicationImpersonation * 이 * 역할 * 에 추가되었는지 확인합니다.</block>
+  <block id="0e8a3989d4ad94d273a0d1398b9b3eec" category="list-text">멤버 아래에서 * + * 기호를 클릭합니다.</block>
+  <block id="a0d3673f1eee1f2f61833d5c66bdbc24" category="inline-image-macro">Microsoft Exchange Online에 대한 가장을 구성할 때 구성원 창의 스크린 샷</block>
+  <block id="9ed4e8ed2266c74a2f1baf6a935a3c44" category="paragraph"><block ref="26d24b44fbf37fad7a1bc4f2bd668ad1" category="inline-image-macro-rx" type="image"></block>새 창이 나타납니다</block>
+  <block id="86b53e93fc72969f6072b06e701a35f2" category="list-text">사용자 이름을 선택합니다.</block>
+  <block id="ffe2341c7c5a0ffbc3bd02556159c301" category="list-text">사용자 이름이 * 구성원 * 섹션에 나타나는지 확인합니다.</block>
+  <block id="d65dba4c9f44a82f9170ce9c1703ba84" category="summary">데이터가 개별 계층, 메일박스, 사이트 및 MySites에 대해 7년, 10년 또는 제한 없이 유지되는 기간(년 수)을 업데이트할 수 있습니다.</block>
+  <block id="cc2145b869199d961affac79934fa41f" category="doc">백업 보존 기간을 업데이트합니다</block>
+  <block id="aa378916d99a534861b26ea544bc08f6" category="paragraph">데이터가 개별 계층, 메일박스, 사이트 및 MySites에 대해 7년, 10년 또는 제한 없이 유지되는 기간(년 수)을 업데이트할 수 있습니다. SaaS Backup은 구독이 활성 상태인 경우 보존 기간 동안 백업 데이터를 유지합니다. 모든 백업 계층의 보존 기간이 동일한 경우 글로벌 업데이트를 수행하여 모든 테넌트의 보존 기간을 동시에 변경할 수 있습니다.</block>
+  <block id="eeb31c7abe07cfdc76bcd1c687e732d4" category="section-title">특정 계층에 대한 백업 보존 기간을 업데이트합니다</block>
+  <block id="94216c0e12d42b92711e6a45ce7a548e" category="list-text">대시보드 * 에서 서비스를 클릭합니다.</block>
+  <block id="122f65a3bb5d40b11d5ade616e9d48d0" category="list-text">백업 정책 * 에서 변경할 계층에 대한 * 보존 기간 * 옆의 드롭다운 메뉴를 클릭합니다.</block>
+  <block id="6b2f3cd7301fe0eaa0b99174b00619b0" category="list-text">미리 정의된 목록에서 원하는 보존 기간을 선택합니다.</block>
+  <block id="ab3c12eae2f2744c9a522433f4048820" category="list-text">보존 기간 업데이트 * 를 클릭합니다.</block>
+  <block id="d2ace93f19f4073c24fb32ad8357d008" category="section-title">개별 사용자 및 테넌트에 대한 백업 보존 기간을 업데이트합니다</block>
+  <block id="4d2dc1fb517faf1351e40af5c798d589" category="inline-image-macro">구성 아이콘</block>
+  <block id="b0993439c0d1d476bdedee08ce113e13" category="list-text">구성 아이콘을 클릭합니다 <block ref="a0cde246171809ba886b58a232df6058" category="inline-image-macro-rx" type="image"></block> 왼쪽 상단 모서리에 있는 SaaS Backup 사용자 ID 옆에 있습니다.</block>
+  <block id="9aa8ad965addb3d3cc825b351a3df119" category="list-text">특정 서비스의 특정 사용자에 대한 데이터 보존 정책을 업데이트하려면 다음을 수행합니다.</block>
+  <block id="7ff52ec66b9e3b3ac7337e4a4e305288" category="list-text">데이터 보존 정책 * 에서 * 공급자 유형 * 옆에 있는 드롭다운 메뉴를 클릭하고 공급자를 선택합니다.</block>
+  <block id="c9b09cc6dace12ed615f10b3e6a49658" category="list-text">서비스 이름 * 옆에 있는 드롭다운 메뉴를 클릭하고 서비스를 선택합니다.</block>
+  <block id="b78a9a47996277ed35dace227b859f92" category="list-text">보존 기간 * 옆에 있는 드롭다운 메뉴를 클릭하고 미리 설정된 시간 목록에서 원하는 기간을 선택합니다.</block>
+  <block id="e4f96dd27a010c8a074859e18ebfb977" category="list-text">검색 상자에서 업데이트할 사용자, 사이트 또는 내 사이트를 입력합니다.</block>
+  <block id="7d77c1993f89af33538dcb88e63b34c4" category="list-text">일치하는 결과에서 원하는 사용자, 사이트 또는 내 사이트를 선택합니다.</block>
+  <block id="e7e82d0cce0ad14477543a890638d0c3" category="inline-image-macro">더하기 기호</block>
+  <block id="ea52a58fecf75231615caee9f1e6f259" category="list-text">을 클릭합니다 <block ref="42a150c31fed0254cf8d45981381ff10" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="f3b1437f7a4586fb2c5368d517a81d4e" category="list-text">필요에 따라 개별 사서함, 사이트 또는 MySites를 계속 검색하여 추가합니다.</block>
+  <block id="3045cba3aa54b3573198ca691aaf926c" category="list-text">저장 * 을 클릭합니다. 선택한 개별 메일박스, 사이트 또는 MySites가 선택한 보존 기간으로 업데이트됩니다.</block>
+  <block id="b21802cf7e001e25197367f5d583808b" category="list-text">테넌트 레벨에서 데이터 보존 정책을 업데이트하려면 다음을 수행합니다.</block>
+  <block id="a7d2551510b2cd7a138c453deff4b807" category="list-text">테넌트 레벨 데이터 보존 정책 * 에서 * 보존 기간 * 옆의 드롭다운 메뉴를 클릭하고 사전 설정 시간 목록에서 원하는 기간을 선택합니다.</block>
+  <block id="243f915df66d1cc2ec089205411db8ac" category="list-text">저장 * 을 클릭합니다. 모든 백업 정책 계층이 선택한 보존 기간으로 업데이트됩니다.</block>
+  <block id="f7e61cdf1c25fcf090b1f63ffcb62715" category="summary">삭제된 사서함 또는 사용자 계정 목록을 볼 수 있습니다.</block>
+  <block id="dbd42b173460f8ab5605c5aefd0802e1" category="doc">프로비저닝 해제 항목 목록을 봅니다</block>
+  <block id="c150a355a3b55bafa8eec832496358f4" category="paragraph">프로비전되지 않은 사서함 또는 사용자 계정 목록을 볼 수 있습니다.</block>
+  <block id="f26fcdd98806ea6214fcadf06f10cfd1" category="list-text">왼쪽 탐색 창에서 * services * 를 클릭합니다.</block>
+  <block id="221a9dc7613775b39236128c54864acf" category="list-text">원하는 서비스에서 보호되지 않는 항목의 수를 클릭합니다.</block>
+  <block id="b745fbebbf86b08986f5bfd2380aa485" category="list-text">DEPROVISIONED * 탭을 클릭합니다.</block>
+  <block id="5b20edb29e2e3b85bd65bb20e8c323a1" category="doc">SaaS Backup for Microsoft 365의 유료 구독에 등록하십시오</block>
+  <block id="a05d453722a996742fec3c2827e30a0c" category="section-title">Microsoft 365 서비스 계정으로 유료 구독을 신청합니다</block>
+  <block id="e58745e44ca10bde2b8501fcb6dd9ae2" category="list-text">Microsoft 365 전역 관리자 서비스 계정의 전자 메일 주소와 암호를 입력한 다음 * 로그인 * 을 클릭합니다. SaaS Backup for Microsoft 365에서 요청한 권한 목록이 표시됩니다.</block>
+  <block id="72a04102d99fa44df4341d63f3022cc4" category="list-text">NetApp을 통해 라이센스를 구입한 경우 구독 유형이 표시됩니다 <block ref="29d288af4a2f7810b289a90a6051b818" category="inline-link-macro-rx"></block> 추가 단계를 참조하십시오.</block>
+  <block id="d14a2834a29f6ebee06ab6889bd6bd74" category="list-text">AWS와 같은 클라우드 마켓플레이스를 통해 라이센스를 구입한 경우 라이센스 정보가 표시됩니다. 을 클릭합니다 <block ref="e00c2ebec443939398eec77b9bc8acde" category="inline-link-macro-rx"></block> 추가 단계를 참조하십시오.</block>
+  <block id="0bd302878f8040f5202a735159728ec6" category="section-title">NetApp SSO 계정을 사용하여 유료 구독을 신청하십시오</block>
+  <block id="5bd660b6b70cc7e9e5121ff01396dc31" category="paragraph">구독을 검증하려면 NetApp SSO 사용자 ID 및 암호가 있어야 합니다. NetApp SSO 계정이 없는 경우 로 이동하십시오<block ref="4b0df7f6652ef877e322a199d6b6edce" category="inline-link-rx"></block> 를 클릭하여 1에 등록하십시오. 요청이 처리되면 NetApp SSO 자격 증명이 포함된 이메일 알림을 받게 됩니다. 요청을 처리하고 알림 이메일을 보내는 데 약 24시간이 걸립니다.</block>
+  <block id="55d24cf7a906d1d4208622ed125d211e" category="paragraph">구독을 검증하려면 NetApp SSO 사용자 ID 및 암호가 있어야 합니다. NetApp SSO 계정이 없는 경우 로 이동하십시오<block ref="4b0df7f6652ef877e322a199d6b6edce" category="inline-link-rx"></block> 를 클릭하여 1에 등록하십시오. 요청이 처리되면 NetApp SSO 자격 증명이 포함된 이메일 알림을 받게 됩니다. 요청을 처리하고 알림 이메일을 보내는 데 약 24시간이 걸립니다.</block>
+  <block id="a2f89bcf524d24746643e4d9c04e36eb" category="list-text">NetApp SSO * 로 등록 을 클릭합니다.<block ref="481c2d7848531f12a7fd6f119c471514" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="997ef4b20be47717af102b5ceb6ffd21" category="list-text">요청한 사용자 정보를 입력한 다음 * 등록 * 을 클릭합니다.</block>
+  <block id="ceffebc2a3447f8be282a690098822bf" category="list-text">서비스 * 를 클릭합니다 <block ref="033e893069dbe1c51622ec6c06fe3419" category="inline-image-macro-rx" type="image"></block> 아이콘을 클릭합니다.</block>
+  <block id="8acf88a3c5c74293c66aebb6979800d6" category="list-text">Microsoft 365를 클릭합니다 <block ref="b6f2e54c54e3104f5cb63e0dad75def5" category="inline-image-macro-rx" type="image"></block> 아이콘을 클릭하여 SaaS 서비스를 선택합니다.</block>
+  <block id="371c9adbc919e00267a7f444ff27fba3" category="list-text">구독 유형으로 * Licensed * 를 선택합니다.</block>
+  <block id="fa61889ab07d18a56ff6c379d1def5c7" category="list-text">요청된 정보를 입력한 다음 구독을 확인합니다.</block>
+  <block id="88e4ec1e84b90b2fc6e010dc8df45a8c" category="list-text">Amazon S3 * 또는 * Azure Blob * 스토리지 옵션을 선택합니다.</block>
+  <block id="9b6bafc614e2d19704d12baf566961b8" category="list-text">백업할 * AWS S3 * 또는 * Azure Blob * 영역을 선택합니다. 백업하려는 데이터의 물리적 위치에 가장 가까운 영역을 선택해야 합니다.</block>
+  <block id="492be6e725acfbd42ed9196376a2af7a" category="summary">SaaS Backup for Microsoft 365는 새로운 기능, 개선 사항 및 버그 수정을 제공하는 새로운 릴리즈를 정기적으로 소개합니다.</block>
+  <block id="8b9765327e65c940b7ded1efe79355d8" category="doc">새 기능 및 업데이트 - 보관됨</block>
+  <block id="b635c64585c2707531086bb2986ca7d8" category="paragraph">다음은 SaaS Backup for Microsoft 365에 추가된 새로운 기능의 보관된 목록입니다.</block>
+  <block id="472471538784273d4b38b8713a92089d" category="section-title">2018년 12월</block>
+  <block id="ba21162ae5beff2da7316530160d9bdd" category="list-text">이제 AppDirect Marketplace 및 CANCOM Marketplace를 통해 SaaS Backup for Microsoft 365를 구입할 수 있습니다.</block>
+  <block id="0ba0e8d5409b2993f9ed1e11567be7c3" category="section-title">2018년 8월</block>
+  <block id="b8bd7e2bd47fda9c9390e35f8f996fe8" category="list-text">사용자 환경 및 효율성 개선을 위해 사용자 인터페이스가 새롭게 디자인되었습니다.</block>
+  <block id="e009ac7bdbcdbe785633995714a0b763" category="list-text">데이터 보존 정책을 업데이트하여 3년 동안 데이터를 보존할 수 있습니다.<block ref="b297b383a2043bacbe42de60d0495a39" category="inline-xref-macro-rx"></block></block>
+  <block id="9fe5b0e5e0c862102d23c193d848d031" category="section-title">2018년 5월</block>
+  <block id="04d25e22b323711ff2c7e0f65891416c" category="list-text">NetApp Cloud Control은 NetApp SaaS Backup for Microsoft 365로 이름이 바뀌었습니다.</block>
+  <block id="622447dc867aa23b63cae41916056ae1" category="list-text">이제 사용자, 사이트 모음 및 Microsoft 365 그룹을 제거하여 SaaS Backup for Microsoft 365에서 연결된 모든 데이터를 완전히 제거할 수 있습니다.<block ref="2c1b64681ee9fe134c90ce77d1ff786d" category="inline-xref-macro-rx"></block></block>
+  <block id="527708d8a25b28e30c9e6ce44e6acf3b" category="list-text">SaaS Backup은 이제 Microsoft 365 그룹의 공개 그룹과 프라이빗 그룹을 모두 검색합니다.</block>
+  <block id="87dddbc407376ab2a74d919deb8a64ec" category="section-title">2018년 4월</block>
+  <block id="70f4045b3a240f86dcb02664a9b1e73f" category="list-text">SaaS Backup for Microsoft 365는 이제 Microsoft Office Exchange Online용 공유 사서함을 지원합니다.</block>
+  <block id="4f77d86ba01ed01cc7689b609c3a0e0a" category="inline-xref">공유 사서함을 사용할 수 있는 권한을 부여합니다</block>
+  <block id="f9569ca41d9da19d9a56e76d830b4a8c" category="paragraph">공유 사서함은 자동으로 생성된 서비스 계정을 사용하여 검색됩니다. 이 업데이트 이전에 Microsoft Office Exchange Online에 대한 서비스를 활성화하지 않은 경우 Microsoft Office Exchange Online을 활성화하면 SaaS Backup에서 공유 사서함에 대한 자동 서비스 계정을 만듭니다. Microsoft Office Exchange Online에 대한 서비스가 이미 활성화되어 있는 경우 공유 사서함을 검색 및 백업할 수 있도록 SaaS Backup에 자동 서비스 계정을 만들 수 있는 권한을 부여해야 합니다. <block ref="49cc502480062aea72351d71aa6fc0eb" category="inline-xref-macro-rx"></block></block>
+  <block id="79af9c777e61eb876c82eaab6feb30c9" category="inline-xref">사용자 계정을 즉시 검색합니다</block>
+  <block id="bbc854c334afa202e4fa88ab19866f29" category="paragraph">자동 서비스 계정이 생성되면 사용자 계정의 다음 예약 동기화 중에 공유 사서함이 자동으로 검색됩니다. 공유 사서함을 즉시 검색할 수 있습니다 <block ref="2a2a1550088d658e9a3c4c85fc9ef095" category="inline-xref-macro-rx"></block>.</block>
+  <block id="74620215d33d2f9ad06a873cdf9e8acc" category="section-title">2018년 3월</block>
+  <block id="39d560867add9a63936eca53ed4cfa40" category="paragraph">무료 평가판의 활성화 코드를 입력하는 위치가 서비스 공급자 추가 마법사로 이동했습니다.</block>
+  <block id="bda1de5e5163ee7832b80b7535b38b1e" category="inline-image-macro">무료 평가판이 선택된 경우 구독 페이지에서 활성화 코드를 입력하는 위치를 보여 주는 스크린샷.</block>
+  <block id="ea0c837ea6662600de23d933b85b871a" category="paragraph"><block ref="ea0c837ea6662600de23d933b85b871a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="95798f037b7bacec7599a19423a6bb64" category="section-title">2018년 2월</block>
+  <block id="dd231ac29bcd790907ea07e095722043" category="list-text">이제 Microsoft SharePoint Online에서 템플릿 ID 기반의 필터링을 사용할 수 있습니다.<block ref="60c93e3eb02a5ebd9becaf0a6ec969cc" category="inline-xref-macro-rx"></block></block>
+  <block id="2b100896fd5ace4912e319bc7463b16e" category="inline-link-macro">로그를 다운로드합니다</block>
+  <block id="58a346df6bb63f8d5fb48a94c94519e3" category="list-text">이제 SaaS Backup for Microsoft 365 사용자 계정 활동 로그를 .csv 파일로 다운로드할 수 있습니다.<block ref="72d5ffc4d998a8df41a3d69f31aa4e91" category="inline-link-macro-rx"></block></block>
+  <block id="f03a974f6827372e7e32c705ac474e53" category="list-text">이제 SaaS Backup for Microsoft 365와 서비스 간에 사용자 계정, 사이트 및 그룹을 기본적으로 동기화할 수 있습니다.</block>
+  <block id="39f9a6c8eeeb26793705badba6b76362" category="inline-link-macro">백업 설정</block>
+  <block id="55a0cf1cf2bb1cfdcff0aad9cfde49d9" category="list-text">이제 백업 버전 기록을 기본적으로 포함할 수 있습니다. 기본 버전 수는 20입니다.<block ref="f2a3d5933a5e0372cc2c185633f396b8" category="inline-link-macro-rx"></block></block>
+  <block id="effdc6a5d743a9db1cd347a2ac8d6b80" category="section-title">2018년 1월</block>
+  <block id="d720d14f2d2d410fd9c3739a82251fc8" category="list-text">이제 활동 로그에 SaaS Backup for Microsoft 365 내에서 수행되는 각 작업과 연결된 사용자 ID의 이름이 표시됩니다.</block>
+  <block id="2dbd22cce387627a3ae78ddf49e08841" category="list-text">이제 SaaS Backup for Microsoft 365 내에서 사용자 권한을 Azure Active Directory와 수동으로 동기화할 수 있습니다.</block>
+  <block id="ce08e9f2fc9c85c17b6b832567419761" category="list-text">Microsoft Exchange Online에서는 이제 폴더 수준에서 복원을 위해 PST로 내보내기를 지원합니다.</block>
+  <block id="2c93879227a2e2e70ce85ae352f8f46c" category="section-title">2017년 11월</block>
+  <block id="3a8ca13b1dbd22749d799d6bc07392d4" category="list-text">SaaS Backup for Microsoft 365는 이제 SaaS Backup에서 제공하는 스토리지의 옵션으로 Azure Blob을 지원합니다.</block>
+  <block id="75bc60f2c6a36004500066ff7275c3f3" category="list-text">SaaS Backup for Microsoft 365는 이제 백업 및 복원을 위한 Microsoft 365 그룹을 지원합니다. Microsoft Exchange Online 또는 Microsoft SharePoint Online을 활성화해야 Microsoft 365 그룹을 활성화할 수 있습니다. Microsoft 365 그룹은 계층 3 백업 정책으로만 보호할 수 있습니다.</block>
+  <block id="fb94c7f8627886d1f63dc1c58ca7a99e" category="list-text">Microsoft Exchange Online에서는 이제 사서함 수준에서 복원을 위해 PST로 내보내기를 지원합니다.</block>
+  <block id="af77dfd404964d21108cf737bd810e11" category="section-title">2017년 10월</block>
+  <block id="69288124909bddfca867e68699b38eb1" category="inline-xref">새 규칙을 만듭니다</block>
+  <block id="524c45aec514e36f1f014df22714824e" category="list-text">사전 정의된 기준에 따라 사용자를 미리 선택된 백업 계층으로 자동으로 이동할 수 있는 규칙을 생성할 수 있습니다. Microsoft Exchange Online 및 Microsoft OneDrive for Business에 대한 규칙을 만들 수 있습니다. Microsoft SharePoint Online에 대한 규칙은 만들 수 없습니다.<block ref="ce9deed384e0076de61405537c2a5dbd" category="inline-xref-macro-rx"></block></block>
+  <block id="df86d903ec4b70625d686c38eb8daca1" category="doc">마켓플레이스를 통해 유료 구독으로 가입하세요</block>
+  <block id="f9c37692182ce74e92181f4147c3997b" category="paragraph">Marketplace를 통해 라이선스를 구입한 경우 라이선스 정보가 표시됩니다. 다음 단계에 따라 등록 프로세스를 완료합니다.</block>
+  <block id="7b6a8fe6d34ca4e7afc0b27bc3582ea0" category="list-text">스토리지 유형으로 * Amazon S3 * 또는 * Azure Blob * 를 선택합니다.</block>
+  <block id="f93b9215b4cf6cc65bd1c26057ee8382" category="list-text">백업할 스토리지 영역을 선택합니다. 백업하려는 데이터의 물리적 위치에 가장 가까운 영역을 선택해야 합니다. Preferred * (선호 *) 영역이 같은 것으로 표시됩니다.</block>
+  <block id="960807b3a38d77ca1916570b1732dda1" category="inline-link-macro">지원을 활성화합니다</block>
+  <block id="b1b8f50a4274cba58affa63d65dc6ee5" category="list-text">아직 수행하지 않았다면 <block ref="e13d8583c6001789a64d81c0b2f80cf7" category="inline-link-macro-rx"></block>.</block>
+  <block id="1db8c4c70a2709de9241c5154d3cf441" category="summary">기존 규칙이 더 이상 필요하지 않으면 삭제할 수 있습니다. 또한 규칙에 사용되는 보안 그룹을 삭제해야 하는 경우에는 보안 그룹을 제거하기 전에 보안 그룹을 사용하여 규칙을 삭제해야 합니다.</block>
+  <block id="fbf4587520308c39c7016ad6d101add1" category="doc">규칙을 삭제합니다</block>
+  <block id="bb735796521a9288c104ac4da6e8319b" category="list-text">대시보드에서 규칙을 생성할 서비스 상자에서 * 보호되지 않음 * 위의 번호를 클릭합니다.</block>
+  <block id="f757be9dd327b424b244847b06036431" category="list-text">규칙 * 을 클릭합니다. 기존 규칙이 표시됩니다.</block>
+  <block id="24a68a4fec97274fd49860d020d8639f" category="inline-image-macro">삭제 아이콘의 스크린샷</block>
+  <block id="a52b681fc51c6e59255655c291a68e13" category="list-text">을 클릭합니다 <block ref="70b6cf72f3806fee90a61a6d4710352a" category="inline-image-macro-rx" type="image"></block> 규칙을 삭제합니다. 규칙이 이전에 적용된 항목의 상태는 규칙이 삭제될 때 변경되지 않습니다.</block>
+  <block id="b9edeb03bae560ed54e9938540c9a244" category="summary">SaaS Backup 활동 및 작업 기록의 로그를 보거나 다운로드할 수 있습니다.</block>
+  <block id="71e10f307eb67cf11b3c8491ba81ada2" category="paragraph">SaaS Backup for Microsoft 365는 SaaS Backup에 작업 기록의 로그를 저장합니다. 작업 기록 및 완료된 작업 목록을 다운로드할 수 있습니다.</block>
+  <block id="f39d5e4a0ca51b5797a15d5a59800636" category="section-title">활동 로그를 다운로드합니다</block>
+  <block id="683a30dcf68da19fa7d752c8a646ea55" category="paragraph">로그는 SaaS Backup for Microsoft 365 내에서 발생하는 모든 활동의 저장됩니다. 이 로그에는 작업을 수행한 사용자의 이름과 함께 수행된 각 작업의 날짜가 포함됩니다. 활동 로그를 .csv 파일로 다운로드할 수 있습니다.</block>
+  <block id="f8c22c875f33cf292d73c2bd4b796b94" category="inline-image-macro">보고 단추의 스크린샷</block>
+  <block id="62dfcc416a909d0b514ad9498c15b330" category="list-text">을 클릭합니다 <block ref="4d37c5c06095f49489880486f6cecedf" category="inline-image-macro-rx" type="image"></block> 를 클릭합니다.</block>
+  <block id="a98816c0ba5cdc990c24c73fd169f615" category="list-text">Activity Log(활동 로그) * 탭을 클릭합니다. 모든 SaaS Backup for Microsoft 365 활동 목록이 표시됩니다.</block>
+  <block id="efbc204072818255ba9c14dc629ecef6" category="inline-image-macro">활동 로그 오른쪽 구석에 있는 다운로드 단추 스크린샷</block>
+  <block id="0451932b8f9f16771678dd8444b05db0" category="list-text">을 클릭합니다 <block ref="8285a9a440103314bcc682b074e144c6" category="inline-image-macro-rx" type="image"></block>. 활동 로그는 .csv 파일로 다운로드됩니다.</block>
+  <block id="a63c048cb125925e1dea8559a15a73d2" category="section-title">완료된 작업의 로그를 다운로드합니다</block>
+  <block id="206cafe50afeceb05656e65b5eeea3d1" category="paragraph">성공적으로 완료된 작업의 Excel 스프레드시트를 다운로드할 수 있습니다.</block>
+  <block id="dc2296bcbbf577d0c71c246ab0dc16ab" category="list-text">왼쪽 탐색 창에서 * Jobs * 를 클릭합니다.</block>
+  <block id="8e8a9acf98ec7d0411283da387bff609" category="list-text">다운로드하려는 최근에 완료된 작업을 클릭합니다.</block>
+  <block id="dc495b0a8dcf317d914282ad520f23df" category="list-text">성공적으로 완료된 작업 수 아래에서 * Successful * 을 클릭합니다.</block>
+  <block id="ca152ee44aaca7ea331cd6414faef3b6" category="inline-image-macro">완료된 작업의 스크린샷</block>
+  <block id="4f79d34e8a67f46e4d44fe71bfa9e224" category="paragraph"><block ref="4f79d34e8a67f46e4d44fe71bfa9e224" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="44a9afe6289f79f3f0b2cdf6f756c7d3" category="list-text">오른쪽 상단에서 * 다운로드 * 를 클릭합니다. 로그가 다운로드됩니다.</block>
+  <block id="ededc6ad5e601dceeeb3a254cbfcaf3a" category="summary">SaaS Backup for Microsoft 365를 사용하면 Microsoft Exchange Online 365에 대해 세밀한 레벨의 복원을 수행할 수 있습니다.</block>
+  <block id="be33608724ad271a268dffbc9ce48900" category="doc">Microsoft Exchange Online에 대해 세밀한 레벨의 복원을 수행합니다</block>
+  <block id="3b1b3661830c7552093c2673dc985a45" category="paragraph">Microsoft Exchange Online에서는 개별 전자 메일, 작업, 연락처, 일정 이벤트와 같은 단일 사용자의 세부 수준 항목을 복원할 수 있습니다. Microsoft 365 그룹 사서함의 세부 수준 항목을 복원할 수도 있습니다.</block>
+  <block id="7a8dc2e013d979e0d1428c667b1195e4" category="paragraph">이 표에는 Exchange Online의 세부 레벨 항목에 대해 지원되는 복구 옵션이 나와 있습니다.</block>
+  <block id="b739e39d2ac5533c519af082ff2d48e4" category="cell">항목의 유형입니다</block>
+  <block id="4181d3951004347da212263b10f49a5e" category="cell">다른 사서함으로 복원합니다</block>
+  <block id="83e5846f13d6165a910564d76985d2f2" category="cell">PST로 내보내기/HTML로 내보내기</block>
+  <block id="b6c2e9d14610275b24d114ad4e420765" category="cell">SaaS Backup에서 찾을 수 있는 위치</block>
+  <block id="7e2408f033322afc1501e88155ea97b5" category="paragraph">메일/작업/연락처 등</block>
+  <block id="93cba07454f06a4a960172bbd6e2a435" category="paragraph">예</block>
+  <block id="12bbb80e602c6804dcffd389d09794ba" category="paragraph">Exchange Online &gt; 사서함 - 사용자</block>
+  <block id="2ce2d7d52f6efd367945e8ff48b8e110" category="paragraph">단일/다중 사서함 폴더(받은 편지함, 보관 등)</block>
+  <block id="16f345c293087f19c380f130e732d040" category="paragraph">* 참고 *: 대화 기록을 제외합니다.</block>
+  <block id="4de55c0dee2da7f055099e41eb896a86" category="paragraph">Exchange Online &gt; 메일박스 - 사용자 &gt; &lt;사용자 이름&gt;</block>
+  <block id="72af896412e5a3498896e988caeb2667" category="paragraph">받은 편지함 아래의 폴더 수준</block>
+  <block id="a654073e92e52bc895410744d3ed19aa" category="paragraph">받은 편지함 아래의 하위 폴더 수준입니다</block>
+  <block id="bf62d0beb30daa6e7b0aeb55862816e0" category="paragraph">메일 폴더 아래의 대화 기록</block>
+  <block id="bafd7322c6e97d25b6299b5d6fe8920b" category="paragraph">아니요</block>
+  <block id="a7a7f9d318dc06cf789a581ea74dccd0" category="paragraph">단일/다중 항목 레벨 복구</block>
+  <block id="aff1add6fd6374350e3abe25824a4473" category="paragraph">"기존 컨텐츠 대체"에 대한 단일/다중 복원 항목</block>
+  <block id="f00f10dc480c1feeccffc63cd66d98d0" category="list-text">대시보드에서 Exchange 상자에서 * protected * 위의 번호를 클릭합니다.</block>
+  <block id="4cba3dae453d4a0fc72eb7583690a011" category="inline-image-macro">Exchange의 보호된 인스턴스 수 스크린샷</block>
+  <block id="e8ba24e9166367a3b0ff58de4dc6ae1f" category="paragraph"><block ref="e8ba24e9166367a3b0ff58de4dc6ae1f" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2846152c244d8e6fbbd8a0660b6e8361" category="list-text">복원 옵션을 선택합니다.</block>
+  <block id="6d9653c6364c67e9540ed73b28a04b91" category="list-text">공유 사서함의 경우 * shared * 탭을 클릭합니다.</block>
+  <block id="1fd2f891b92fd621f712d2acbe6fa2de" category="list-text">아카이브 메일박스의 경우 * archive * 탭을 클릭합니다.</block>
+  <block id="b812e74499674a89895b5dfe6e821710" category="list-text">일반 사서함의 경우 * user * 탭에 그대로 있습니다.</block>
+  <block id="ae8180380fe555e30cec3e9f3e02cc5d" category="list-text">세부적인 수준의 복원을 수행해야 하는 메일박스를 클릭합니다.</block>
+  <block id="ade948bcfdfdfeea29a4c666ba72ebd4" category="list-text">전체 Microsoft Office Exchange 범주를 복원하거나 범주 내의 특정 항목을 복원합니다. Microsoft 365 그룹 사서함의 경우 메일 범주 또는 일정 범주에서만 복원할 수 있습니다.</block>
+  <block id="30cdc5fd38d012a70637e34e6a985f56" category="list-text">복원할 범주(메일, 작업, 연락처 또는 기타)를 선택합니다.</block>
+  <block id="eaf3be256f5933b9ee353f265ad78f5d" category="admonition">범주 내의 단일 항목을 복원하려면 범주를 클릭한 다음 복원할 항목을 선택합니다.</block>
+  <block id="357a35aedd0c37deb3a881df778a9bb4" category="list-text">복원 * 을 클릭합니다.</block>
+  <block id="0e29911c075e29d2f52fcf8c94b9123e" category="list-text">복원 옵션을 선택합니다.</block>
+  <block id="7904dcb5b08feede0f977790487a3ba6" category="list-text">* 동일한 사서함으로 복원 *</block>
+  <block id="734c77efdf03a2aa22de3b849656d08b" category="paragraph">동일한 사서함으로 복원하는 경우 기본적으로 현재 날짜 및 타임스탬프가 있는 복원 폴더가 백업 복사본이 포함된 원래 콘텐츠 위치에 만들어집니다. 기존 내용 바꾸기 * 를 선택하면 현재 데이터가 백업으로 완전히 대체됩니다.</block>
+  <block id="d2e8213b2a4845cdbca4ccd8956414d2" category="paragraph">Microsoft 365 그룹의 경우 같은 사서함으로 복원하는 옵션만 있습니다. 기존 콘텐츠는 기본적으로 대체됩니다. Microsoft Exchange Online의 경우 동일한 사서함으로 복원하여 기존 콘텐츠를 바꾸거나 다른 사서함으로 복원할 수 있습니다.</block>
+  <block id="a343f842a7faecd99dc33f3823488bd3" category="list-text">* 다른 사서함으로 복원 *</block>
+  <block id="f59998acaf678573d3888529543a32fb" category="paragraph">다른 사서함으로 복원하는 경우 검색 필드에 대상 사서함을 입력해야 합니다. 검색 필드에 대상 이메일 주소의 일부를 입력하여 일치하는 대상 사서함에 대한 자동 검색을 시작할 수 있습니다.</block>
+  <block id="e7ec2eb55740bd6c5031005706b6b021" category="list-text">* PST로 내보내기 *</block>
+  <block id="950720958846f6a74f07c4bd65d20d8b" category="paragraph">모든 범주 하위 폴더를 포함하도록 선택할 수 있습니다.</block>
+  <block id="fb94e1eeb9c83823d4aa2e28278123ed" category="paragraph">PST로 내보내는 경우 내보내기가 완료되면 PST 파일의 위치가 포함된 알림 이메일이 전송됩니다.</block>
+  <block id="58b0cd28cb714d6567c53e5db8c0b3f6" category="admonition">Microsoft 365 그룹에서는 이 옵션을 사용할 수 없습니다.</block>
+  <block id="afbc2ecece46182264304a31e2b5da73" category="admonition">PST*로 내보내기 복원 옵션을 선택하면 제공된 링크는 7일 동안 유효하며 사전 인증됩니다.</block>
+  <block id="9a4ec68ff98c2d86c487beb46f9b4659" category="list-text">* 데이터로 내보내기 * (Microsoft 365 그룹에서만 사용 가능):</block>
+  <block id="4ce57defce9dac056d069386ab60e048" category="paragraph">내보내면 Microsoft 365 그룹 사서함용 zip 파일과 Microsoft 365 그룹 SharePoint 사이트용 zip 파일 두 개가 만들어집니다. PST 파일의 위치와 인증된 URL이 포함된 알림 이메일이 .zip 파일 위치에 전송됩니다.</block>
+  <block id="441c6e9fc22b169f47087797e47a4e78" category="admonition">Export to Data * restore 옵션을 선택하면 제공된 링크가 7일 동안 유효하며 사전 인증됩니다.</block>
+  <block id="6e1b2e76136fef4e065dc537ac7bec7d" category="paragraph">복원 작업이 생성되었음을 나타내는 메시지가 표시됩니다.</block>
+  <block id="013131a779f73f268793ce1212aee294" category="inline-link-macro">셀프 서비스 포털 정보</block>
+  <block id="38d0504911fa47808177f1d71c40e7e1" category="paragraph">셀프 서비스 포털을 사용하여 Microsoft Exchange Online의 항목을 복원하는 방법에 대한 자세한 내용은 을 참조하십시오 <block ref="8bd99ae3cbd2ccc3f81def50302f803d" category="inline-link-macro-rx"></block>.</block>
+  <block id="2257ec2d88aa324c25c4f721d53a8c78" category="summary">동일한 프로세스에 따라 새 백업을 예약하거나 현재 백업 빈도로 변경합니다.</block>
+  <block id="202a038c87bf3da785fcbfe19ba95272" category="doc">백업 예약 또는 백업 빈도 변경</block>
+  <block id="a1c60f51ed7e418b70cda3bb4a662731" category="paragraph">보호되지 않은 데이터를 백업 정책에 할당하여 백업할 수 있습니다. 보호되지 않은 데이터가 백업 정책에 할당되면 할당된 정책에 대해 예약된 다음 백업이 발생할 때까지 * pending * 상태로 이동하며, 그 후에는 * protected * 상태로 이동합니다. 보호 데이터의 백업 빈도를 변경하려면 데이터를 다른 백업 정책 계층에 할당할 수 있습니다.</block>
+  <block id="a043c3ec37e07006b14643337d48a425" category="list-text">대시보드에서 변경하려는 서비스 상자에서 * protected * 또는 * protected * 를 클릭합니다. 보호된 데이터의 백업 빈도를 변경하려면 * protected * (보호 *)를 클릭합니다. 새로 검색된 메일박스, 사이트 또는 MySites를 백업하려면 * 보호되지 않음 * 을 선택합니다.</block>
+  <block id="4e82159031a5fc630bf52fdbfa795707" category="list-text">백업 옵션을 선택합니다.</block>
+  <block id="b15aa55ba640a8717ab1053a5b2ee9f0" category="list-text">Exchange의 경우</block>
+  <block id="7c68d4f818524784284de73d6124d3ee" category="list-text">공유 사서함을 백업하는 경우(계층 3에만 해당) * 공유 * 탭을 클릭합니다.</block>
+  <block id="1412a143e1908c0c7c9114141da909b4" category="list-text">아카이브 메일박스를 백업하는 경우(계층 3만 해당) * archive * 탭을 클릭합니다.</block>
+  <block id="4ecc57a804f175be06e864d736776d83" category="list-text">일반 사서함을 백업 또는 변경하는 경우 * user * 탭에 그대로 있습니다.</block>
+  <block id="ff8dd1a8e0240d8749fae66a40a2f2e4" category="list-text">SharePoint의 경우</block>
+  <block id="66358f64d601a77b0268c01eb1e1dd20" category="list-text">사이트에 대한 백업 정책을 백업 또는 변경하는 경우 * sites * 탭에 그대로 유지됩니다.</block>
+  <block id="0fbd435aba96ad4d0b8868f78fa8b98d" category="list-text">OneDrive의 경우</block>
+  <block id="93f22bb6f6c043a37e29cd8a2109d485" category="list-text">사용자의 백업 정책을 백업 또는 변경하는 경우 * user * 탭에 그대로 유지됩니다.</block>
+  <block id="c4487144aa046c3b680dff2075fa156c" category="list-text">Microsoft 365 그룹의 경우</block>
+  <block id="1062e4eb1710f6cabd7a75b7bd70e965" category="list-text">그룹을 백업하는 경우(계층 3만 해당) * GROUPS * 탭에 그대로 둡니다.</block>
+  <block id="24caf527c3616baf8e14302fbea43640" category="list-text">팀을 백업하는 경우(계층 3만 해당) * Teams * 탭을 클릭합니다.</block>
+  <block id="d0a03227b3184cd856b9c3246fd0e17e" category="list-text">백업할 항목을 선택합니다.</block>
+  <block id="1509cad10bd83c747a9665a29fc4dce3" category="list-text">그룹 * 메뉴를 클릭합니다.</block>
+  <block id="ca445dcd8a1ce2238f083a63ad834499" category="inline-image-macro">그룹 메뉴</block>
+  <block id="51f3dae0617bf3c1d6681f1bd2c7b10e" category="paragraph"><block ref="51f3dae0617bf3c1d6681f1bd2c7b10e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f9d28971c1528e28621b9e2161e06bb7" category="list-text">백업에 대한 새 정책 계층을 선택합니다.</block>
+  <block id="f1bf47ce5a8983718fcf0146da4072ed" category="admonition">Microsoft 365 그룹 및 아카이브 사서함은 계층 3 정책으로만 이동할 수 있습니다.</block>
+  <block id="da19b7c2e291b2b5c0f2a8511e2d737a" category="summary">더 나은 서비스를 제공할 수 있도록 피드백을 제공합니다.</block>
+  <block id="1ae8a55f317d3b2570e79a0b4a668040" category="doc">피드백을 제공합니다</block>
+  <block id="af22736009e4717f895610ea5e484db8" category="paragraph">NetApp SaaS Backup for Microsoft 365 제품에 대한 고객님의 의견은 더 나은 서비스를 제공하는 데 도움이 됩니다. 내부 SaaS Backup for Microsoft 365에서 피드백을 제공할 수 있습니다.</block>
+  <block id="b94bf479616c645e1d92893ad9ee316d" category="list-text">을 클릭합니다 <block ref="745b42c40461b85675b54d346e429160" category="inline-image-macro-rx" type="image"></block> 왼쪽 창 탐색</block>
+  <block id="1c841320f46ae6c1639dc5e080e3fbf3" category="list-text">피드백 * 을 선택합니다.</block>
+  <block id="63b9a8e49a30f185f4f2d726a08afb6d" category="list-text">간단한 피드백 설문조사를 완료합니다.</block>
+  <block id="6be364524b60c8ce2362d8a248ae8458" category="paragraph">운영 수준의 문서가 릴리즈되거나 기존 운영 수준 문서가 변경될 때 자동으로 알림을 받으려면 Twitter 계정 @NetAppDoc를 팔로우하십시오.</block>
+  <block id="471dec26ded6b7c1186f46ab9997db3c" category="summary">NetApp SaaS Backup for Microsoft 365의 문서 포털에 오신 것을 환영합니다.</block>
+  <block id="d6caea3522b7366df1ef706e69eb7090" category="doc">NetApp SaaS Backup for Microsoft 365 문서</block>
+  <block id="4b90c0fa551e1b95c98ebe0691603d94" category="paragraph">NetApp SaaS Backup은 Microsoft 365 데이터를 Amazon S3 스토리지 및 Microsoft Azure Blob 스토리지에 백업하는 안전한 웹 기반 SaaS(Software-as-a-Service) 오퍼링입니다.</block>
+  <block id="1fde0727b387439572ade83eecff4f68" category="section-title">새로운 기능 알아보기</block>
+  <block id="145265181362aad8bded8926b3022016" category="inline-link-macro">SaaS Backup for Microsoft 365의 새로운 기능</block>
+  <block id="b245589f19640f4ed31a299de4011e33" category="list-text"><block ref="b245589f19640f4ed31a299de4011e33" category="inline-link-macro-rx"></block></block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="section-title">시작하십시오</block>
+  <block id="cf9b65815de15d6e0a7614ea04503b18" category="inline-link-macro">유료 구독으로 시작하십시오</block>
+  <block id="66a8e9a920b348a656e5d56c7551b93b" category="list-text"><block ref="66a8e9a920b348a656e5d56c7551b93b" category="inline-link-macro-rx"></block></block>
+  <block id="42898530241af400fda5327fc771fbaf" category="inline-link-macro">무료 평가판을 사용해 보십시오</block>
+  <block id="fa56f3ca29655445c50fe3d7bcce728a" category="list-text"><block ref="fa56f3ca29655445c50fe3d7bcce728a" category="inline-link-macro-rx"></block></block>
+  <block id="6be7a975dc6dadc5a8f294312c3b83d9" category="inline-link-macro">무료 평가판에서 업그레이드하십시오</block>
+  <block id="8363fdaf697d320c2f82579236d59eb3" category="list-text"><block ref="8363fdaf697d320c2f82579236d59eb3" category="inline-link-macro-rx"></block></block>
+  <block id="c96ecffde6280d2fa1507c88f273acb6" category="section-title">피드백을 제공하거나, 도움을 받거나, 더 많은 정보를 찾을 수 있습니다</block>
+  <block id="c59ff83bf11a6531408fc11e8902566c" category="list-text"><block ref="c59ff83bf11a6531408fc11e8902566c" category="inline-link-macro-rx"></block></block>
+  <block id="3cd12697cda279c9c99b093a265c1ba8" category="inline-link-macro">도움을 받을 수 있는 곳 및 자세한 정보를 얻을 수 있는 곳</block>
+  <block id="60eb37087de824a31913cb25c89ee64d" category="list-text"><block ref="60eb37087de824a31913cb25c89ee64d" category="inline-link-macro-rx"></block></block>
+  <block id="235e8d1a54ecddcf1d3ff533331ed416" category="inline-link-macro">제품 페이지</block>
+  <block id="8656d7c0c01b2d64d35ced199a5e32e8" category="list-text"><block ref="8656d7c0c01b2d64d35ced199a5e32e8" category="inline-link-macro-rx"></block></block>
+  <block id="8c0b7124c43b10c0d456f666884deded" category="inline-link-macro">솔루션 개요</block>
+  <block id="94c4d110d7d7c45d9f0401f3e894e286" category="list-text"><block ref="94c4d110d7d7c45d9f0401f3e894e286" category="inline-link-macro-rx"></block></block>
+  <block id="6717d37b6834e1656959896157ee6fcd" category="summary">필요한 경우 하나 이상의 SaaS Backup for Microsoft 365 서비스를 활성화할 수 있습니다. Microsoft Exchange Online 또는 Microsoft SharePoint Online을 활성화해야 Microsoft 365 그룹을 활성화할 수 있습니다.</block>
+  <block id="411cf5e870e6c2877290b249e0c12581" category="doc">서비스를 활성화합니다</block>
+  <block id="4cfc0abdc343554651425620b5108cfd" category="list-text">활성화할 서비스 옆에 있는 * 활성화 * 를 클릭합니다.</block>
+  <block id="3e03eb30e32cbda58f94d859aef939c7" category="doc">유료 구독으로 가입하세요</block>
+  <block id="b9d34d658c9ce9bcdd330baf715cf1c4" category="paragraph">NetApp을 통해 라이센스를 구입한 경우 구독 유형이 표시됩니다. 다음 단계에 따라 등록 프로세스를 완료합니다.</block>
+  <block id="8a1b5520b65d8ce096df57e907189a55" category="summary">평가판 구독에서 라이센스 구독으로 업그레이드하는 경우, 백업 저장소 대상을 변경하지 않는 경우에만 평가판 데이터가 보존됩니다.</block>
+  <block id="5812c0f271e0e2c00e683f3df987dac2" category="doc">평가판 구독에서 업그레이드합니다</block>
+  <block id="60b00097e19bf88e99151e80c77dbbfd" category="paragraph">평가판 구독에서 라이센스 구독으로 업그레이드하는 경우 동일한 백업 스토리지 대상 유형과 동일한 백업 스토리지 영역을 유지하는 경우에만 평가판 데이터가 보존됩니다. 업그레이드 시 올바른 SaaS Backup 계정에 라이선스를 연결하려면 평가판 및 라이선스 등록된 구독에 대해 동일한 이메일 주소를 사용하십시오.</block>
+  <block id="db72319f07f059d0101b823975192491" category="paragraph">* 백업 스토리지 대상 유형을 변경하면 평가판 데이터가 손실됩니다. 백업 대상 영역을 변경하면 데이터 손실도 발생합니다. *</block>
+  <block id="6d3431ba560ac6c34d8e0942ff6d8c92" category="cell">평가판 구독의 백업 대상이 다음과 같은 경우</block>
+  <block id="324d0dbc5778b0d30ae9a3b0951b61dd" category="cell">라이센스 가입 시 백업 대상은...</block>
+  <block id="a1d5b6f135cfdcf368902b34a7c67653" category="cell">평가판 데이터...</block>
+  <block id="89a2e465348431f47e582a4849441f73" category="cell">Amazon S3는 SaaS Backup에서 제공합니다</block>
+  <block id="5e837ef81141bf040b588faa5a333683" category="cell">보존</block>
+  <block id="762629ddfec1b2200ebd930a34724a2d" category="cell">SaaS Backup에서 제공되는 Azure Blob</block>
+  <block id="edbb20a6e7cdb96d29783e5e345acc35" category="inline-image-macro">업그레이드 단추 스크린샷</block>
+  <block id="b1c6657efb7ee8df4147c5f3c92f4518" category="list-text">구독 세부 정보 * 에서 를 클릭합니다 <block ref="8acf61206d4ef3b293cfe7fbda26dca3" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="448cfeb23734ca99042411b683043ed7" category="list-text">업그레이드 옵션을 선택한 후 * 다음 * 을 클릭합니다. AWS Marketplace를 통해 구매하는 경우 * AWS Marketplace * 를 선택합니다. 그렇지 않으면 * NetApp 라이센스 * 를 선택합니다.</block>
+  <block id="a5498ae2941cdd5f1215760fa2e12384" category="list-text">NetApp 라이센스 * 를 선택한 경우:</block>
+  <block id="29ed462a73716fdf1c7f1eacd848ca13" category="list-text">라이센스 정보를 입력한 다음 * 구독 확인 * 을 클릭합니다. 라이센스 정보에 대한 확인 메시지가 표시됩니다.</block>
+  <block id="345c7ed27f22014f4b831498263f4675" category="list-text">다음 * 을 클릭합니다. 귀하의 구독 저장소 정보와 귀하의 저장소 대상 및 지역이 표시됩니다.</block>
+  <block id="e569f7d422f6e3473c1844500796643f" category="list-text">대상 스토리지 유형 또는 대상 스토리지 영역을 변경하려면 다음을 수행합니다.</block>
+  <block id="49b7b6152331d564c852838e9361eb68" category="list-text">새 대상 스토리지 유형 및/또는 지역을 선택합니다.</block>
+  <block id="1d020a6c2d7ad417747e14912e67842b" category="admonition">스토리지 또는 대상 지역을 변경한 경우 NetApp SaaS Backup for Microsoft 365는 평가판 데이터를 마이그레이션하지 않습니다. 계속 진행하려면 동의해야 합니다.</block>
+  <block id="a8e71ae66530a126555358a4d6b483c0" category="list-text">대상 저장소 유형을 변경하는 경우 필요한 정보를 입력하고 * Test Connection * 을 클릭합니다.</block>
+  <block id="9b3369a34fd50984e123108049658865" category="list-text">동일한 대상 스토리지 유형 및 대상 스토리지 영역을 유지하려면 구성을 검토하고 * Save * 를 클릭합니다.</block>
+  <block id="cdae03da0a493105e582628ed22abda8" category="list-text">AWS *, * AppDirect * 또는 * StreamOne * 을 선택한 경우:</block>
+  <block id="156fd6b635ab0e98b2c9cd4880457909" category="list-text">링크를 클릭하여 선택한 마켓플레이스로 이동합니다.</block>
+  <block id="d166b90b9550437c32346426e1991076" category="list-text">마켓플레이스 지침을 따릅니다. 라이센스를 올바른 SaaS Backup 계정에 연결하려면 무료 평가판에 사용된 것과 동일한 이메일 주소를 사용하십시오.</block>
+  <block id="ef4cf7726ccc45c89cb5272cb949b7d8" category="admonition">AWS 마켓플레이스를 통해 라이센스가 부여된 정액요금제는 SaaS Backup에서 제공하는 Amazon S3 스토리지만 사용할 수 있습니다.</block>
+  <block id="72a99821c0a5134095e1c4e5ac9cead3" category="list-text">Microsoft 365 계정으로 SaaS Backup for Microsoft 365에 로그인합니다.</block>
+  <block id="c048d463d7b37f486fe72b64be4e6f80" category="list-text">Microsoft 365 설정 아이콘을 클릭합니다 <block ref="92b2090f67667b3cc14920419b32a5f9" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="4c3ccc7944a6d3fed16c9b3438b8b58c" category="inline-image-macro">활성화 단추의 스크린샷</block>
+  <block id="252c1d7e40e06ab870f43d29e7812c49" category="list-text">구독 세부 정보 에서 을 클릭합니다 <block ref="3297805c3f9b82ac60ec16cc4fdd244a" category="inline-image-macro-rx" type="image"></block>. 평가판 구독과 다른 백업 저장소를 선택한 경우 경고가 표시됩니다. SaaS Backup for Microsoft 365는 평가판 데이터를 새 대상으로 마이그레이션하지 않습니다. 계속 진행하려면 동의해야 합니다.</block>
+  <block id="dae11a171c86478e146e6d260683618f" category="admonition">사용 허가된 구독에 있는 사용자 수가 평가판 구독보다 적으면 사용 허가된 구독이 활성화될 때 모든 사용자 계정이 보호되지 않는 계층으로 이동됩니다. 활성화 후 원하는 계정을 보호된 계층으로 수동으로 이동해야 합니다.</block>
+  <block id="29361fe2d7a43657b32954e1b6bac18d" category="summary">SaaS Backup for Microsoft 365를 사용하면 Microsoft SharePoint Online에 대해 세밀한 레벨의 복원을 수행할 수 있습니다.</block>
+  <block id="d0db67ae234f058e70769c92e92dad3d" category="doc">Microsoft SharePoint Online에 대해 세밀한 레벨의 복원을 수행합니다</block>
+  <block id="2803cf9eab93f01220a853b99db2e904" category="paragraph">Microsoft SharePoint Online에서는 개별 폴더 또는 파일과 같은 단일 사용자에 대해 세분화된 수준 항목을 복원할 수 있습니다. 또한 Microsoft 365 그룹 사이트 및 OneNote 전자 필기장의 세부 수준 항목을 복원할 수 있습니다. 사이트 역할 및 권한은 복원 또는 백업의 일부로 자동으로 보호됩니다.</block>
+  <block id="aef8343d1e3fbc666a5bf3fc7e3da601" category="paragraph">표에는 세분화된 레벨의 항목에 지원되는 복원 옵션이 나와 있습니다.</block>
+  <block id="2380a2f5b8d08ee084abd8643a19e553" category="admonition">복원 옵션 * 동일한 사이트로 복원 * 및 * 다른 사이트로 복원 * 의 경우 다음 항목은 이름 지정 규칙 &lt;SiteName_cc_timestamp&gt;: * 단일 사이트 *, * 다중 사이트 * 및 * 단일/다중 목록 * 을 사용하여 선택한 사이트 아래에 하위 사이트로 복원됩니다.</block>
+  <block id="15cbdaca1e670ee88c1d71f87070e9a6" category="cell">같은 사이트로 복원합니다</block>
+  <block id="b43fc1a2a417e7198af317fdf27717a1" category="cell">다른 사이트로 복원합니다</block>
+  <block id="5e20646580da584d76435da00d6face4" category="cell">데이터를 내보냅니다</block>
+  <block id="93585961ab4a4d9fac26a01661b87a8b" category="cell">단일/여러 항목</block>
+  <block id="4d517f410fcfc73e9fcd9fab586b2f74" category="cell">SharePoint Online &gt; 사이트 &gt; &lt;사이트 이름&gt;&gt; &lt;목록 이름&gt;</block>
+  <block id="93681f77c8cbeadd174504a13be92ea0" category="cell">단일 사이트</block>
+  <block id="460eab8a130e70f36538e8b715ffa5d9" category="cell">SharePoint Online &gt; 사이트 를 클릭합니다</block>
+  <block id="0ca80baaabc12b2ca734043fcb934339" category="cell">여러 사이트</block>
+  <block id="0d5c33c6c54093f9ac1eee1c246b4497" category="cell">통신 사이트</block>
+  <block id="d295ac2d5db964c9f6cb5949a3f19f23" category="cell">단일/여러 하위 사이트</block>
+  <block id="d0a30f9796e01102efb0499abf2293ed" category="cell">SharePoint Online &gt; 사이트 &gt; &lt;사이트 이름&gt;&gt; 하위 사이트</block>
+  <block id="7f6bcffecf37269d3869f221601d18c0" category="cell">단일/여러 폴더</block>
+  <block id="35384d60569b88e8facd51be6ac7ef7c" category="cell">SharePoint Online &gt; 사이트 &gt; &lt;사이트 이름&gt;&gt; &lt;목록 이름&gt;</block>
+  <block id="20f26896b987d0f4b175033847c8b29b" category="cell">단일/다중 목록</block>
+  <block id="f389f41006b051f2680a0b5f637ec269" category="cell">SharePoint Online &gt; 사이트 &gt; &lt;사이트 이름&gt; 을 클릭합니다</block>
+  <block id="1454626645857bdf728a3d5d37f508a2" category="cell">OneNote 단일/여러 전자 필기장</block>
+  <block id="b25709a146fc78f3504ba6471d45e64c" category="cell">OneNote 단일/다중 섹션 그룹</block>
+  <block id="ef4b4b4c76d4cb53e3a763f326ace39f" category="cell">SharePoint Online &gt; 사이트 &gt;&lt;사이트 이름&gt;&gt;&lt;목록 이름&gt;&gt;&lt;전자 필기장 폴더&gt;</block>
+  <block id="0dd6883e574dfde9672c3e683d9650ce" category="cell">OneNote 단일/여러 섹션</block>
+  <block id="f03477b21f41af7e356fe3208c5f325f" category="list-text">대시보드의 SharePoint 상자에서 * protected * 위의 번호를 클릭합니다.</block>
+  <block id="457f3067cf20a637f4d13a493d51a825" category="list-text">세부적인 수준의 복원을 수행해야 하는 사이트를 클릭합니다.</block>
+  <block id="8902cc1a61ad05ff637487a25d4f30fe" category="list-text">복원할 범주를 선택합니다.</block>
+  <block id="9f8f2a9d6b6ac5da8babae08ca68f2cd" category="admonition">범주 내의 특정 개별 항목을 복원하려면 콘텐츠 범주를 클릭한 다음 개별 항목을 선택합니다.</block>
+  <block id="b4c2d085d97c27233fa7b065ae36b88d" category="list-text">최신 백업에서 복원하려면 * 복원 * 을 클릭합니다. 항목의 이전 버전을 복원하려면 * 버전 표시 * 를 클릭하고 복원할 버전을 선택한 다음 * 복원 * 을 클릭합니다.</block>
+  <block id="2ebd3fddac57fd6a11a64deffa3c93a1" category="list-text">* 동일한 사이트로 복원 * 동일한 사이트로 복원하는 경우 기본적으로 현재 날짜와 시간 스탬프가 있는 복원 폴더가 백업 복사본이 포함된 원래 파일 위치에 만들어집니다.</block>
+  <block id="355c9a4416e431eb905b9bd854b6fab8" category="paragraph">역할만 복원 *, * 병합으로 덮어쓰기 * 또는 * 기존 콘텐츠 바꾸기 * 를 선택한 경우 * 같은 사이트로 복원 * 만 복구 옵션을 사용할 수 있습니다.</block>
+  <block id="88392ac8c2bbca908911a0a62266f057" category="cell">를 선택한 경우</block>
+  <block id="572e436a9303be18ec74fda0b0314157" category="paragraph">역할만 복원합니다</block>
+  <block id="bcd4b6d7b891a5b2a415aab633472ab9" category="paragraph">모든 유형의 항목</block>
+  <block id="431d21a23746bfa6195fecb4d4f3d76f" category="paragraph">병합으로 덮어쓰기</block>
+  <block id="3f5c34328cc395ad9759610edb52d20c" category="paragraph">사이트 수준을 제외한 모든 항목</block>
+  <block id="cc2e8cd87ace54ed14cdc4ca2145cd80" category="paragraph">기존 콘텐츠로 바꾸십시오</block>
+  <block id="0d40e1355ad156a4170b9ebdb490210f" category="paragraph">항목 수준만</block>
+  <block id="4beeecd43c2f771bf4ba41d015810609" category="inline-image-macro">이미지 에는 복구 전용 역할 옵션이 선택된 세분화된 레벨 복구 창이 표시됩니다</block>
+  <block id="3f931a10b238e82c5dfc0c9bb6026054" category="paragraph">[역할만 복원] * 을 선택하면 역할 및 권한만 복원됩니다.<block ref="8a52ad91b98da6142f0a4ee57927e647" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6418e679e854d6254c05c62a2c15ff67" category="paragraph">Overwrite with merge * 옵션을 선택하면 복원 폴더가 생성되지 않습니다. 백업 파일 버전과 현재 파일이 일치하면 백업이 원래 위치로 복원됩니다. 대상의 모든 새 콘텐츠는 무시되고 영향을 받지 않습니다. 예를 들어 백업에 File1 버전 5가 포함되어 있고 대상에 File1 버전 6이 포함되어 있는 경우 * 병합 시 덮어쓰기 * 옵션을 선택한 상태로 복원하지 못합니다.</block>
+  <block id="56f35dd5646a70a25ec53d051fbc096c" category="paragraph">기존 내용 바꾸기 * 옵션을 선택하면 현재 데이터 버전이 백업 사본으로 완전히 대체됩니다.</block>
+  <block id="d4aef45eaed5bded9ba10045d1d9f03c" category="list-text">* 다른 사이트로 복원 *</block>
+  <block id="eb729008daf8b3603cdc161bd528d76c" category="paragraph">다른 사이트로 복원하는 경우 검색 필드에 대상 사이트를 입력해야 합니다. 검색 필드에 사이트 일부를 입력하여 일치하는 사이트에 대한 자동 검색을 시작할 수 있습니다.</block>
+  <block id="4525aa9916e4ec6ac852fb1b9c24f43c" category="list-text">* 데이터 내보내기 *</block>
+  <block id="9f4e67a899612efbb024bcba557762f9" category="paragraph">데이터를 내보내려면 데이터를 다운로드해야 합니다. 왼쪽 메뉴에서 * 보고 * 로 이동합니다. 내보내기 데이터 작업을 찾습니다. 전체 폴더 * 를 클릭합니다. 그런 다음 * 데이터 다운로드 링크 내보내기 * 를 클릭합니다. zip 파일이 다운로드됩니다. zip 파일을 열어 데이터 압축을 풉니다.</block>
+  <block id="45c370720bd5903ae015d8bc9114b227" category="admonition">데이터 내보내기 * 복원 옵션을 선택하면 제공된 링크는 7일 동안 유효하며 사전 인증됩니다.</block>
+  <block id="f2d447d60f38aa19df0467302ecd8410" category="summary">SaaS Backup과 함께 사용할 수 있는 스토리지 유형입니다.</block>
+  <block id="d1277819211cde3f869b987ea578960e" category="doc">SaaS Backup과 함께 사용할 수 있는 스토리지 유형입니다</block>
+  <block id="863d89f1e4a4f4d3dc98f5ad623ef1a1" category="section-title">SaaS Backup에서 제공하는 스토리지</block>
+  <block id="76a76cfc2d02a13bafcd8db3b66f3f7b" category="paragraph">SaaS Backup은 다음과 같은 스토리지 옵션을 제공합니다.</block>
+  <block id="270fcb785810d0206945029bb05f4e97" category="list-text">Amazon S3</block>
+  <block id="52745271323ee9ea30e3a37d0338d118" category="list-text">Azure Blob</block>
+  <block id="bd0e9f65e5502f75a4a32e0c53f61df1" category="summary">기본적으로 가장 최근 백업만 복원할 수 있습니다.</block>
+  <block id="d505a1372838988b9d892d82c774daf7" category="doc">이전 백업에서 복원합니다</block>
+  <block id="58aacc02460b3e3da762722a417d4812" category="list-text">대시보드에서 복원을 수행할 서비스의 상자에서 * protected * (보호됨 *) 위의 번호를 클릭합니다.</block>
+  <block id="cdaa60ce381ae758f03680ef5200eee4" category="list-text">아카이브 메일박스의 경우 * archive * 탭을 클릭합니다. 참고: 보관 사서함은 사용자의 일반 사서함으로 복원됩니다.</block>
+  <block id="892e60fc51cb13858f23ffd51b548ea1" category="list-text">복원할 항목을 클릭합니다.</block>
+  <block id="3bb7cf21162455d4d3d958f085ec5852" category="list-text">백업 기록 보기 * 를 클릭합니다.</block>
+  <block id="f240ea1197d77fd071d9388c614fcae2" category="paragraph">달력이 표시됩니다. 백업을 사용할 수 있는 날짜는 녹색 원으로 표시됩니다.</block>
+  <block id="39df67cbbec479ac75577b3b202f9186" category="list-text">선택한 일 수 동안 백업된 항목을 표시하려면 * Show Selected Backups * 를 클릭하고 드롭다운 메뉴에서 미리 정의된 일 수 중 하나를 선택합니다.</block>
+  <block id="0ed9050b0a62d53339509aaa90a20c64" category="list-text">그렇지 않으면 복원할 백업 날짜를 클릭한 다음 특정 백업을 선택합니다.</block>
+  <block id="4bc6b16c7992bb0bc02890066fe6e66a" category="list-text">복원할 항목을 선택합니다.</block>
+  <block id="37cbfdb341ef3492f74543d2f04f3a12" category="inline-image-macro">복원 단추 이미지</block>
+  <block id="453cf13878c8ad80ab0d468df49e16d7" category="list-text">을 클릭합니다 <block ref="bac505eacc7dbd53ea845154c58d45dc" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8719a699df85113ce08265022d9eea9c" category="list-text">Microsoft Exchange Online*용 사서함 또는 Microsoft 365 그룹의 사서함을 복원하는 경우 다음 옵션 중 하나를 선택합니다.</block>
+  <block id="152b65a0ba00eca7ff95d6f6c2e0e3c0" category="paragraph">동일한 사서함으로 복원하는 경우 기본적으로 현재 날짜 및 타임스탬프가 있는 복원 폴더가 백업 복사본이 포함된 원래 콘텐츠 위치에 만들어집니다. 기존 내용 바꾸기 * 를 선택하면 현재 데이터가 백업으로 완전히 대체됩니다.</block>
+  <block id="92d5b95100bdb504b2626b2ec27ac203" category="paragraph">다른 사서함으로 복원하는 경우 검색 필드에 대상 사서함을 입력해야 합니다. 검색 필드에 대상 이메일 주소의 일부를 입력하여 일치하는 대상 사서함에 대한 자동 검색을 시작할 수 있습니다.</block>
+  <block id="720b2eeeb71a356a55c9e314df3cc3a0" category="list-text">* 동일한 MySite * 로 복원합니다</block>
+  <block id="44369af8482ff55615818d6d72462c95" category="paragraph">개별 파일을 동일한 MySite로 복원하는 경우 기본적으로 현재 날짜 및 타임스탬프가 있는 복원 폴더가 백업 복사본이 포함된 원래 콘텐츠 위치에 만들어집니다. 기존 내용 바꾸기 * 를 선택하면 현재 데이터가 백업으로 완전히 대체됩니다. 전체 폴더를 복원하는 경우에는 * 기존 내용 바꾸기 * 옵션을 사용할 수 없습니다.</block>
+  <block id="3c7b6e2fdc769ab47eb54aa1aad8a9d5" category="list-text">* 다른 MySite * 로 복원합니다</block>
+  <block id="6000d0af76f2140b5651f51533e6aa9c" category="paragraph">다른 MySite로 복원하는 경우 검색 필드에 대상 MySite를 입력해야 합니다. 검색 필드에 대상 내 사이트의 일부를 입력하여 일치하는 대상 내 사이트에 대한 자동 검색을 시작할 수 있습니다.</block>
+  <block id="186ae3ee39e4c735d4338944cee20d84" category="list-text">Microsoft SharePoint Online*용 사이트를 복원하는 경우 같은 사이트나 다른 사이트로 복원할 수 있습니다. Microsoft 365 그룹 사이트를 복원하는 경우 같은 사이트로만 복원할 수 있습니다.</block>
+  <block id="dfdef9c277c5aaab909a4e2cc17336d7" category="list-text">* 동일한 사이트로 복원 *</block>
+  <block id="592ea2f8d36940a6ca66242f54706521" category="paragraph">동일한 사이트로 복원하는 경우 기본적으로 현재 날짜 및 타임스탬프가 있는 복원 폴더가 백업 복사본이 포함된 원래 파일 위치에 만들어집니다. Overwrite with merge * 옵션을 선택하면 복원 폴더가 생성되지 않습니다. 백업 파일 버전과 현재 파일이 일치하면 백업이 원래 위치로 복원됩니다. 대상의 모든 새 콘텐츠는 무시되고 영향을 받지 않습니다. 예를 들어 백업에 File1 버전 5가 포함되어 있고 대상에 File1 버전 6이 포함되어 있는 경우 * 병합 시 덮어쓰기 * 옵션을 선택한 상태로 복원하지 못합니다. 기존 내용 바꾸기 * 옵션을 선택하면 현재 데이터 버전이 백업 사본으로 완전히 대체됩니다.</block>
+  <block id="640aebe1e739e90da341acdc07382260" category="list-text">* 다른 사이트로 복원 *</block>
+  <block id="19cfd4ae5dac380b64b69dab1b160eb6" category="paragraph">다른 사이트로 복원하는 경우 검색 필드에 대상 사이트를 입력해야 합니다. 검색 필드에 대상 사이트의 일부를 입력하여 일치하는 사이트에 대한 자동 검색을 시작할 수 있습니다.</block>
+  <block id="25b29418d9c6575969ec7daa90fcc97f" category="paragraph">복구 작업이 생성되었다는 메시지가 표시됩니다.</block>
+  <block id="230c3874dfeca9a6cb47fa97722bce17" category="summary">사용자 정의 규칙에서 보안 그룹을 사용하는 경우 삭제할 수 없습니다. 사용자 정의 규칙을 제거한 다음 보안 그룹을 삭제해야 합니다.</block>
+  <block id="7fdea57e693b111f8b7be24d9641bb12" category="doc">보안 그룹을 삭제합니다</block>
+  <block id="76b6660d93d4a2327762e53ed6aa314e" category="inline-xref">규칙을 삭제하는 중입니다</block>
+  <block id="c1f09ec0377a9bd2a7cfb7172b9c98e7" category="paragraph">사용자 정의 규칙에서 보안 그룹을 사용하는 경우 삭제할 수 없습니다. 사용자 정의 규칙을 제거한 다음 보안 그룹을 삭제해야 합니다.<block ref="4bc0b3a296f9607a4b170f541faab8be" category="inline-xref-macro-rx"></block></block>
+  <block id="a67a8c0725a0243549441486b4ce8841" category="list-text">제거할 그룹 옆에 있는 삭제 아이콘을 클릭합니다.</block>
+  <block id="2813f127dc58929fb553bc32684c2e46" category="doc">알려진 문제 및 제한 사항</block>
+  <block id="dd5f8dd4f85249942624661b110d693e" category="paragraph">다음은 SaaS Backup for Microsoft 365의 애플리케이션 레벨에서 확인된 제한 사항입니다.</block>
+  <block id="0d58f13cf59b3acb936d22fbb195c797" category="section-title">SharePoint Online의 경우</block>
+  <block id="0df29440fd1f5817998dad2145c5d66f" category="paragraph">SaaS Backup은 아카이빙된 SharePoint 사이트의 백업을 지원하지 않습니다.</block>
+  <block id="69cadd9afb18beaf638480ee96474d8d" category="section-title">비즈니스용 OneDrive</block>
+  <block id="6346662e0704c71f9315c98ae046d219" category="paragraph">새로 추가된 드라이브는 서비스에 대한 동기화를 수동으로 완료할 때까지 감지되지 않습니다.</block>
+  <block id="6e56d85b59ed18494624e5efc9118118" category="section-title">Exchange Online의 경우</block>
+  <block id="bbab3039495eb009e7e37fddca11f420" category="list-text">SaaS Backup은 공용 폴더에 대한 백업을 지원하지 않습니다.</block>
+  <block id="ec33cc053523746b10689885a6465e31" category="list-text">* 고급 검색 * 은 Exchange Online에서만 사용할 수 있습니다. 이 설정은 기본적으로 비활성화되어 있습니다. 고객이 이 기능을 활성화하도록 요청해야 합니다. 고급 검색 사용 * 설정을 활성화한 후 관리자는 개별 사용자에 대해 검색 기능을 수동으로 활성화해야 합니다.</block>
+  <block id="04fe5f6086035badbfe6f17afc8b1812" category="section-title">팀을 위해</block>
+  <block id="3ae90eaf5bfb44951f5e8d213a509b80" category="list-text">채널 구성은 복원되지만 콘텐츠와 대화는 복원되지 않습니다.</block>
+  <block id="344380bbdcd6e472f74897190dc6aedf" category="list-text">API 제한으로 인해 SaaS Backup은 SaaS Backup의 퍼블릭 채널과 프라이빗 채널을 구분할 수 없습니다.</block>
+  <block id="624442c799e4e89cb608e21d94dd9e38" category="list-text">높은 수준의 복원으로 대화가 아닌 사서함 및 SharePoint 데이터만 복원합니다.</block>
+  <block id="d5b9bcd91341381d4f9facf62e69a760" category="list-text">emojis 및 gifs에 대한 백업 또는 복원은 팀 채팅에서 지원되지 않습니다.</block>
+  <block id="2e6df5bd869e8c255a210d03f781c2a2" category="list-text">팀 채팅 대화 내보내기 전용 옵션은 HTML로 내보내기입니다. 대화에 게시된 첨부 파일 링크는 HTML 문서에 표시되지 않습니다.</block>
+  <block id="725eb4a545d53ed127b237f8677c348e" category="section-title">을 클릭합니다</block>
+  <block id="78c84ad1cca9922872a03826b4f4ba13" category="list-text">데이터를 내보낼 수 없습니다.</block>
+  <block id="e9c7dd5d31fad4f1fecc238f1b5cec74" category="list-text">증분 백업 작업이 실패하고 'Partial Failure(부분 실패)'라는 오류 메시지가 나타날 수 있습니다. OneNote 섹션 몇 개를 백업하지 못했습니다.</block>
+  <block id="cba4e4936570a5f6cd9e636d453ee2df" category="list-text">OneDrive 백업에는 .onebak 파일의 백업이 포함됩니다.</block>
+  <block id="f9a2d354ea1790dcf9c2db418f193cf6" category="list-text">복구 통계를 다운로드할 수 없습니다.</block>
+  <block id="e7c2efd0bfa0260184087f86122e8b75" category="list-text">데이터 내보내기 및 데이터 삭제는 지원되지 않습니다.</block>
+  <block id="09278d595eba2b1b6b3244e86b371f47" category="section-title">기타 문제 및 제한 사항</block>
+  <block id="32310e00614d51c5c61fc82cc5a79a3f" category="paragraph">다음과 같은 알려진 문제와 제한 사항은 한 응용 프로그램에만 국한되지 않습니다.</block>
+  <block id="3b1482aa22733fab359963f1e198cc38" category="paragraph">Microsoft 365 서비스 계정에 등록하는 모든 사용자의 경우:</block>
+  <block id="d6770628964f371c2f152263aeff74c2" category="list-text">SaaS Backup은 기본 인증만 지원합니다.</block>
+  <block id="8d8b65656fcc19c1e36d5965880e2fd5" category="paragraph">무료 평가판 사용자:</block>
+  <block id="23bf76c3ad78237ef4e199168c220afe" category="list-text">24시간 동안 서비스당 최대 10건의 복원이 허용됩니다.</block>
+  <block id="367955ddc3f4870ab77b4bd7a25a6368" category="paragraph">라이센스가 있는 사용자의 경우:</block>
+  <block id="c7f60a696ecccd62f0e9e25cd5a34555" category="list-text">24시간 동안 서비스당 최대 10개의 내보내기 데이터 복원이 허용됩니다. 다른 모든 복원 옵션에는 제한 사항이 없습니다.</block>
+  <block id="7730a1bb36658e50b78927fef6f0a050" category="paragraph">사이트 모음 그룹을 복원하는 경우:</block>
+  <block id="efd287cdc753601d5107130525c91ace" category="list-text">전체 사이트 모음 그룹이 삭제된 경우 컬렉션의 개인 그룹을 복원하지 못해 복원 작업 상태가 "부분적으로 실패함"으로 나타납니다. 이 경우 GUI에서 사이트에 액세스할 수 없습니다.</block>
+  <block id="4c16b0a23d0e5246d2604fb46b891dab" category="paragraph">고급 검색 * 의 경우:</block>
+  <block id="1c90154d49e9e74aec0cd7ad23f32b3c" category="list-text">24시간 동안 최대 10개의 검색 작업이 허용됩니다.</block>
+  <block id="caa50fecb0dd5d31820b4c4d4babd378" category="summary">라이선스가 있는 버전의 SaaS Backup for Microsoft 365를 갱신하지 않으면 구독 중 사용된 데이터가 삭제됩니다.</block>
+  <block id="6dcf112116eaaafdcd1b045888627786" category="doc">유료 가입 데이터 삭제</block>
+  <block id="e74c06c1a0847732e3713bc6a79b3a54" category="paragraph">라이선스를 보유한 SaaS Backup for Microsoft 365를 갱신하지 않으면 구독 중 사용된 데이터가 다음과 같이 삭제됩니다.</block>
+  <block id="67e7e21eb8eddeed7b11c9adce8bfa65" category="cell">SaaS Backup 유료 구독이 다음과 같은 경우:</block>
+  <block id="cd35b18e9c73b7753bbce41116add383" category="cell">유료 가입 종료 후 남은 일수</block>
+  <block id="adebde388bd3dffec83088fecaf4aced" category="cell">1-30일</block>
+  <block id="566c37b0ba881e0597c502ef7d710889" category="cell">31-60일</block>
+  <block id="50fc34bbfebbd150a1cb0b6892317c19" category="cell">비활성화됨: 관리자가 SaaS Backup 포털에 액세스할 수 없습니다. 이 기간 동안 구독이 갱신되면 데이터를 다시 활성화할 수 있습니다.</block>
+  <block id="33a738ddb5dfef5ce776090768e77555" category="cell">61일 이상</block>
+  <block id="a73aba6b88b96c2312c0f9347ee50d78" category="summary">최신 인증 for SaaS Backup for Microsoft 365를 사용하면 Microsoft 365 그룹 및 공유 및 아카이브 메일박스의 검색 실패를 방지할 수 있습니다.</block>
+  <block id="6d41bf53975c37a371e0a61c24d9701d" category="doc">최신 인증 사용</block>
+  <block id="bcb28a2f4ed645ef8a3af04a404a1502" category="paragraph">Microsoft 365는 2021년 10월 Exchange Online의 기본 인증을 사용 중단하도록 목표로 하고 있습니다. 사용 중단 후 Microsoft 365 그룹과 공유 및 아카이브 메일박스에 대한 검색 실패가 발생할 수 있습니다.</block>
+  <block id="ebab51f38b25f119a54799f747a554df" category="paragraph">언제든지 최신 인증을 활성화할 수 있습니다.</block>
+  <block id="c1b811bd592235c61fa6ca7a4cdbe483" category="paragraph">신규 고객은 어떠한 조치도 취할 필요가 없습니다. 현대적인 인증은 등록할 때 활성화됩니다.</block>
+  <block id="6a35f3193356ceb62195e1a17a1d97ca" category="paragraph">기존 고객은 조치를 취해야 합니다. 최신 인증을 활성화하려면 아래 지침을 따르십시오.</block>
+  <block id="151c0e26b68569274cc8fb7865536967" category="list-title">옵션 1 단계</block>
+  <block id="5473646de43d33b966a040592c55e080" category="inline-image-macro">Modern Authentication Reads를 사용하도록 설정하는 팝업 메시지가 Microsoft Basic Authentication이 곧 비활성화됩니다. Microsoft 365 그룹, 보관 사서함 및 공유 사서함에서 검색 실패를 방지하려면 최신 인증을 활성화하십시오. 지금 활성화하시겠습니까?</block>
+  <block id="d0f07db1e4f0dafbc370c2184e7fc993" category="list-text">SaaS Backup for Microsoft 365에 로그인합니다. 다음 메시지가 나타납니다.<block ref="c54e32c72d16546d42f4bb610328d6c2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="33961fdc55682584a2105cfe37dc4e80" category="list-text">최신 인증을 활성화하려면 * 확인 * 을 선택합니다.</block>
+  <block id="719de1e44f12917b51d01d1d500b55e8" category="list-text">모든 권한을 허용합니다. 이제 최신 인증이 활성화되었습니다. ZZZ 구성 서비스 계정이 제거되었습니다.</block>
+  <block id="73450abe3754a721d825055685e2494c" category="list-title">옵션 2 단계</block>
+  <block id="92eef66d548ce3ad6566a41eb934f2c6" category="inline-image-macro">기어 아이콘</block>
+  <block id="7381e66861ab2b549db3d647f53aab18" category="inline-image-macro">Microsoft 365 서비스 설정을 나타내는 화살표입니다</block>
+  <block id="00c3259ed9a379b2339d2dd0fb266c2d" category="list-text">SaaS Backup for Microsoft 365에서 설정 으로 이동합니다 <block ref="764992d715ceb3d3bca0b58ec17502cd" category="inline-image-macro-rx" type="image"></block>&gt; 서비스 설정 &gt; Microsoft 365 서비스 설정 을 선택합니다.<block ref="c7c697ce9aa35ee14da9549d094faec6" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="528b9600eae8c6e11b0a8204cac006c1" category="inline-image-macro">서비스 설정 에서 최신 인증 활성화 를 선택합니다</block>
+  <block id="eaac380992bfb558c7f33ad5263a09cd" category="list-text">Enable Modern Authentication * 을 선택합니다.<block ref="44637b2c161d4bd1a3f03826b4b97ec3" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="659923b56097fde7f7e16f9938f8cee7" category="paragraph">실패 알림을 받으면 Modern Authentication을 다시 설정할 수 있습니다.</block>
+  <block id="c211ffba805191487d78c4b7cc83885c" category="paragraph">지원이 필요한 경우 saasbackupsupport@netapp.com 으로 이메일을 보내 주십시오.</block>
+  <block id="57b21864f834adb69b95deb6d906d488" category="inline-link-macro">기본 인증 및 Exchange Online - 2021년 9월 업데이트</block>
+  <block id="079fc4b41d453223328c8289d6f6ee23" category="paragraph">자세한 내용은 을 참조하십시오 <block ref="13656a114805a881003fbba8178f036a" category="inline-link-macro-rx"></block>.</block>
+  <block id="a92427a42a49d5f28c89b26746343201" category="summary">SaaS Backup for Microsoft 365 Groups/팀을 사용하여 세밀한 레벨의 복원을 수행할 수 있습니다.</block>
+  <block id="04687a55cad16eeb46f2e4bfbd7dd95b" category="doc">Microsoft 365 그룹 및 팀에 대한 세밀한 레벨의 복원 수행</block>
+  <block id="08a8cab38f1da1c94492a57028d46365" category="paragraph">Microsoft 365 Groups 및 팀 내에서는 메일박스, SharePoint, 대화, 채널, 탭과 같은 세부 레벨의 항목을 복원할 수 있습니다.</block>
+  <block id="0cc249a1ff9522b5f305ab1ef65a6afe" category="paragraph">이 표에는 세분화된 레벨의 항목에 지원되는 복원 옵션과 SaaS Backup에서 찾을 수 있는 위치가 나와 있습니다.</block>
+  <block id="f28bc3f217e602fc1f5eb4085dd42385" category="paragraph">그룹 * 용</block>
+  <block id="bf65e3c0f451615e7d1d629a3288ad9f" category="paragraph">Office 365 그룹 &gt; 그룹 &gt; (그룹 이름) &gt; 사서함 을 클릭합니다</block>
+  <block id="3882d32c66e7e768145ecd8f104b0c08" category="paragraph">받은 편지함</block>
+  <block id="00bc065dd3c71fd5d4b0086481d268cc" category="paragraph">단일/여러 항목(이메일 또는 이벤트)</block>
+  <block id="317c6e15341cbd153b04ade35a6bfaab" category="paragraph">Office 365 그룹 &gt; 그룹 &gt; (그룹 이름) &gt; 사서함 &gt; 메일 을 클릭합니다</block>
+  <block id="4da59e4209ff5c6096e08b048a0dd376" category="paragraph">팀 * 용</block>
+  <block id="3817dd3d0c55260f20f8e6529a44c8bf" category="cell">다른 팀으로 복원합니다</block>
+  <block id="aba1ef02d1c3b81808de23459d88ee09" category="paragraph">단일/여러 폴더</block>
+  <block id="3cbb79dcb8ac4c162d56bf19f72f52e3" category="paragraph">Office 365 그룹 &gt; 팀 &gt; (팀 이름) &gt; 사서함 을 클릭합니다</block>
+  <block id="5d795763df018483abcbcbd76b870443" category="paragraph">Office 365 그룹 &gt; 팀 &gt; (팀 이름) &gt; 사서함 &gt; 메일 을 클릭합니다</block>
+  <block id="03241f4c0b0c3bb57e878f3c7f829b6b" category="paragraph">대화/채팅</block>
+  <block id="93c8813020bc0571ed7f343c44da47e9" category="paragraph">예(HTML로 내보내기 전용)</block>
+  <block id="b811081d6ff6e1e9f6c4a27dae543f1d" category="list-text">Office 365 그룹 &gt; 팀 &gt; (팀 이름) &gt; 사서함 &gt; 대화 &gt; 팀 채팅 을 클릭합니다</block>
+  <block id="4a3fbfae9983b97867ad7a017c366db7" category="list-text">Office 365 그룹 &gt; 팀 &gt; (팀 이름) &gt; 사서함 &gt; 메일 &gt; 대화 내용 &gt; 팀 채팅(실제 위치)</block>
+  <block id="75503cea14d1fde62464cd36f797cac7" category="paragraph">단일/여러 항목으로 대화합니다</block>
+  <block id="fd6a73d4ba32ae4f3ede4ee332d84996" category="paragraph">Office 365 그룹 &gt; 팀 &gt; (팀 이름) &gt; 사서함 &gt; 대화 내용 &gt; 팀 채팅 을 클릭합니다</block>
+  <block id="9c26be940e95cf4878da122d939b8784" category="paragraph">단일/다중 채널</block>
+  <block id="a9ecb1e1b3e01a7620a18c19cecd31ee" category="paragraph">Office 365 그룹 &gt; 팀 &gt; (팀 이름) &gt; 채널 을 클릭합니다</block>
+  <block id="a1ab5ce0720ebbbda3918cd012a68184" category="paragraph">* 참고 *: 복원에는 채널 이름 및 탭 이름만 포함됩니다.</block>
+  <block id="b3b725dd37253b15311071af8c23f7fe" category="paragraph">채널 아래에 있는 탭</block>
+  <block id="042d61a3d926d53635966eaeb6a937f7" category="paragraph">채널 표준 문서</block>
+  <block id="6b30d71b8cc2aaaeb93d0ff1f9134eb0" category="paragraph">Office 365 그룹 &gt; 팀 &gt; (팀 이름 &gt; SharePoint 사이트 &gt; 문서 &gt; (채널 이름)</block>
+  <block id="48f6c780a94480642bedbd564750b7a2" category="paragraph">채널 비공개 문서</block>
+  <block id="1c8b0ac9b58ed797a8aa6dc307b23527" category="paragraph">SharePoint &gt; (개인 채널 사이트 이름) &gt; 문서 &gt; (개인 채널 이름)</block>
+  <block id="e5efd2bf375c66135f8862e063b4eddf" category="paragraph">* 참고 *: 이름이 "&lt;팀 이름 – 개인 채널 이름&gt;"인 별도의 사이트 모음을 찾을 수 있습니다. 템플릿 ID:TEAMCHANNEL#0을 사용하여 이러한 사이트 모음을 필터링할 수 있습니다.</block>
+  <block id="cc7c0ba37cf0f01092372b1d869e22ec" category="paragraph">OneNote 콘텐츠</block>
+  <block id="d5b7e08e324912d3ca99a4d20efa3835" category="paragraph">Office 365 그룹 &gt; 팀 &gt; (팀 이름) &gt; SharePoint 사이트 &gt; 문서 &gt; (채널 이름)</block>
+  <block id="50ed22c9a34ec5933b28ffc086e3dc3c" category="paragraph">Wiki 콘텐츠</block>
+  <block id="1722203907c0ea278b769a7c97a2bfa9" category="paragraph">Office 365 그룹 &gt; 팀 &gt; (팀 이름) &gt; SharePoint 사이트 &gt; 팀 Wiki 데이터 &gt; (채널 이름)</block>
+  <block id="91f3a2c0e4424c87689525da44c4db11" category="paragraph">파일</block>
+  <block id="3e84a960f12c9f006b87ee3ec0305678" category="paragraph">개별 사용자 채팅 및 그룹 채팅</block>
+  <block id="8549ef96f3965f413ca1f13ece7089b8" category="paragraph">* 참고 *: Exchange Online 백업에 채팅 포함.</block>
+  <block id="15233ac19418cfc534ea8fafc8eac28a" category="list-text">Exchange &gt; “사용자” &gt; 메일 &gt; 대화 &gt; 팀 채팅 으로 이동합니다</block>
+  <block id="73d50530c59e846603b0a000c8c5bd03" category="list-text">Exchange &gt; “사용자” &gt; 메일 &gt; 대화 기록 &gt; 팀 채팅 을 선택합니다</block>
+  <block id="6bbc5707d695de8c090582eed7caa4ba" category="paragraph">개별 사용자 채팅 및 그룹 채팅의 파일</block>
+  <block id="f16b3cb45c9a49849f9defdf2c168963" category="paragraph">* 참고 *: 비즈니스용 OneDrive 백업에 포함된 파일.</block>
+  <block id="ad64dadeddce0a9e824b9d43c40cb699" category="paragraph">OneDrive &gt; “사용자” &gt; 파일 &gt; Microsoft 팀 채팅 파일</block>
+  <block id="f055327f9ee8af772de45c830bfb8744" category="section-title">메일박스를 복구합니다</block>
+  <block id="222bdf4318c1779d19d17f8d5da196d2" category="paragraph">받은 편지함, 일정 및 대화 기록을 복원하려면 이 세분화된 수준 복원을 선택합니다.</block>
+  <block id="97bffa1060b6d680992b0461b9a85f68" category="list-text">대시보드에서 * Microsoft 365 Groups * 에서 * protected * 의 위 번호를 클릭합니다.</block>
+  <block id="f66e84de6f78f8e89d7975442ebe2c30" category="list-text">그룹 * 또는 * 팀 * 탭을 선택합니다.</block>
+  <block id="26d392d76b406f2e677048da456d7872" category="list-text">세밀한 레벨의 복원을 수행해야 하는 그룹 또는 팀을 클릭합니다.</block>
+  <block id="898bf5c2d8f7a8ecf881c264543c9976" category="list-text">사서함 범주를 선택합니다.</block>
+  <block id="0aae4c2c3d004100b3d329b383d9558f" category="inline-image-macro">강조 표시된 메일박스 옵션 이미지</block>
+  <block id="fcce7879592f679fe46e28fadafa7032" category="paragraph"><block ref="fcce7879592f679fe46e28fadafa7032" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="78676bdb287bac69a9ca2d7171159a45" category="admonition">그룹의 경우 * 채널 * 을 사용할 수 없습니다.</block>
+  <block id="e9500dac70654a926ec898192e52bfd8" category="inline-image-macro">강조 표시된 메일 옵션의 이미지</block>
+  <block id="e6c11b9b64fe4f0269eb5d91f17a315b" category="list-text">받은 편지함이나 대화 기록을 동일한 사서함으로 복원하거나 데이터를 내보내려면 * Mail * 옵션을 선택합니다.<block ref="bff26c3ddeb1a5b2f280be0ccf937a47" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="091e6df933ea1d7b5050e63c29a8e545" category="admonition">그룹의 경우 * 대화 * 를 사용할 수 없습니다.</block>
+  <block id="37ea2ac8fc59309b917bd13aacb7cf10" category="list-text">받은 편지함을 복원하려면 * 받은 편지함 * 을 선택하고 * 복원 * 을 클릭합니다.</block>
+  <block id="823111e9e43524b5ad68065cccf6ee22" category="list-text">동일한 사서함으로 복원 * 또는 * 데이터 내보내기 * 를 선택합니다.</block>
+  <block id="cbd694347035514758399bfa4ec87c6c" category="inline-image-macro">강조 표시된 달력 옵션 이미지</block>
+  <block id="463479ac5bb89d51751be7c3e32261f1" category="list-text">달력을 동일한 사서함으로 복원하거나 데이터를 내보내려면 * Calendar * 옵션을 선택합니다.<block ref="25a84e3970d4507a5fcfae23d0092c0d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="e179aa3127e281f8eeccec769841d494" category="list-text">Calendar * 를 선택하고 * Restore * 를 클릭합니다.</block>
+  <block id="48d90378be01b2e385520fa18e6b71cf" category="paragraph">데이터를 내보내려면 데이터를 다운로드해야 합니다. 왼쪽 메뉴에서 보고 로 이동합니다. 내보내기 데이터 작업을 찾습니다. 전체 폴더 * 를 클릭합니다. 그런 다음 * 데이터 다운로드 링크 내보내기 * 를 클릭합니다. zip 파일이 다운로드됩니다. zip 파일을 열어 데이터 압축을 풉니다.</block>
+  <block id="9b250fa6692e261314c82375ce8f0505" category="inline-image-macro">강조 표시된 대화 옵션 이미지</block>
+  <block id="4e4e9243bd2775e76dd61f5726eb192c" category="list-text">대화 * 옵션을 선택하여 대화를 복원합니다. 유일한 복구 옵션은 HTML로 내보내는 것입니다.<block ref="f03470d5b2cd03f5e545af9a3442df5b" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8f03479c260fabaff3fd9083a40b7765" category="list-text">복원할 대화를 선택하고 * 복원 * 을 클릭합니다.</block>
+  <block id="edfe68b68ca01421a4609f1315fda6f4" category="admonition">* 대화 보기 * 는 최근 "x"일 백업부터 최근 30개 백업까지 모든 대화의 목록을 표시합니다. 예를 들어 지난 5일 동안 7번 백업하면 최근 7개 백업의 대화만 볼 수 있습니다.</block>
+  <block id="994847d583b132322185fd9df72456f1" category="section-title">SharePoint 사이트를 복원합니다</block>
+  <block id="9b41e52e4790497525e787212a031e84" category="paragraph">탭과 첨부 파일을 복원하려면 이 세밀한 레벨의 복원을 선택하십시오.</block>
+  <block id="968b0b25e38521140a7cc1612b81175a" category="inline-image-macro">강조 표시된 사이트 옵션의 이미지</block>
+  <block id="66e694d53260747fa68bd16b3a61d0b4" category="list-text">SharePoint 사이트 옵션을 선택합니다.<block ref="1b00e0174a6e6a900092fbbeadd9377e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="741db08c491f8df04ba197ff0e201e49" category="paragraph">동일한 사이트로 복원하는 경우 기본적으로 현재 날짜 및 타임스탬프가 있는 복원 폴더가 백업 복사본이 포함된 원래 파일 위치에 만들어집니다. Overwrite with merge * 옵션을 선택하면 복원 폴더가 생성되지 않습니다. 백업 파일 버전과 현재 파일이 일치하면 백업이 원래 위치로 복원됩니다. 대상의 모든 새 콘텐츠는 무시되고 영향을 받지 않습니다. 예를 들어 백업에 File1 버전 5가 포함되어 있고 대상에 File1 버전 6이 포함되어 있는 경우 * 병합 시 덮어쓰기 * 옵션을 선택한 상태로 복원하지 못합니다. 기존 내용 바꾸기 * 옵션을 선택하면 현재 데이터 버전이 백업 사본으로 완전히 대체됩니다.</block>
+  <block id="2eebf0e3b52a756e17193a5f7c194624" category="section-title">채널을 복원합니다</block>
+  <block id="8443a96039a729f8a601986fe002e753" category="paragraph">채널을 복원하려면 이 세밀한 레벨의 복원을 선택하십시오.</block>
+  <block id="71d8eb3aadcaf34b2d8b4d10b59c210c" category="list-text">Teams * 탭을 선택합니다.</block>
+  <block id="dc77dbe345f3f17cf3704eff2aa21b60" category="list-text">세부 레벨의 복원을 수행해야 하는 팀을 클릭합니다.</block>
+  <block id="2da6ba36cf461b42a7b144e4f6eb5e47" category="inline-image-macro">강조 표시된 채널 옵션 이미지</block>
+  <block id="fa19fea59c145c89e8564e309d8675bc" category="list-text">채널 * 을 선택합니다.<block ref="1d0f0df9a15034c90722c46d5c6218ba" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="332280e6e0db60cdbe9f221cbba62ed1" category="list-text">복원할 채널을 선택합니다.</block>
+  <block id="e0ced1542a71f016647743cb1885fa44" category="list-text">복원 옵션을 선택합니다.</block>
+  <block id="75a455dc16fefe23a94e52a2fd75fb4d" category="list-text">같은 팀으로 복원 * 을 클릭합니다.</block>
+  <block id="eb5e191008ef787789afcbcbf6c31c05" category="list-text">다른 팀으로 복원 * 을 클릭합니다.</block>
+  <block id="1e5527a860cfaaab1ea287d439954c5c" category="paragraph">다른 팀을 선택하려면 검색 상자에서 다른 팀을 검색합니다.</block>
+  <block id="acbb1f4785507a3281441e4a4d68c2cc" category="summary">SaaS Backup for Microsoft 365를 사용하면 Microsoft OneDrive for Business에 대해 세밀한 레벨의 복원을 수행할 수 있습니다.</block>
+  <block id="faa0f5a1248e536d78604c8e797d3ee7" category="doc">Microsoft OneDrive for Business에 대해 세밀한 레벨의 복원을 수행합니다</block>
+  <block id="d23cc6f5e569225d12d5cdee886dac91" category="paragraph">Microsoft OneDrive for Business 내에서 목록 또는 라이브러리에 대해 개별 폴더 또는 파일과 같은 세부 수준의 항목을 복원할 수 있습니다. OneNote 전자 필기장 또는 그룹을 복원할 수도 있습니다.</block>
+  <block id="61d6d9cdb505aceb7d54415f3c9d7708" category="paragraph">이 표에는 비즈니스용 OneDrive의 세분화된 수준 항목에 대해 지원되는 복원 옵션이 나와 있습니다.</block>
+  <block id="f4358c8d61b9142502c84ec14f5d48e9" category="cell">다른 MySite로 복원합니다</block>
+  <block id="ad2eec7f4375455e1590fcbe1e146676" category="cell">단일 드라이브</block>
+  <block id="8de39125da3a7480f054a0db5c87f290" category="cell">비즈니스용 OneDrive &gt; 내 사이트 를 선택합니다</block>
+  <block id="fa0b9f12a25cf3ea895539b7c94e44e9" category="cell">다중 드라이브</block>
+  <block id="5aa55f0093275bb98034a23ee84b73b9" category="cell">비즈니스용 OneDrive &gt; 내 사이트 &gt; &lt;드라이브 이름&gt;&gt; 파일</block>
+  <block id="8b580b7571abfc9d2a2f7d6a9eae5dc0" category="cell">비즈니스용 OneDrive &gt; 내 사이트 &gt; &lt;드라이브 이름&gt;&gt; 파일</block>
+  <block id="eafc4250fe746260edca6f7954cd60c6" category="cell">전자 필기장 폴더</block>
+  <block id="f837bf7d5d37157b44ff2886f10041c3" category="cell">OneNote 단일/여러 폴더</block>
+  <block id="e662d72b26f52bc8b331814844a8878e" category="cell">비즈니스용 OneDrive &gt; 내 사이트 &gt; &lt;드라이브 이름&gt;&gt; 파일 &gt; 전자 필기장</block>
+  <block id="aa035d0217f517223b6298f2cf434dff" category="list-text">대시보드에서 OneDrive 상자에서 * protected * 위의 번호를 클릭합니다.</block>
+  <block id="2e47d1736eecdf1bef2489dba6c07bfd" category="list-text">복구를 수행해야 하는 MySite 를 클릭합니다.</block>
+  <block id="c5f9ef8c43e0575336db0fc08d09df7b" category="list-text">파일 그룹을 선택합니다.</block>
+  <block id="cda61438ef2996027749b3f20e484032" category="paragraph">그룹 내의 개별 폴더 또는 파일을 복원하려면 파일 그룹을 클릭합니다. 전체 폴더를 복원하려면 폴더를 선택합니다. 폴더 내의 개별 파일을 복원하려면 파일이 들어 있는 폴더를 선택한 다음 개별 파일을 선택합니다.</block>
+  <block id="e49a66199f1cb7f668137d1d20aa3123" category="paragraph">개별 파일을 동일한 MySite로 복원하는 경우 기본적으로 현재 날짜 및 타임스탬프가 있는 복원 폴더가 백업 복사본이 포함된 원래 콘텐츠 위치에 만들어집니다.</block>
+  <block id="3076ca58beea18b1652a582b24651a89" category="paragraph">기존 내용 바꾸기 * 를 선택하면 현재 데이터가 백업으로 완전히 대체됩니다.</block>
+  <block id="07ecb71860048ba38a93da189f63d9ea" category="list-text">* 다른 MySite로 복원 *</block>
+  <block id="54524b98ef4427ca0093341d47a0325e" category="paragraph">다른 MySite로 복원하는 경우 검색 필드에 대상 MySite를 입력해야 합니다. 검색 필드에 대상 내 사이트의 일부를 입력하여 일치하는 대상 내 사이트에 대한 자동 검색을 시작할 수 있습니다.</block>
+  <block id="d7b83a62db242748835c90954a9d55e8" category="summary">사용자 계정에 관리 역할을 할당하여 하나 이상의 서비스에 대해 선택한 사용자에게 관리 권한을 부여할 수 있습니다.</block>
+  <block id="c4e76fab6890557f793699bf217c461e" category="doc">사용자 계정에 관리 역할을 할당합니다</block>
+  <block id="4c665c7201419346e367eb3ce862ec37" category="paragraph">사용자에게 다음 역할을 할당할 수 있습니다.</block>
+  <block id="9fa9d36d0c4d6feb0d7259e07602be2e" category="list-text">글로벌 테넌트: 모든 서비스, 스토리지 타겟 및 라이센스 업데이트(갱신/업그레이드)에 관리 권한을 부여합니다.</block>
+  <block id="3985ad78fd7f871485ccbc9ddb94ef4b" category="list-text">Exchange 관리자: Microsoft Exchange Online에만 관리 권한을 부여합니다. 다른 서비스는 보거나 수정할 수 없습니다.</block>
+  <block id="63dd9f2a76d950a535286a167e132e4b" category="list-text">OneDrive 관리자: Microsoft OneDrive for Business에만 관리 권한을 부여합니다. 다른 서비스는 보거나 수정할 수 없습니다.</block>
+  <block id="52faecfdc22c8a57d5e50557b8f453d6" category="list-text">SharePoint 관리자: Microsoft SharePoint Online에만 관리 권한을 부여합니다. 다른 서비스는 보거나 수정할 수 없습니다.</block>
+  <block id="f0f18f59e4c55713fe40502110e0c781" category="inline-image-macro">사용자 역할 옵션을 표시하기 위해 클릭한 아이콘의 스크린샷</block>
+  <block id="24d840a6e20f36b1beec3234a60d54fd" category="list-text">를 클릭합니다 <block ref="697713931a36b5ecf8304836cd65b0c5" category="inline-image-macro-rx" type="image"></block> 아이콘을 클릭합니다.</block>
+  <block id="a5a0d4b8cb743abdecacdbf223875b2b" category="list-text">추가할 사용자의 이메일 주소를 입력합니다.</block>
+  <block id="925e46990837a614fb2da6c0ab87e998" category="summary">사용자 계정에서 모든 관리 역할이 삭제된 경우 사용자는 SaaS Backup for Microsoft 365에서 자동으로 로그아웃됩니다.</block>
+  <block id="10aba5d6ead75cd92ab6422b8c0a09c8" category="doc">사용자 계정에서 모든 관리 역할을 삭제합니다</block>
+  <block id="43965d369bf81397d3394c94c930e27f" category="list-text">제거할 사용자 이름 옆의 * 사용자 삭제 * 를 클릭합니다.</block>
+  <block id="86ce5961ef6624058f736d93459d1889" category="list-text">예 * 를 클릭합니다.</block>
+  <block id="def516b1e747f5af311be3853f89bb66" category="summary">무료 평가판 계정에 적용되는 특정 제한 사항을 알고 있어야 합니다.</block>
+  <block id="30b2123030b8a0f2633415ae646de89b" category="doc">무료 평가판 제한</block>
+  <block id="9e2588b7501cf6b0c88398471f593e95" category="paragraph">무료 평가판 계정에 적용되는 제한 사항은 다음과 같습니다.</block>
+  <block id="32b69c2d83d1e70344bd1f17306f9077" category="list-text">Microsoft Exchange Online의 경우 최대 25명의 사용자와 Microsoft SharePoint Online의 경우 25개의 사이트 모음이 있습니다.</block>
+  <block id="0b5853ebc3db5edeef95409b7ec43107" category="list-text">하루에 최대 3개의 즉시 백업</block>
+  <block id="e5a3f64eb2def107afdd1de4d946b7fc" category="list-text">처음 30일 동안만 백업을 자동화합니다.</block>
+  <block id="c536ed29020f22f1c1b14efa4cdbb75d" category="list-text">무료 평가판이 종료된 후 15일의 유예 기간에는 예약된 백업이 허용되지 않습니다.</block>
+  <block id="95586af4ab51839471da911204e1aa78" category="list-text">모든 서비스에 대해 24시간 동안 최대 10개의 복원이 허용됩니다.</block>
+  <block id="80870c06cc314ae7a248df5ab62d3f5f" category="list-text">TeamsChat 백업은 기본적으로 비활성화되어 있으며 요청 시 saasbackupsupport@netapp.com 으로 SaaS Backup Support에 이메일을 보내 활성화할 수 있습니다. TeamsChat을 활성화하려면 모든 활성 팀 사용자에게 SaaS Backup의 라이센스가 있어야 합니다.</block>
+  <block id="00d00355ef5711acd5599efd3315cf5a" category="summary">OneNote 전자 필기장의 백업을 사용하도록 설정할 수 있습니다.</block>
+  <block id="5d3e7c02e2249ebaa04369c32c97e7e3" category="doc">OneNote에 대한 백업을 사용하도록 설정합니다</block>
+  <block id="d5e9bda7904a428d68232d420c3c087b" category="paragraph">기본적으로 OneNote 전자 필기장의 백업은 노트를 사용할 수 있습니다. OneNote 전자 필기장을 백업하려면 원하는 서비스에서 백업을 사용하도록 설정해야 합니다.</block>
+  <block id="d52057f77121ba5d329ef88b3f129278" category="list-text">서비스 관리 * 에서 백업 설정 아이콘을 클릭합니다 <block ref="92b2090f67667b3cc14920419b32a5f9" category="inline-image-macro-rx" type="image"></block> 업데이트해야 하는 서비스 옆에 있습니다.</block>
+  <block id="ae37372db7f9078c06178418ba51642b" category="paragraph">선택한 서비스에 사용할 수 있는 백업 설정 목록이 표시됩니다.</block>
+  <block id="057376ad330227f899f9aaacfd22dabf" category="list-text">OneNote 백업 사용 * 을 선택합니다.</block>
+  <block id="9846982bfecd18e5a3a222687054cefb" category="inline-link-macro">즉시 백업</block>
+  <block id="883e688529c085dc1c7223323e70395c" category="list-text">확인 * 을 클릭합니다. 전자 필기장은 다음 예약 백업에 포함됩니다. 즉시 백업하도록 하려면 를 수행합니다 <block ref="1a879ada2b33330864ad3e17ea446b89" category="inline-link-macro-rx"></block>.</block>
+  <block id="8d70214cbd536abf36aeb64c442660f0" category="summary">Microsoft SharePoint Online에서는 특정 서식 파일 및 앱만 지원됩니다.</block>
+  <block id="88d28573ab9ffce58598946fe0434eab" category="doc">Microsoft SharePoint Online에서 백업에 지원되는 서식 파일 및 앱</block>
+  <block id="ffde9454ef8c9e67824671b5f90ef4b3" category="paragraph">Microsoft SharePoint Online 백업에는 특정 서식 파일 및 특정 앱만 지원됩니다.</block>
+  <block id="7a1f04b2d3d1f53a86a127a04ae05ffa" category="section-title">지원되는 템플릿</block>
+  <block id="6d4899d90ff8e885f5d6afb716947caa" category="paragraph">Microsoft SharePoint Online 백업에는 다음 서식 파일만 지원됩니다.</block>
+  <block id="f147e417e253f3649fa08ee3c726c5b6" category="list-text">STS#0(팀 사이트)</block>
+  <block id="cddb8b7e396a9448541f168d850a1c89" category="list-text">블로그 #0(블로그 사이트)</block>
+  <block id="8895ca3fefee90156397266d924d5e41" category="list-text">개발 번호 0(개발자 사이트)</block>
+  <block id="9a492fb411effb6def9bd750ee241502" category="list-text">PROJECTITE #0(프로젝트 사이트)</block>
+  <block id="4319f1f8a534389d362338effa71fde1" category="list-text">커뮤니티 #0(커뮤니티 사이트)</block>
+  <block id="aeb0ae5333eb1d0d3a620b3e0a965e46" category="list-text">BDR #0(문서 센터)</block>
+  <block id="fcbb87b18a7ec7bfea87fd82fea3125e" category="list-text">COMMUNITYPORAL #0(커뮤니티 포털)</block>
+  <block id="a58b4305f2ff2b8240ab4d9a837c1cd9" category="list-text">ENTERWIKI #0(엔터프라이즈 위키)</block>
+  <block id="5a9fa37a8adc9079710c82bebd381be2" category="list-text">EHS #1(루트 사이트)</block>
+  <block id="a1c702db865ff7988cecde653d31e549" category="list-text">EHS #0(루트 사이트)</block>
+  <block id="e69fe81e6c14067bfa02448cc56f0d90" category="list-text">SITEPAGEPBLISHING #0(통신 사이트)</block>
+  <block id="cd6b1dceac9feb15ce679e63c41ec14b" category="list-text">그룹 #0(그룹 사이트 모음 접두사)</block>
+  <block id="02331da6f964bf5a355bef176199392c" category="list-text">STS #1(빈 사이트)</block>
+  <block id="370f28e84c7e5f280c6384763af39ff8" category="list-text">STS#2(문서 작업 영역)</block>
+  <block id="bb39ae34f785130781c5d7c8f66840ca" category="list-text">STS #3(현대적 팀 사이트)</block>
+  <block id="fa553c3989f3b275c2fd19183b6219e5" category="list-text">앱 #0(앱 템플릿)</block>
+  <block id="4d9496325ef678735e8ac8b99b7a562b" category="section-title">지원되는 앱</block>
+  <block id="9290c29ee8fb1ca756074402eebf6a86" category="paragraph">Microsoft SharePoint Online 백업에 지원되는 앱은 다음과 같습니다.</block>
+  <block id="f10f8b5e27c8e52848c81fc8f1025dbb" category="list-text">사용자 지정 목록</block>
+  <block id="39a1c3324bea872bb648de4db9d34f65" category="list-text">배지(커뮤니티 사이트)</block>
+  <block id="619974b872863ee37df921d6fa6d5fa0" category="list-text">문서 라이브러리</block>
+  <block id="93db1285bfd434b8930d19c0317cab66" category="list-text">스타일 라이브러리</block>
+  <block id="9fd9f9ccd630cd4b6894051c35710572" category="list-text">설문 조사</block>
+  <block id="97e7c9a7d06eac006a28bf05467fcc8b" category="list-text">링크</block>
+  <block id="feb4d2dfe1b2a637fdfd9e397cc4735f" category="list-text">발표</block>
+  <block id="bbaff12800505b22a853e8b7f4eb6a22" category="list-text">연락처</block>
+  <block id="8ff922bbcd8ad41cdfc48d3c5163b2ab" category="list-text">일정 을 클릭합니다</block>
+  <block id="22628ee5c8124425119177cbb4b7f11a" category="list-text">토론 게시판</block>
+  <block id="5daaf223b01f8f3e1bd9287170826fbc" category="list-text">사진</block>
+  <block id="c893ad8eb8595aa4966d36f7c951e53a" category="list-text">사진 라이브러리</block>
+  <block id="c6e0e5576576561ca3ab7a08fba1f7a9" category="list-text">콘텐츠 웹 파트</block>
+  <block id="bd6f28d24237dcd576da3b1d271c6bb4" category="list-text">목록 템플릿 갤러리</block>
+  <block id="5c0403cae0d3e889faa5cde29844e8b6" category="list-text">마스터 페이지 갤러리</block>
+  <block id="b06e76b30400670419eb3d90983679ea" category="list-text">사이트 페이지</block>
+  <block id="37033834962577c013de59b70186ef39" category="list-text">데이터 집합 보기의 사용자 지정 목록</block>
+  <block id="e5a591a549bc8d8ad0eefd2eb559be06" category="list-text">솔루션 갤러리</block>
+  <block id="7c37bb7776a666a8c97f5927c5e3019b" category="list-text">테마 갤러리</block>
+  <block id="9c8b01903f7a166e54dfb3193525d5cb" category="list-text">스타일</block>
+  <block id="cb4aae25d345e7b466586057b46028a2" category="list-text">승격된 링크</block>
+  <block id="ef615563c8e8ea902c7fcac3cd2c4246" category="list-text">작업</block>
+  <block id="f7d0ca23f2c157d8d0ac07fac914b66a" category="list-text">게시물(블로그 사이트)</block>
+  <block id="cce8835734dfe9b7c2260452dcd854e9" category="list-text">의견(블로그 사이트)</block>
+  <block id="2521c54712ade1513d67eadc3ffe3e4b" category="list-text">커뮤니티 토론(커뮤니티 사이트)</block>
+  <block id="6a2881dbd014f4890617b3c20c3c834d" category="list-text">범주(블로그 사이트)</block>
+  <block id="4e580e9e8258dd6fb9e7c90fdda37f10" category="list-text">커뮤니티 범주(커뮤니티 사이트)</block>
+  <block id="4b1b4dc8cf38b3c64b1d657da8f5ac8c" category="list-text">보고서</block>
+  <block id="e87f48c9651c58d2e58f8947cf30a34c" category="list-text">Wiki 페이지</block>
+  <block id="047a64de34ae096a1f0493bdf42f1b6e" category="list-text">사이트 모음 이미지</block>
+  <block id="43564d902352df1c4547a1b9d6430104" category="list-text">커뮤니티 구성원(커뮤니티 사이트)</block>
+  <block id="aea05eb879cbace15fd2959b2ec60ef5" category="list-text">문제 추적</block>
+  <block id="ef11d90479ba66a9b7d50d6adb0da043" category="list-text">레코드 라이브러리</block>
+  <block id="455f6098c420b0bff4fdf54a1d28b8f0" category="list-text">링크 공유</block>
+  <block id="9f2fcfa5d97760721b059c18ef5b9792" category="summary">SaaS Backup for Microsoft 365는 각 서비스에 대해 세밀한 레벨의 복원 옵션을 제공합니다.</block>
+  <block id="1e718270348135e714b61bc0076312f3" category="doc">복원에 대해 설명합니다</block>
+  <block id="e2b5ba78e3329ab5a4cbdfce0a0a04f3" category="paragraph">SaaS Backup for Microsoft 365를 사용하면 Exchange Online, SharePoint Online, OneDrive for Business, Microsoft 365 Groups 및 팀에 대해 높은 수준의 세분화된 복원을 수행할 수 있습니다.</block>
+  <block id="c525803a045e17d9d35a7cfc9cece73b" category="paragraph">높은 수준의 세분화된 복원을 수행하는 방법에 대해 알아보십시오.</block>
+  <block id="ad6991daa50b0be0ba36c8e2ba2212a6" category="inline-link-macro">높은 수준의 복원을 수행합니다</block>
+  <block id="b5adf625d57398016a2921892e61aa88" category="list-text"><block ref="b5adf625d57398016a2921892e61aa88" category="inline-link-macro-rx"></block></block>
+  <block id="d75ce65393734855fe533aacfcc7d983" category="inline-link-macro">Exchange Online에 대해 세밀한 레벨의 복구를 수행합니다</block>
+  <block id="b9db8ec0f23e492eef9298f2cd8b5051" category="list-text"><block ref="b9db8ec0f23e492eef9298f2cd8b5051" category="inline-link-macro-rx"></block></block>
+  <block id="5bb3fa910e120cd9a689d748c5654720" category="inline-link-macro">SharePoint Online에 대해 세밀한 레벨의 복원을 수행합니다</block>
+  <block id="cded0d3b4d7ca17508d11939adf092ed" category="list-text"><block ref="cded0d3b4d7ca17508d11939adf092ed" category="inline-link-macro-rx"></block></block>
+  <block id="c8898212ecbaaeefaf71fe1d609e3a8b" category="inline-link-macro">OneDrive for Business에 대한 세밀한 레벨의 복원을 수행합니다</block>
+  <block id="3933d0c349ab1ad962ae36a2672e0eb4" category="list-text"><block ref="3933d0c349ab1ad962ae36a2672e0eb4" category="inline-link-macro-rx"></block></block>
+  <block id="6d2f637ce543b5156bb3a8f036857fac" category="inline-link-macro">그룹 및 팀에 대해 세밀한 레벨의 복원 수행</block>
+  <block id="a9250406a7c0568aa247e286636a71f0" category="list-text"><block ref="a9250406a7c0568aa247e286636a71f0" category="inline-link-macro-rx"></block></block>
+  <block id="71d68aadf0764ae2a2c5790f9dd69d33" category="paragraph">다음 표에서는 서비스별로 지원되는 상위 수준 복원 옵션과 SaaS Backup에서 복원된 데이터를 찾을 위치를 보여 줍니다.</block>
+  <block id="c35caca31b890241f2234a0500b35f99" category="admonition">데이터가 삭제되거나 프로비전될 때 데이터를 다른 위치(사서함, 사이트, 내 사이트, 그룹 또는 팀)로 복원하거나 데이터를 내보낼 수 있습니다. 같은 위치로 복원할 수 없습니다.</block>
+  <block id="3cec94f2c3f7bd13aed2488dadd12834" category="section-title">Exchange Online을 클릭합니다</block>
+  <block id="c498028f45c9513d785b94168bceda23" category="cell">PST로 내보냅니다</block>
+  <block id="5b8ec75733bf40e15437bf34dcba31d7" category="paragraph">단일 편지함</block>
+  <block id="64f1aba985433f5ae146d2cb366d1df0" category="cell">Exchange Online &gt; 메일함 - 사용자/공유/아카이브</block>
+  <block id="081efe1270b786644d36e5aa6f69fedf" category="paragraph">여러 개의 사서함</block>
+  <block id="8f54d1dd77baa9497c2901783a54a1c6" category="paragraph">사서함 콘텐츠</block>
+  <block id="f3d00dac4ea5d988d1bed0a5e0cee71c" category="cell">Exchange Online &gt; 메일함 - 사용자/공유/아카이브 &gt; &lt;사용자 이름&gt;</block>
+  <block id="27bafb3855ae4ca3df676518f2aaad5a" category="section-title">SharePoint Online을 클릭합니다</block>
+  <block id="5906c8287870270a136a93286efc561a" category="paragraph">단일 SharePoint 사이트</block>
+  <block id="ceea731052fe801041ec905a3c50bc1e" category="paragraph">여러 SharePoint 사이트</block>
+  <block id="9cb2851f2fc40d659520409faab64fbb" category="paragraph">SharePoint 사이트 콘텐츠</block>
+  <block id="1a0453b74ffb4afb06052a3bab317d4a" category="paragraph">복구 전용 역할이 설정된 단일 SharePoint 사이트</block>
+  <block id="8b5346cfefa0c8ecaa9b72ee818bca8f" category="paragraph">단일 하위 사이트</block>
+  <block id="a9441c777652d9cb5cc3e36e9e161b94" category="paragraph">여러 하위 사이트</block>
+  <block id="a10de56910213f47318813bddbf1e305" category="paragraph">SharePoint 하위 사이트 콘텐츠</block>
+  <block id="e562f371266b0a4c99fc3ee3dc00c01e" category="paragraph">복원 전용 역할이 설정된 단일/다중 하위 사이트</block>
+  <block id="2950e5d428cbc3f55c7aec75694f130a" category="section-title">비즈니스용 OneDrive</block>
+  <block id="233893ba4ef99c6ae933d99cf7284b2a" category="paragraph">단일 드라이브 컨텐츠</block>
+  <block id="ff0ba39a03cb33697cb7ff9bfec49553" category="cell">비즈니스용 OneDrive &gt; 내 사이트 &gt; &lt;OneDrive 사용자&gt;</block>
+  <block id="a37ede293936e29279ed543129451ec3" category="section-title">그룹</block>
+  <block id="66dad12ced125ee91f6e7e1608d45379" category="paragraph">단일 그룹</block>
+  <block id="aa757fec2e3a65f0a20e30e66522437b" category="cell">Office 365 그룹 &gt; 그룹 을 클릭합니다</block>
+  <block id="bc8098767a42e7223a53bda7b8ba9269" category="paragraph">여러 그룹</block>
+  <block id="7e946cbd8fd8f7c1d60f897ade14b5d4" category="paragraph">콘텐츠를 그룹화합니다</block>
+  <block id="750fffdd85c2e30ad14e31f78b5cd2f9" category="cell">Office 365 그룹 &gt; 그룹 &gt; &lt;그룹 이름&gt; 을 클릭합니다</block>
+  <block id="037e67b55978384379c5e4f43a47b7cf" category="cell">Office 365 그룹 &gt; 그룹 &gt; (그룹 전자 메일) &gt; 그룹 이름 을 선택합니다</block>
+  <block id="87142a07bb206e902bb64ee601cb779e" category="paragraph">SharePoint 콘텐츠</block>
+  <block id="2fc8fc4b7340b9ec920c38b85b0a1034" category="cell">Office 365 그룹 &gt; 그룹 &gt; &lt;그룹 이름&gt; &lt;사이트 이름&gt;</block>
+  <block id="1fe1b6cf4f52930c301b03e5a69c42c2" category="section-title">팀</block>
+  <block id="31d7adc0e486b10f207e2139fa1df05e" category="paragraph">단일 팀</block>
+  <block id="5b05cc8922e5cd4106e24a7bba87bcd9" category="cell">Office 365 그룹 &gt; 팀 을 클릭합니다</block>
+  <block id="9528d50213406c7d27b09b8bc1d32b02" category="paragraph">여러 팀</block>
+  <block id="04c35d154f698a2cb2c9ad6e40d188e8" category="paragraph">팀 콘텐츠</block>
+  <block id="89b7be3d527b7868cb553f086da205bb" category="cell">Office 365 그룹 &gt; 팀 &gt; &lt;팀 이름&gt; 을 클릭합니다</block>
+  <block id="b785b982567e03d86f5b6b9b5bdab0d7" category="cell">Office 365 그룹 &gt; 팀 &gt; (팀 전자 메일) &gt; 팀 이름 을 클릭합니다</block>
+  <block id="0cefe645b99a17e5dcc4913cbadeef02" category="cell">Office 365 그룹 &gt; 팀 &gt; &lt;팀 이름&gt; &lt;사이트 이름&gt;</block>
+  <block id="14cb425d8170ed04f3d8016d5a0ccf20" category="paragraph">채널</block>
+  <block id="3255e277a9a04484a81db77abfbd29c2" category="cell">Office 365 그룹 &gt; 팀 &gt; (팀 전자 메일)</block>
+  <block id="5cd8ed00a66ee33edca00eaad743e706" category="summary">SaaS Backup for Microsoft 365에 대한 유료 구독을 시작하려면 백업에 사용할 스토리지 유형을 결정하고 글로벌 권한으로 Microsoft 365 서비스 계정을 만든 다음 등록 프로세스를 완료해야 합니다.</block>
+  <block id="e80ac21f1c9c2bfc1cd2b0c269ca21b1" category="doc">SaaS Backup for Microsoft 365의 유료 구독 시작을 위한 워크플로우</block>
+  <block id="247c11bc66df531c09cff7db883f88a8" category="paragraph">SaaS Backup for Microsoft 365에 대한 유료 구독을 시작하려면 다음을 수행해야 합니다.</block>
+  <block id="ea04a30a00c78442cf07b930689cf146" category="list-text">SaaS Backup에서 제공하는 Amazon S3 또는 Azure Blob 스토리지를 사용할 것인지 결정합니다.</block>
+  <block id="4cd94590bb8488a413e6a427480d3251" category="paragraph"><block ref="df8d60faebfd1140c689d69f47bd9ce6" category="inline-link-macro-rx"></block>.</block>
+  <block id="8d3f0f18dc9b273ca9550a870dbe7d40" category="inline-link-macro">전역 권한이 있는 MS Office 서비스 계정을 만듭니다</block>
+  <block id="26e30cb3b3b7e49ba99e599482c4943f" category="list-text"><block ref="0750c1541d066db27fcb92de8f731ee4" category="inline-link-macro-rx"></block>.</block>
+  <block id="d9dff68efce1d2c43a2e683a3e3892c3" category="inline-link-macro">Microsoft Exchange Online에 대한 가장 구성</block>
+  <block id="3fdbc6e8f5aa0984e0a873ddd2b4b61d" category="list-text">필요한 경우 <block ref="d615cc5d3d86f9e06cc0c85460172b97" category="inline-link-macro-rx"></block>.</block>
+  <block id="667e567bd9a816e74022b85d3fd8fe7d" category="inline-link-macro">SaaS Backup for Microsoft 365에 등록하십시오</block>
+  <block id="f092971e811548323e2a6e4cd354be67" category="list-text"><block ref="13f67ee669e54a16d2825d5b35242bd5" category="inline-link-macro-rx"></block> Microsoft 365 계정 또는 NetApp SSO 계정 사용</block>
+  <block id="4820d84d1889f00f60cdb5ea07f07a07" category="list-text"><block ref="4820d84d1889f00f60cdb5ea07f07a07" category="inline-link-macro-rx"></block></block>
+  <block id="1bb2a78dc3e9ffb014f08a4ac49ae300" category="inline-link-macro">선택 사항: 데이터를 즉시 백업합니다</block>
+  <block id="30f84fb052d031228dda8a31c47a259a" category="list-text"><block ref="30f84fb052d031228dda8a31c47a259a" category="inline-link-macro-rx"></block></block>
+  <block id="16daf462577519b0d19839a181d682b9" category="inline-image-macro">유료 가입 등록 프로세스의 워크플로</block>
+  <block id="c6c6de8db8834d9f44e28cef126e247b" category="paragraph"><block ref="c6c6de8db8834d9f44e28cef126e247b" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="b58854b8b60a93adfa442564c982e5ae" category="summary">필요한 경우 추가 계정을 추가하여 백업 성능을 향상시킬 수 있습니다. 서비스 계정은 동시 백업을 효율적으로 수행하는 데 사용됩니다.</block>
+  <block id="80000d10279f83495c8148778172b268" category="doc">추가 서비스 계정을 추가합니다</block>
+  <block id="5389efabc2aaccb0d177f57e3e10fcee" category="paragraph">필요한 경우 추가 서비스 계정을 추가하여 백업 성능을 향상시킬 수 있습니다. 서비스 계정은 동시 백업을 효율적으로 수행하는 데 사용됩니다.</block>
+  <block id="08c237a72d1fe465d2e31132c49e3c6d" category="list-text">관리자 권한이 있는 계정을 사용하여 Microsoft 365 관리 포털에 로그인합니다.</block>
+  <block id="0ff659b3cc13c913cf5af44c0ddfe785" category="list-text">앱 시작 관리자 아이콘을 클릭한 다음 * 관리자 * 를 클릭합니다.</block>
+  <block id="d8d5bb27be8aa4258c0b4ed91f6dbd5b" category="list-text">왼쪽에서 * 사용자 * 를 클릭한 다음 * 활성 사용자 * 를 클릭합니다.</block>
+  <block id="4713eb32f510a9811ee84d9f8c249166" category="list-text">새 계정을 만들려면 * 사용자 추가 * 를 클릭합니다.</block>
+  <block id="e611ae99ae3631d45726144e5a2d0125" category="list-text">아래 지침에 따라 양식을 작성합니다.</block>
+  <block id="8f553772fa5ced187ed87102e2eba53c" category="list-text">비밀번호 만들기 * 를 사용합니다.</block>
+  <block id="ebddd9b8dec14252c40390ddd14b9277" category="list-text">처음 로그인할 때 이 사용자가 암호를 변경하도록 설정 * 옵션을 선택 취소합니다.</block>
+  <block id="eb6dd7b3a1988f65e1f9db3d647a2e54" category="list-text">사용자 정의된 관리자 * 역할을 선택합니다.</block>
+  <block id="e76c5ebcbab2228978f5520c1b97fe96" category="list-text">Exchange 관리자 * 및 * SharePoint 관리자 * 를 선택합니다.</block>
+  <block id="5c57e3c9425367fa15846f0bbfecee71" category="list-text">제품 라이센스 없이 사용자 생성 * 을 선택합니다.</block>
+  <block id="4ba3bf5a45233c1e35e6449429f3ec63" category="inline-link-macro">대리 구성</block>
+  <block id="277f76c8c0f966b0854754f8faaa965a" category="list-text">새로 만든 서비스 계정으로 Exchange 백업을 실행하려면 새로 만든 이러한 서비스 계정에 Exchange 가장 권한을 할당합니다.<block ref="f52146cfd5ed9dd3b6de710708b6f366" category="inline-link-macro-rx"></block></block>
+  <block id="bd536ce27ad96dc258c6b1412a08e681" category="admonition">SaaS 백업은 OneDrive 및 SharePoint 사이트에 대한 사용 권한을 자동으로 할당하므로 이를 할당할 필요가 없습니다.</block>
+  <block id="e57936e09b683cb6c667122b7b0b8720" category="admonition">이 계정에서 MFA(다중 요소 인증)를 활성화할 수 있습니다.</block>
+  <block id="368818d54c4d27c59f580c411f82c199" category="summary">필요에 따라 Microsoft 365 서비스의 즉각적인 백업을 수행할 수 있습니다.</block>
+  <block id="cd79b1fefb1a3097943b559178952f47" category="doc">서비스의 즉각적인 백업을 수행합니다</block>
+  <block id="17895efa2fc56bcd7be9737506d37101" category="list-text">대시보드에서 즉시 백업을 수행할 서비스 상자에서 * protected * (보호됨 *) 위의 번호를 클릭합니다.</block>
+  <block id="1180971c25eec219405fa68a7cedc422" category="list-text">백업 옵션을 선택합니다.</block>
+  <block id="ecdb5ceceeba5d5b85316d0fa6742ebf" category="list-text">공유 사서함을 백업하는 경우 * shared * 탭을 클릭합니다.</block>
+  <block id="3a7dfc4233ee4fec81596b9c81b585d7" category="list-text">아카이브 사서함을 백업하는 경우 * archive * 탭을 클릭합니다.</block>
+  <block id="5f71ce1e40d24c8be9e666aa5d13059f" category="list-text">일반 사서함을 백업하는 경우 * user * 탭에 그대로 둡니다.</block>
+  <block id="d37125aa1203e784d774b66bfceda078" category="list-text">사이트를 백업하는 경우 * sites * 탭에 그대로 있습니다.</block>
+  <block id="46937b124e6729e022f8cf4b42f16764" category="list-text">사용자를 백업하는 경우 * user * 탭에 그대로 유지됩니다.</block>
+  <block id="d8bbeb9364b14ee84b097b00b753be77" category="list-text">그룹을 백업하는 경우 * GROUPS * 탭에 남아 있습니다.</block>
+  <block id="e8a1fbb32b2a1b3178fcfd50c8a09b11" category="list-text">팀을 백업하는 경우 * Teams * 탭을 클릭합니다.</block>
+  <block id="db5eb84117d06047c97c9a0191b5fffe" category="inline-link-macro">지원</block>
+  <block id="640309aa25313de298649fb87a464d3f" category="admonition">TeamsChat 메시지는 설정에서 TeamsChat이 활성화된 경우에만 백업됩니다. 연락처 <block ref="f87e0976e00f26ec4930aef7f830024f" category="inline-link-macro-rx"></block> 를 눌러 이 기능을 활성화합니다.</block>
+  <block id="dc89d6b1a23ea2635e17286063e0dd84" category="admonition">API 제한으로 인해 SaaS 백업은 퍼블릭 채널과 프라이빗 채널을 구분할 수 없습니다.</block>
+  <block id="49b7493001e7dcdbec9161260704573b" category="list-text">백업할 항목을 선택합니다.</block>
+  <block id="a3efa343d27df65bae9d3dde0ec1da86" category="list-text">지금 백업 * 을 클릭합니다.</block>
+  <block id="ab197c9ed22b1071d9c368b40ceca94f" category="inline-image-macro">지금 백업 버튼</block>
+  <block id="e749efd4835fdf339ee73d6ab5a9587c" category="paragraph"><block ref="e749efd4835fdf339ee73d6ab5a9587c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8bda9e61afc89be886f94a386ef3171b" category="paragraph">선택한 서비스가 백업을 위해 작업 대기열에 배치됨을 나타내는 메시지가 표시됩니다.</block>
+  <block id="021d5924e971c9212d3d219972054d52" category="list-text">확인 * 을 클릭합니다. 백업 작업이 생성되었다는 메시지가 표시됩니다.</block>
+  <block id="5307eda3f04b27eefef8e7482983dc2b" category="list-text">백업 진행률을 모니터링하려면 * 작업 진행률 보기 * 를 클릭합니다.</block>
+  <block id="d0237117579def0f9ce41ac02e334a5a" category="summary">복원된 파일 및 폴더의 제목과 위치에 대한 로그를 다운로드할 수 있습니다.</block>
+  <block id="65512882fe38fcc7733153860abf51e2" category="doc">복원된 파일을 찾습니다</block>
+  <block id="7fe5358a31cca8be2fe9fad27bbf5dbd" category="paragraph">일부 파일 또는 폴더가 복원되면 새로 만든 복원 폴더 내에 포함됩니다. 복원된 항목을 쉽게 찾을 수 있도록 복원된 파일 및 폴더의 이름과 위치가 포함된 Excel 파일을 다운로드할 수 있습니다.</block>
+  <block id="f0997eb0d9eac290b2d22c536116679c" category="list-text">을 클릭합니다 <block ref="57896efc0de0d48cea535446c297cd85" category="inline-image-macro-rx" type="image"></block> 를 클릭합니다.</block>
+  <block id="6fd64f207f0e6134860235423954cfc2" category="list-text">최근에 완료된 작업 * 에서 복원된 파일을 찾을 작업을 클릭합니다.</block>
+  <block id="f978b75b2595eb7b23b77cfcf1faf1d7" category="list-text">오른쪽 상단에서 * 다운로드 * 를 클릭합니다. Excel 파일은 특정 작업에 대해 복원된 파일의 이름과 위치가 포함된 로컬에 다운로드됩니다.</block>
+  <block id="7a5993af77d1032535cb5f108e621422" category="doc">Microsoft 365 무료 평가판 계정을 등록하십시오</block>
+  <block id="a6cf97b63eff3ad329ddd3b42602dc2c" category="paragraph">Microsoft 365 비즈니스 에디션 무료 30일 평가판으로 Microsoft 365 및 SaaS Backup for Microsoft 365의 최신 기능을 이용할 수 있습니다.</block>
+  <block id="154aaf2b1abad0f9ef74679e031ff9bb" category="inline-link">Microsoft 365 비즈니스 에디션 사이트</block>
+  <block id="6d9567e09b2cc2c796d047f8b47e3ca0" category="list-text">로 이동합니다<block ref="5a129d533828990ea282ed866872ff1c" category="inline-link-rx"></block> 를 클릭하여 평가판 구독을 시작합니다.</block>
+  <block id="0bed8b88d6fa9d144dd46e0009bce73c" category="list-text">1개월 무료 체험 * 을 클릭합니다.</block>
+  <block id="4d994d333f3504b3b25b3aa88931961b" category="list-text">화면의 지침에 따라 Microsoft 365 무료 평가판 계정을 만듭니다.</block>
+  <block id="ac9d3c00a505101ed1e06441d85735b3" category="section-title">서비스별 백업 설정</block>
+  <block id="619750f91d862423798373be968432f4" category="cell">백업 설정</block>
+  <block id="b5a7adde1af5c87d7fd797b6245c2a39" category="cell">설명</block>
+  <block id="00d23a76e43b46dae9ec7aa9dcbebb32" category="cell">활성화됨</block>
+  <block id="d80bfd170dd3773e01c0fb40cb25219a" category="cell">에서 사용 가능...</block>
+  <block id="016e420685040222b9875fc6b3710684" category="cell">자동 동기화</block>
+  <block id="c0cee666cc21d0d6d3f12cf54ec37d55" category="paragraph">새로 추가되거나 삭제된 사용자, OneDrives 또는 사이트 모음의 예약 동기화를 24시간마다 한 번씩 자동으로 수행할 수 있습니다.</block>
+  <block id="e9f7009a3509f4da8ce78cbad712b8a5" category="cell">기본적으로 사용됩니다</block>
+  <block id="fca7b3b0233475838090cb1abc9b407e" category="list-text">Microsoft Exchange Online을 참조하십시오</block>
+  <block id="329fec6008d2dac2b0e269dd3e99dd8f" category="list-text">Microsoft SharePoint Online을 참조하십시오</block>
+  <block id="4aaef138780beea79c57ea12a1cdb616" category="list-text">Microsoft 비즈니스용 OneDrive</block>
+  <block id="cc0c27c7f59e83f33f7ce4e86450e360" category="list-text">Microsoft 365 그룹</block>
+  <block id="6da6d3d90596106740200e7c8200aa47" category="cell">OneNote 백업을 사용하도록 설정합니다</block>
+  <block id="d726253eeefad57004924165f252e7a6" category="paragraph">OneNote 전자 필기장의 백업을 활성화합니다.</block>
+  <block id="826c19d01b527f2701cc3460b9c889de" category="cell">수동</block>
+  <block id="949e9195eef2fe24fc2dfc01f544f126" category="cell">복구 가능한 항목 복원을 활성화합니다</block>
+  <block id="ee68ea3fa60d667702f03f23d8e22d21" category="paragraph">사용자가 Microsoft Exchange 복구 가능 항목을 복원할 수 있도록 설정합니다.</block>
+  <block id="ce1356c00d37fc25350c7516025a9d0c" category="cell">복구 가능한 항목 백업을 활성화합니다</block>
+  <block id="c176e8be3bb2df779a5d12a4701d99c2" category="paragraph">Microsoft Exchange 복구 가능한 항목의 백업을 활성화합니다. 계층 1 백업 정책만 복구 가능한 항목의 백업을 허용합니다.</block>
+  <block id="a995389c49194b68e0749843ec7e69a1" category="cell">워크플로 포함</block>
+  <block id="f4030056a1c628eca00452d58c4a330b" category="paragraph">백업에 워크플로우를 포함합니다.</block>
+  <block id="20046b385b1b586492e70cfebf8eb108" category="cell">목록 보기 포함</block>
+  <block id="4de3a646759ee7e654cea6041fcd5c59" category="paragraph">백업에 목록 보기를 포함합니다.</block>
+  <block id="ce5042bb63f8278c49598fde61f8945e" category="cell">버전 기록 포함</block>
+  <block id="090fdf496b3a3c98b47cacb6308159ad" category="paragraph">백업에서 여러 파일 버전을 유지 관리할 수 있습니다.</block>
+  <block id="d3d26bbc2d70b82ae3aa8158b324cfc3" category="admonition">이 설정은 개별 파일에만 적용됩니다. 전체 폴더, 계층 또는 서비스에는 적용되지 않습니다.</block>
+  <block id="654bf677132bda977889396348f87202" category="cell">버전 수</block>
+  <block id="13acecebbbd0ca2e6afa122ec1d4809c" category="paragraph">유지할 백업 파일 버전의 수를 설정합니다. 기본적으로 최신 버전은 이 설정이 활성화되어 있지 않더라도 자동으로 백업됩니다.</block>
+  <block id="e871c947345cf496e214e1db0324d8f7" category="cell">기본적으로 20으로 설정합니다</block>
+  <block id="3a3c17a3d9770667859bdcd66c4a99a5" category="summary">서비스 설정에서 삭제된 항목을 켜면 모든 서비스에서 삭제된 항목을 볼 수 있습니다.</block>
+  <block id="4a86c772020231ba354111daad8015ab" category="doc">삭제된 항목 보기</block>
+  <block id="0e2f0e976aaeb091f6ae728602d424e1" category="paragraph">서비스 설정에서 * 삭제된 항목 표시 * 를 켜서 언제든지 모든 서비스에서 삭제된 항목을 볼 수 있습니다. 이렇게 하면 시간을 절약할 수 있습니다. 삭제된 항목에 대해 다른 백업을 탐색하는 대신 스위치를 켜서 삭제된 항목을 즉시 찾을 수 있습니다.</block>
+  <block id="31c3a6fb19eaa75f19d3d4cf4c7cc0f3" category="paragraph">기본적으로 스위치는 꺼져 있습니다.</block>
+  <block id="f70194f277103c9866dc8af364fee34e" category="inline-image-macro">이미지에 설정 아이콘이 표시됩니다</block>
+  <block id="cc3783ec881d2e39de64a154816053d1" category="list-text">설정 아이콘을 클릭합니다 <block ref="8f769a1a145e5a84c285d99fc1a5fbb8" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="4e46725c03162dfab1ba1995b82af54c" category="inline-image-macro">이미지는 삭제된 항목이 꺼진 상태를 보여줍니다</block>
+  <block id="3f6d15cf6c26cc238489594fa7211754" category="paragraph"><block ref="3f6d15cf6c26cc238489594fa7211754" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d30334bced72eec712bfb047aef308a7" category="list-text">[지운 편지함 표시] * 스위치를 켭니다.</block>
+  <block id="cfd226026b9b811c8a77e0355a9cb6f3" category="inline-image-macro">이미지는 삭제된 항목이 켜져 있고 백업 설정이 업데이트된 상태를 보여줍니다</block>
+  <block id="5ee8d5264a5042a291b5fd5c5e218cf7" category="paragraph"><block ref="5ee8d5264a5042a291b5fd5c5e218cf7" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="fb946ac62826c08c09ffa9bd4bdf1e4a" category="list-text">왼쪽 탐색 창에서 * Jobs * 를 클릭합니다.</block>
+  <block id="12e0aa55694b8ac667fc94104d1a6f89" category="list-text">가장 최근 백업을 열어 삭제된 항목을 확인합니다.</block>
+  <block id="c81cd01ae243c25c6c476879c6db1451" category="summary">SaaS Backup for Microsoft 365의 무료 평가판 계정을 시작하려면 무료 평가판 활성화 코드와 Microsoft 365 테스트 계정이 있어야 하며 등록 프로세스를 완료해야 합니다.</block>
+  <block id="a53495d623868aa543845636677455d7" category="doc">Workflow to 시작: SaaS Backup for Microsoft 365 무료 평가판으로 시작하십시오</block>
+  <block id="503b74ce08000ed04b7e1367ab725d60" category="paragraph">SaaS Backup for Microsoft 365의 무료 평가판을 시작하려면 다음을 수행해야 합니다.</block>
+  <block id="e5b83f3bd74f57bedec7051b3edc0cea" category="inline-link-macro">무료 평가판 제한</block>
+  <block id="072c8570727097dca3420a9c7c649846" category="list-text">에 유의하십시오 <block ref="e46da3c007b7c38fba9f43f9695924e1" category="inline-link-macro-rx"></block>.</block>
+  <block id="cd80e72aa996af149a742971d238d415" category="inline-link-macro">무료 평가판 활성화 코드</block>
+  <block id="0fcc28a99a98bf0ad3a1e462c6c0d146" category="list-text">을(를) 가지고 있습니다 <block ref="62811f4a6842b823647bfb89540f3517" category="inline-link-macro-rx"></block>.</block>
+  <block id="b838a93f5b20be89faad2438638eac93" category="inline-link-macro">Microsoft 365 테스트 계정을 등록하십시오</block>
+  <block id="3adccc1998f9398bcfb2f9e6e524bf75" category="list-text">필요한 경우 <block ref="115851e5c51477f08693fc62491b3e9b" category="inline-link-macro-rx"></block>.</block>
+  <block id="983360d0def6e102424fc3613cf2d572" category="list-text"><block ref="64ea1e8fc4e2b8d9ec6fc411042ab0e1" category="inline-link-macro-rx"></block>.</block>
+  <block id="ff9a805d222c3ac0916c371800a05a53" category="list-text"><block ref="c9af6193923e9dc20694b1344b3dc5c7" category="inline-link-macro-rx"></block> Microsoft 365 계정 또는 NetApp SSO 계정 사용</block>
+  <block id="2ccdff143d74916a1211dd44904e1999" category="list-text"><block ref="4820d84d1889f00f60cdb5ea07f07a07" category="inline-link-macro-rx"></block>.</block>
+  <block id="4ebc69d5d25f74d56798158e340179dc" category="list-text"><block ref="30f84fb052d031228dda8a31c47a259a" category="inline-link-macro-rx"></block>.</block>
+  <block id="46671751a991b10fda3d29f6f278422a" category="inline-image-macro">무료 평가판 등록 프로세스의 워크플로</block>
+  <block id="99e38848c9b38cfadce3b630d97abdaf" category="paragraph"><block ref="99e38848c9b38cfadce3b630d97abdaf" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="74524ae37b19d9cf62712abd2b11085c" category="summary">표 참조에서는 SaaS Backup에서 팀 데이터를 찾을 수 있는 위치를 보여줍니다.</block>
+  <block id="15ed07498534e492570fb7e8050ae853" category="doc">팀 데이터 위치</block>
+  <block id="28cb7fa26b2eed860a1681734c1aea62" category="paragraph">Microsoft 팀의 데이터는 SaaS Backup for Microsoft 365에 서로 다른 위치에 있습니다.</block>
+  <block id="b3249d731f3a72ac9550516d53e1d6b7" category="paragraph">이 표에서는 SaaS Backup에서 팀 데이터를 찾을 수 있는 위치를 보여 줍니다.</block>
+  <block id="a4f277ba4d9410ebd7493cf7009303d1" category="cell">팀 데이터</block>
+  <block id="d852828c0312d3ac425ccac759544a88" category="cell">SaaS Backup의 위치는 어디입니까?</block>
+  <block id="0c65c0fe7b2a50adfb7e670c677d5b46" category="cell">팀 이메일</block>
+  <block id="9100115e2aff2b117c852fe3040304f7" category="paragraph">Microsoft 365 Groups &gt; Teams &gt; SampleTeam &gt; Mailbox 를 클릭합니다</block>
+  <block id="1e3a0932caef0d54f54ddac0f3bdb0fd" category="cell">팀 채널</block>
+  <block id="4cbdec5ea161e9b6b980d06224dabdd2" category="paragraph">Microsoft 365 Groups &gt; Teams &gt; SampleTeam &gt; Channels 를 선택합니다</block>
+  <block id="920e4602a0824e2af97f4a63c3bc90e0" category="cell">팀 표준 채널 문서</block>
+  <block id="e7c152e404876a5a6cd114d04d220a66" category="paragraph">Microsoft 365 Groups &gt; Teams &gt; SampleTeam &gt; SharePoint Site &gt; Documents &gt; SampleTeam - StdChannel 을 선택합니다</block>
+  <block id="47c5d34b7b5e87d53a750f5e3d8b2c1f" category="cell">팀 표준 채널 채팅</block>
+  <block id="9ccca774fb81b652cd087e9416ace891" category="list-text">Microsoft 365 그룹 &gt; 팀 &gt; SampleTeam &gt; 사서함 &gt; 대화 &gt; 팀 채팅 을 클릭합니다</block>
+  <block id="b25b9eb6f507005b0d03b3233d710329" category="list-text">Microsoft 365 그룹 &gt; 팀 &gt; SampleTeam &gt; 사서함 &gt; 메일 &gt; 대화 내용 &gt; 팀 채팅(실제 위치)</block>
+  <block id="bd43e19934149f41f9b6e9ac77d017b0" category="cell">팀 비공개 채널 문서</block>
+  <block id="3a13ec2cbb025ae5611b89648fb19b07" category="paragraph">SharePoint &gt; SampleTeam – SampleTeam - PrivChannel &gt; 문서 &gt; SampleTeam - PrivChannel</block>
+  <block id="90640bfc79082f48dda2439d9b741378" category="admonition">이름이 “&lt;팀 이름 – 개인 채널 이름&gt;”인 별도의 사이트 모음이 있습니다. 템플릿 ID:TEAMCHANNEL#0을 사용하여 이러한 사이트 모음을 필터링할 수 있습니다.</block>
+  <block id="9ce0ffd19f44db5afee1e428758cc8d9" category="cell">팀 비공개 채널 채팅</block>
+  <block id="5ac119267c5f1e9c826c53cd06bc543d" category="list-text">Exchange &gt; “개인 채널의 사용자” &gt; 메일 &gt; 대화 &gt; 팀 채팅 을 선택합니다</block>
+  <block id="afb54ad4d75600ab9ea86f48e4cdbfa6" category="list-text">Exchange &gt; “개인 채널의 사용자” &gt; 메일 &gt; 대화 기록 &gt; 팀 채팅(실제 위치)</block>
+  <block id="002d9fca417b7498bd93925b66a9537f" category="cell">개별 사용자 채팅 및 그룹 채팅</block>
+  <block id="ecc13afaeb6107f3ffc2b41a5af9e195" category="list-text">Exchange &gt; “사용자” &gt; 메일 &gt; 대화 내용 &gt; 팀 채팅(실제 위치)</block>
+  <block id="7de191b83c23da9f013bbffc9dcf53ae" category="cell">개별 사용자 채팅 및 그룹 채팅에서 공유되는 파일</block>
+  <block id="118a5414cacce486de3b92817ef0fe94" category="summary">SaaS Backup for Microsoft 365에 등록할 때는 전역 관리자 권한으로 새 Microsoft 365 서비스 계정을 만드는 것이 좋습니다.</block>
+  <block id="7c655a6168c9e197c82ded816cff150b" category="doc">새 Microsoft 365 서비스 계정을 만듭니다</block>
+  <block id="4bd45d06f9871744e10e2123eb1797cb" category="paragraph">새 Microsoft 365 계정을 만들 때 이 계정에는 유효하고 할당된 Microsoft Office 365 라이선스가 있는 전역 관리 권한이 있어야 합니다.</block>
+  <block id="48c466a3b30139c9596b9b755f86d608" category="paragraph">SaaS Backup for Microsoft 365는 이 서비스 계정만 사용하는 것이 아닙니다. 다음 이미지는 아래에 설명된 다양한 서비스 계정 유형을 나타냅니다.</block>
+  <block id="4a9b8df2da2aa8f729da4ec5418ad136" category="paragraph">* 서비스 계정 설명 *</block>
+  <block id="0eff159375ae2a355a3eeb4485038d4d" category="inline-image-macro">서비스 계정 유형</block>
+  <block id="45c8d220d9eea59e8b41b248063dcd0a" category="paragraph"><block ref="45c8d220d9eea59e8b41b248063dcd0a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8e63f7e2ba7ffa9a33982b4227a64e05" category="inline-image-macro">빨간색 1번</block>
+  <block id="36800229bb8c9b166323037bb647be04" category="inline-image-macro">빨간색 2번</block>
+  <block id="f8e57abf7b1ab0f1a13d1fcfa42a1bee" category="inline-image-macro">빨간색 3번</block>
+  <block id="c0afe19b37d8d68ab2805eb365e8f569" category="paragraph"><block ref="3f6ca1eadf75a5bc523be0ab0decd8d3" category="inline-image-macro-rx" type="image"></block> SaaS Backup에 등록하는 데 사용되는 계정이며, 등록하는 동안 유효한 Microsoft 365 라이센스로 전역 관리 권한이 필요합니다. 백업 및 복원 작업에 사용할 수 있습니다.<block ref="a4880b4ac8004f3fc5430fe64280d54f" category="inline-image-macro-rx" type="image"></block> zzzCCconfigacct * 는 Microsoft 365 그룹을 검색하기 위한 서비스 계정으로 자동 생성됩니다. Modern Authentication이 활성화된 경우 ZZZ Config 서비스 계정이 없습니다.<block ref="6c9ad94934e447521fdd01be977df60c" category="inline-image-macro-rx" type="image"></block> 백업 및 복원 작업의 성능을 향상시키기 위해 추가 서비스 계정을 추가할 수 있습니다.</block>
+  <block id="17ec37f7e4cb59380aa0ce4555554bf3" category="section-title">전역 관리자 권한으로 새 MS 365 서비스 계정을 만듭니다</block>
+  <block id="751a71d636892cbf66cfcaa823fb51ba" category="paragraph">등록 중에 글로벌 사용 권한과 유효한 Microsoft 365 라이선스가 있는 계정을 만듭니다. 등록을 완료한 후 이 계정에서 전역 관리 권한과 라이센스를 제거할 수 있습니다.</block>
+  <block id="1a3f62512f1649d7c2d278df12d6a29a" category="list-text">관리자 권한이 있는 계정을 사용하여 Microsoft 365 관리 포털에 로그인합니다.</block>
+  <block id="99fe7b3fbf552951ac69f84baed6cdea" category="list-text">사용자 * 를 클릭합니다.</block>
+  <block id="e8a3f369f7aea8805d660e7fad0cec5f" category="inline-image-macro">사용자 아이콘의 스크린샷</block>
+  <block id="8319e061d4cde21c648e4bbf823d63cc" category="paragraph"><block ref="8319e061d4cde21c648e4bbf823d63cc" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="16a1b33f8ec3768b5420fb2e4d9802be" category="list-text">활성 사용자 * 를 선택한 다음 * 사용자 추가 * 를 클릭합니다.</block>
+  <block id="4ee40d9a2af73e3448d1189d6a267e61" category="inline-image-macro">Microsoft 365 관리 센터 스크린샷</block>
+  <block id="af8e0c590a6202f4fd3ff65fc2bb2258" category="paragraph"><block ref="af8e0c590a6202f4fd3ff65fc2bb2258" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="ebc2bf6b0c8687d635b0a72d8f6652e4" category="list-text">새 서비스 계정의 세부 정보를 입력합니다.</block>
+  <block id="20db0bfeecd8fe60533206a2b5e9891a" category="list-text">이름</block>
+  <block id="8d3f5eff9c40ee315d452392bed5309b" category="list-text">성</block>
+  <block id="bc9e270b7b1a09eeac794d32b3d9dc8f" category="list-text">표시 이름</block>
+  <block id="e1c548dfee241e6a271b8779b7c777f4" category="list-text">사용자 이름 사용자 이름은 서비스 계정의 이름입니다.</block>
+  <block id="a593b5503558b6488ac5d2afb4077e34" category="list-text">역할 * 을 확장하고 * 글로벌 관리자 * 를 역할로 선택한 다음 * 추가 * 를 클릭합니다.</block>
+  <block id="053677d1f062c4fc0d73d79e2a9a0327" category="inline-image-macro">Microsoft 365에서 사용할 수 있는 관리자 역할 스크린샷</block>
+  <block id="c5ea5a7b3930b93ff34bed084a59ea38" category="paragraph"><block ref="1b086ef7a53bad9f613f20d483710302" category="inline-image-macro-rx" type="image"></block>서비스 계정 세부 정보가 관리자에게 전송됩니다.</block>
+  <block id="008e3413bf3128f4bba846ae136ed6a3" category="list-text">새 계정으로 Microsoft 365 관리 포털에 로그인하여 활성화합니다.</block>
+  <block id="7309a58659aaaff8f88210e4063ffe2b" category="list-text">가입 후 이 서비스 계정이 다음 세 가지 권한을 유지하는지 확인합니다.</block>
+  <block id="d0305102d085d77de52b61207909d47e" category="list-text">Exchange 관리자</block>
+  <block id="7c69695c5fae4b8a30117ad3da3b34b0" category="list-text">SharePoint 관리자</block>
+  <block id="cde8b2b845367a9ef3323f0b1321e90d" category="list-text">응용 프로그램 가장 역할입니다</block>
+  <block id="8c8883c0392732f098d638ca9570adf3" category="paragraph">이 기능은 글로벌 관리자 역할에 대한 개별 라이선스를 제한하는 경우에 특히 중요합니다.</block>
+  <block id="4a08e661e1b50d206e4d343f8bddae4d" category="section-title">ZZZ 구성 서비스 계정</block>
+  <block id="93cbfc166ef53f05a312ae934dca3120" category="paragraph">ZZZ Config 서비스 계정은 기본 인증을 사용하는 경우 공유/아카이브 사서함 및 개인 그룹을 검색하는 데 사용되는 자동 생성 계정입니다. Exchange 및 SharePoint 사용 권한이 있어야 합니다(M365의 사용자 지정 관리자). 이 계정을 MFA 정책에서 제외하는 것이 좋습니다. 검색 또는 백업 실패를 방지하려면 계정을 그대로 두십시오.</block>
+  <block id="8a473533f223a2aaaff4bb0dee2e40f8" category="paragraph">Modern Authentication을 활성화하면 ZZZ Config 서비스 계정이 제거됩니다.</block>
+  <block id="b1704dfbe6f842e95ceaea412c2f3141" category="paragraph">새 고객에게는 ZZZ Config 서비스 계정이 없습니다.</block>
+  <block id="b153d6df04986e031e8cdcee42514143" category="section-title">추가 서비스 계정을 만듭니다</block>
+  <block id="71f827eb8de41b274dee83ee2a67caab" category="paragraph">SaaS Backup for Microsoft 365에 서비스 계정을 추가하여 고객의 백업 성능을 향상할 수 있습니다. 서비스 계정은 라이선스가 없는 Microsoft 365 사용자 계정이며 백업 및 복원 작업에 사용됩니다.</block>
+  <block id="ebe7ee976226a8fc0a086901cc35b2ec" category="paragraph">이 유형의 계정에는 3가지 권한이 필요합니다.</block>
+  <block id="65745cfa854e2d246b0db140661516ba" category="list-text">Exchange 관리자</block>
+  <block id="ec564c8443249a8ff6ea69218134ff74" category="list-text">SharePoint 관리자</block>
+  <block id="a42a9d9d8fadbaec0e1d4229ccab3f7d" category="list-text">응용 프로그램 가장 역할입니다</block>
+  <block id="0d75fdd856c16738b2215a01a4769262" category="paragraph">서비스 계정을 추가하려면 Microsoft 365 환경에 서비스 계정이 이미 있어야 합니다. 기존 계정이 없는 경우 계정을 만듭니다.</block>
+  <block id="8d9cbf036fe97b0df26a68a540b482a8" category="admonition">성능을 최적화하려면 Office 365에서 사용자 1000명당 서비스 계정 1개를 추가하는 것이 좋습니다.</block>
+  <block id="55ad18c25923fabae2ed0e076bec70fe" category="list-text">SaaS Backup for Microsoft 365에 로그인합니다.</block>
+  <block id="631cb6d0304ba6853f2f328d341ededc" category="inline-image-macro">설정 기어 아이콘</block>
+  <block id="8753946956023dc5b9115512b60b950c" category="list-text">을 클릭합니다 <block ref="b1edfb541d9b2da7c3aa3ac273577864" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="893a8ddaf0af1dc163da6dcc1f26a639" category="list-text">서비스 설정 * 을 클릭합니다.</block>
+  <block id="50402350bb3e81c75496f877906980d1" category="inline-image-macro">서비스 설정 을 클릭합니다</block>
+  <block id="4bfff1f5683f164bc4120c8395aa9d0d" category="paragraph"><block ref="4bfff1f5683f164bc4120c8395aa9d0d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="768d18144454e6cec5a96d61cb09fd9c" category="inline-image-macro">더하기 아이콘</block>
+  <block id="e433e518ca9b4fe60684ddc7f5581bb7" category="list-text">서비스 계정을 추가하려면 을 클릭합니다 <block ref="b85a0429d8ca07f2019bbb29bac661e7" category="inline-image-macro-rx" type="image"></block> 에서 * 서비스 계정 관리 * 를 선택합니다.</block>
+  <block id="20633c67d5bb6033748d448908d3ab39" category="inline-image-macro">더하기 아이콘을 클릭하여 서비스 계정을 추가합니다</block>
+  <block id="993c5a4a97ad1b9085ce6eb9cc4a8e75" category="paragraph"><block ref="993c5a4a97ad1b9085ce6eb9cc4a8e75" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a8e2f7769bc8afae460acb597b749db7" category="paragraph">확인 메시지가 나타납니다.</block>
+  <block id="3fe77a73bf9ea3e704bc6cbed44832f8" category="inline-image-macro">신규 서비스 계정 팝업 확인 메시지 추가</block>
+  <block id="41cb17958d9becc3c217a565cd39ed37" category="paragraph"><block ref="41cb17958d9becc3c217a565cd39ed37" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6d9c1757137522dd3b832ee1850c5c89" category="list-text">Microsoft 365 로그인 페이지에서 위에 언급된 서비스 계정의 자격 증명을 제공하여 SaaS Backup에 추가합니다.</block>
+  <block id="2423846ae54ff4d69d2a834f8a8971fc" category="doc">작업 기록 및 활동 로그를 봅니다</block>
+  <block id="66ded934122f399530ce8733141f4ba9" category="paragraph">SaaS Backup for Microsoft 365는 SaaS Backup 내에서 수행된 작업 내역과 모든 작업의 로그를 저장합니다.</block>
+  <block id="49b8313eea377b0b8bbefc62a904d114" category="section-title">작업 기록을 봅니다</block>
+  <block id="f28ed8af0cff73798f4f5cd103fd6669" category="paragraph">NetApp SaaS Backup for Office 365에서 모든 작업 기록에 대한 보고서를 보거나 다운로드할 수 있습니다. 작업 유형, 서비스, 시작 시간, 종료 시간 및 완료 상태를 기준으로 검색을 필터링할 수 있습니다.</block>
+  <block id="999bcd77c4e33a6918284c583271b071" category="list-text">왼쪽 탐색 창에서 * Reporting * (보고 *)을 클릭합니다. 모든 SaaS Backup 작업 목록이 * Job History * 탭 아래에 표시됩니다.</block>
+  <block id="aeeacd02195ea6f4b02483630b5e0a23" category="list-text">결과를 필터링하려면 * Filter * 를 클릭합니다.</block>
+  <block id="71e041aaf292122c8fb7eb01ecfd1b22" category="list-text">선택 * 드롭다운 메뉴를 클릭하고 필터를 선택합니다. 정책, 서비스, 유형 또는 상태별로 필터링할 수 있습니다. 필터를 선택하면 검색 필드가 나타납니다.</block>
+  <block id="3deda0ce819231f6e8ce22db93db3cf4" category="list-text">필터를 더 추가하려면 * 필터 추가 * 를 클릭합니다.</block>
+  <block id="75503e061f60e8b69f3aa7e19a8d1fea" category="list-text">추가 작업 세부 정보를 보려면 작업을 클릭하여 보기를 확장합니다.</block>
+  <block id="ea5b9d4d0e5dd36b4b06b00793524d2b" category="section-title">활동 로그를 봅니다</block>
+  <block id="f3a1b4d7bacb8bbf3b5dbcdd7d72273b" category="paragraph">로그는 SaaS Backup for Microsoft 365 내에서 발생하는 모든 활동의 저장됩니다. 이 로그에는 작업을 수행한 사용자의 이름과 함께 수행된 각 작업의 날짜가 포함됩니다. 서비스 및 이벤트별로 활동 로그를 필터링할 수 있습니다. 예를 들어 Microsoft Exchange Online에 대해 발생한 모든 복원 작업을 확인해야 하는 경우 작업 로그를 필터링하여 해당 특정 결과를 볼 수 있습니다.</block>
+  <block id="153d602c1f68a3d111864d674bca8233" category="list-text">왼쪽 탐색 창에서 * Reporting * (보고 *)을 클릭합니다.</block>
+  <block id="303ba20d6cda77d4c350c34e272105d9" category="list-text">선택 * 드롭다운 메뉴를 클릭하고 필터를 선택합니다. 서비스 또는 이벤트별로 필터링할 수 있습니다. 필터를 선택하면 검색 필드가 나타납니다.</block>
+  <block id="5bc78b1267d6eec17e7aaa5b202fecff" category="list-text">필터 적용 * 을 클릭합니다.</block>
+  <block id="41955109dea41ba0ab1c9aec91534fff" category="paragraph">필터 결과가 표시됩니다.</block>
+  <block id="a0ea6c6911559843552bcc56ded3944f" category="summary">라이센스를 추가하거나 릴리즈할 수 있습니다.</block>
+  <block id="ec01ce5d7a75843507cddc0f1e980f6a" category="doc">라이센스를 추가합니다</block>
+  <block id="f107403a51da9715c55c82dcbb161e3f" category="inline-xref">유료 구독 시작 워크플로</block>
+  <block id="c868c54ae5c3125041dc274cfd194cea" category="paragraph">유료 구독에 대한 라이선스를 방금 받은 경우 다음을 따르십시오 <block ref="c5414855c6c1726b18ea39487883aef4" category="inline-xref-macro-rx"></block>. 워크플로의 일부로 라이센스 키를 입력합니다.</block>
+  <block id="dc03f45708897a13fda9ad9868da3303" category="paragraph">SaaS Backup을 이미 사용 중인 경우 다음 단계를 따라 라이센스를 추가할 수 있습니다.</block>
+  <block id="ce5e8658881b9dee19c0ca19ac36505b" category="paragraph">교육 도메인은 교직원용 라이센스와 학생을 위한 별도의 라이선스를 가질 수 있습니다.</block>
+  <block id="935f9ecad6dadf1ce20d75b6aa7ad1ef" category="list-text">을 클릭합니다 <block ref="196c8e0673c96199553d3e57046ae92d" category="inline-image-macro-rx" type="image"></block> 오른쪽 모서리에 있습니다.</block>
+  <block id="a03cffdbe1f3f253a7304e56ead38182" category="list-text">라이센스 정보를 입력합니다.</block>
+  <block id="c1263ba906c5f50faf7010ae019c7c55" category="list-text">구독 유효성 확인 * 을 클릭합니다.</block>
+  <block id="23161a5e63c9c44494f871a1608a273d" category="summary">NetApp SaaS Backup for Microsoft 365 커뮤니티 포럼 및 기술 자료 문서에서 자세한 내용을 확인하고 도움을 받을 수 있습니다.</block>
+  <block id="f22c49ab181fc5052dc2afb2f7870c8a" category="paragraph">이러한 리소스는 탐색 메뉴의 * Support * 링크를 통해 SaaS Backup 내부에서 액세스할 수 있습니다.</block>
+  <block id="b24ecb506263a514c17f950224cec618" category="paragraph">또한 SaaS Backup 지원 팀에 saasbackupsupport@netapp.com 으로 이메일을 보낼 수도 있습니다.</block>
+  <block id="c2c253473c149fda2d48d5167c2d34a0" category="summary">SaaS Backup for Microsoft Office 365에서는 이메일 또는 URL 주소, 메일박스 유형, 라이센스 사용, 검색 상태, 마지막 검색, 백업 상태, 백업 계층 등</block>
+  <block id="6de715212b8c85391172dc81638f2bfb" category="doc">사용자 데이터를 모니터링합니다</block>
+  <block id="6aaa73c1970866ed9779b298b48bd43a" category="list-text">서비스 * 를 클릭합니다.</block>
+  <block id="2558d9db0b78845a470a13c5d27203ff" category="list-text">사용자 데이터를 내보낼 서비스를 클릭합니다.</block>
+  <block id="abec412086c37030b63cbae445e65867" category="list-text">Microsoft Exchange Online의 경우 보호된 사서함, 보류 사서함 또는 보호되지 않은 사서함 수를 클릭합니다.</block>
+  <block id="d37abdad3365fb4bfc80013704eecb74" category="list-text">Microsoft SharePoint Online의 경우 보호, 보류 또는 보호되지 않는 사이트 수를 클릭합니다.</block>
+  <block id="a88f4677d2cd387077ad1f9f075f7119" category="list-text">Microsoft OneDrive for Business의 경우 보호, 보류 또는 보호되지 않는 내 사이트 수를 클릭합니다.</block>
+  <block id="e490c4bc06c38e92ac709b0b47286bff" category="list-text">Microsoft Office 365 그룹의 경우 보호 그룹, 보류 그룹 또는 보호되지 않는 그룹 수를 클릭합니다.</block>
+  <block id="1c24e4cd44f8c150190cd0afe637d614" category="list-text">해당 서비스에 대한 사용자 데이터의 Excel 파일을 내보내려면 * 다운로드 * 를 클릭합니다.</block>
+  <block id="e9ca6da7a1d41ccd25cae73c996ab02a" category="summary">지원을 활성화하면 전화, 온라인 채팅 또는 웹 티켓 시스템을 통해 기술 지원에 액세스할 수 있습니다.</block>
+  <block id="83f88ebd41a2d4bf2440a2d134086a74" category="doc">지원을 활성화합니다</block>
+  <block id="1d66d7cc63a334746d671e14b2982f40" category="paragraph">NetApp을 통해 SaaS Backup을 구입한 경우 기본적으로 지원이 활성화됩니다. AWS와 같은 클라우드 마켓플레이스를 통해 SaaS Backup을 구입한 경우 지원을 활성화해야 합니다. 지원을 활성화하면 전화, 온라인 채팅 또는 웹 티켓 시스템을 통해 기술 지원에 액세스할 수 있습니다.</block>
+  <block id="b4bb5829d02f0e6ae890ecb7e5e4b540" category="paragraph">SaaS Backup 평가판 버전에서 업그레이드하는 경우 업그레이드 프로세스를 완료하기 전이나 후에 지원을 활성화할 수 있습니다.</block>
+  <block id="661792ef5e2f0774f4e4af5a84b381b3" category="paragraph">지원을 활성화하려면 NetApp SSO 사용자 ID 및 암호가 있어야 합니다. NetApp SSO 계정이 없는 경우 로 이동하십시오<block ref="b56b58ae2c0373b02c7437e945163b59" category="inline-link-rx"></block> 를 클릭하여 1에 등록하십시오. 요청이 처리되면 NetApp SSO 자격 증명이 포함된 이메일 알림을 받게 됩니다. 요청을 처리하고 알림 이메일을 보내는 데 약 24시간이 걸립니다.</block>
+  <block id="de7f7e804841b50289ac8b7bfe9210c8" category="inline-image-macro">MS 서비스 설정 아이콘</block>
+  <block id="5281ebf1bde282868c196cdcb2365e84" category="list-text">설정 아이콘을 클릭합니다 <block ref="db2cd4431e8f265a98c4345e0980d802" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="7618f09daf91e446d0b6bdedbf40da74" category="list-text">지원 활성화 * 상자에서 * 활성화 * 를 클릭합니다.</block>
+  <block id="b1a1fe6a5f36f4773bea9cc983a1b11a" category="list-text">NetApp SSO 사용자 이름 및 암호를 입력하십시오.</block>
+  <block id="16f533344992e39a95d4d5db43fdcbd8" category="list-text">Activate * 를 클릭합니다.</block>
+  <block id="26aca1efdf61bf87d67652819c9abc08" category="paragraph">지원 상태는 현재 * 활성 * 입니다.</block>
+  <block id="afa4a3e5d1b7ea0bb4463dbc220816cd" category="summary">규칙을 사용하면 사전 정의된 기준에 따라 사용자를 미리 선택된 백업 계층으로 자동으로 이동할 수 있습니다.</block>
+  <block id="96c5c2a6a16af4dbce3c3c185b2600d2" category="paragraph">Microsoft Exchange Online, OneDrive for Business, SharePoint Online 및 Microsoft Office 365 그룹에 대한 규칙을 만들 수 있습니다.</block>
+  <block id="245a50c7f83ec336dcce1b49eaadfe92" category="inline-image-macro">규칙 생성을 위한 사용자 정의 필터 및 SaaS Backup 정의 필터의 예</block>
+  <block id="9472fea1831b90ee514f0ee8d8f8cdd4" category="paragraph">규칙을 만들려면 데이터에 사용자 정의 필터를 적용해야 합니다. 적용된 필터는 * 필터 * 아이콘 아래에 표시됩니다. NetApp SaaS Backup for Microsoft 365 기본 필터는 회색으로 표시됩니다. 사용자 정의 필터는 연한 파란색으로 나타납니다.<block ref="4197bfc4aebe6e6734416ba995e70d18" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2aedef02b2ed09f1d4e2fcd6c3fae26e" category="paragraph"><block ref="c19bb902a48f13264b9ec9addfdb6c34" category="inline-xref-macro-rx"></block></block>
+  <block id="88e808b9882b8ca6d9c43f50b12cc131" category="paragraph">여러 규칙을 만들 수 있습니다. 규칙은 * 규칙 관리 * 목록에 나타나는 순서대로 적용됩니다.</block>
+  <block id="84f0975bea0921d5118d07c306d0e814" category="inline-image-macro">규칙 만들기 단추의 스크린샷</block>
+  <block id="156041abd9a046b566b525d8a6f00ad1" category="paragraph">사용자가 생성한 필터가 적용되지 않은 경우 <block ref="4b9a42856f689f56835528f6307a41f4" category="inline-image-macro-rx" type="image"></block> 나타나지 않습니다.</block>
+  <block id="cc474a06804640e7a2d740ff8518031f" category="inline-image-macro">필터 버튼</block>
+  <block id="f67f40d5522dc58ef63072f6846666cb" category="paragraph"><block ref="f67f40d5522dc58ef63072f6846666cb" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="13c46ccb6be9a19f08dc6e1af943395e" category="list-text">선택 * 드롭다운 메뉴를 클릭하고 필터를 선택합니다. 검색 필드가 나타납니다.</block>
+  <block id="861af3a80de8a97131d4ea4295d5d696" category="list-text">규칙 만들기 * 를 클릭합니다.</block>
+  <block id="18ee2602192f06faa8f838ee4a14f161" category="list-text">규칙 이름을 입력합니다.</block>
+  <block id="231aced9811beda187802ce4b38288e2" category="list-text">대상 그룹 * 에서 규칙의 기준을 충족하는 사용자를 이동할 계층을 선택합니다.</block>
+  <block id="4fcf32e464a495c818c7ea0249c6923e" category="list-text">보호되지 않은 모든 항목에 규칙을 즉시 적용하려면 * 기존 항목에 적용 * 을 선택합니다. 선택하지 않으면 다음에 새 항목이 검색될 때 새로 검색된 항목과 보호되지 않는 항목에 규칙이 적용됩니다.</block>
+  <block id="b429b92fb407960087090abe4ae70378" category="inline-image-macro">규칙을 위 또는 아래로 이동하는 데 사용되는 버튼입니다</block>
+  <block id="691eb2a99bb398009b03626652f89d70" category="list-text">규칙이 여러 개 있는 경우 을 클릭할 수 있습니다 <block ref="1dec85cc0cf86d9e4c1d6cdae3b30321" category="inline-image-macro-rx" type="image"></block> 목록에서 규칙을 위 또는 아래로 이동합니다. 규칙은 목록에 나타나는 순서대로 적용됩니다.</block>
+  <block id="189379d165979226deca7a9b54924e65" category="summary">일반 또는 아카이브 사서함 사용자는 보호되거나 보호되지 않든 라이센스를 사용합니다. 특정 사용자에 대한 라이센스가 더 이상 필요하지 않은 경우 라이선스를 해제하여 재할당할 수 있습니다.</block>
+  <block id="85f5c131ebbfcb67cc6ffb0efbd2ecb9" category="doc">사용자 라이센스를 해제합니다</block>
+  <block id="493a351c3f6933245fd7e8c6213165e4" category="paragraph">일반 또는 아카이브 사서함 사용자는 보호되거나 보호되지 않든 라이센스를 사용합니다. 특정 사용자에 대한 라이센스가 더 이상 필요하지 않은 경우 라이선스를 해제하여 재할당할 수 있습니다. 사용자 라이센스가 해제되면 사용자는 보호되지 않는 계층으로 이동되고 해당 사용자의 백업은 중단됩니다.</block>
+  <block id="316cc47307ce102eec21fe0b27e99767" category="admonition">공유 사서함은 라이센스를 소비하지 않습니다.</block>
+  <block id="2f85cec97875fbe1554ba102db882d51" category="list-text">라이센스 릴리스 * 에서 라이센스를 릴리스할 사용자의 계정 이름을 입력합니다.</block>
+  <block id="5f038bc03fd0b3b96a1a57553fae59c9" category="list-text">계정이 발견되면 자동 입력된 목록에서 계정을 선택하고 을 클릭합니다 <block ref="196c8e0673c96199553d3e57046ae92d" category="inline-image-macro-rx" type="image"></block>.</block>
+  <block id="c4a60f1b47020d12e3f68c8054383679" category="list-text">필요한 경우 계정을 추가합니다.</block>
+  <block id="931d61f7fce4d349c66567b3121f9f12" category="list-text">릴리스 * 를 클릭합니다.</block>
+  <block id="028267b423a85fe509359c80bae16615" category="list-text">Yes, please release license(s) * 를 클릭합니다.</block>
+  <block id="b2b6d10003a21b40160d053ed3a00ba2" category="doc">알림을 설정합니다</block>
+  <block id="1e176ca8879f6fc670eb851ef5779172" category="paragraph">계정 알림에 사용자를 추가한 다음 각 사용자가 수신할 특정 알림을 선택할 수 있습니다. 예를 들어, 복원 실패가 발생할 때마다 사용자에게 e-메일 알림을 보내도록 선택할 수 있습니다.</block>
+  <block id="cf46b5c723d03816ad4b8dd9fba743b9" category="list-text">알림 관리 * 를 클릭합니다.</block>
+  <block id="9250b78e6a328eacd44a07c99d2a0cab" category="list-text">알림을 받을 계정의 이메일 주소를 입력합니다.</block>
+  <block id="25d81c81026caeb07b553fb6ba5526fd" category="list-text">알림 추가 * 를 클릭합니다. 사용자는 알림 계정 목록에 추가됩니다.</block>
+  <block id="1c6b9805f5abf62ed9eddc51c5139d8e" category="list-text">사용자가 수신할 특정 알림을 선택합니다.</block>
+  <block id="f53f41f69a03f1af6789acff9760015b" category="doc">서비스 계정에 권한을 추가합니다</block>
+  <block id="5a4f9f1ee9d9f07650e33d5392daa03a" category="paragraph">서비스 계정을 관리하고, 새로 추가된 계정을 검색하고, 계정 알림을 설정할 수 있습니다.</block>
+  <block id="5f991a0983d92564555c3f91b524208c" category="paragraph">필요한 경우 서비스 계정 사용자에게 권한을 추가할 수 있습니다. 서비스 계정은 동시 백업을 효율적으로 수행하는 데 사용됩니다.</block>
+  <block id="e600994934c3fa9c4fcaca691c4214ee" category="list-text">왼쪽 탐색 창에서 서비스 를 클릭합니다.<block ref="5dae113680257bfa8a9a9f41c78b194f" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="38462566187b9e0b2e5f497a5502130b" category="list-text">Microsoft 365 링크를 클릭합니다.<block ref="f9631d5c739c4c4b4fe570c209766ce1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c6734135d9ae05c120de2cd4d857a7c4" category="list-text">서비스 계정 관리 * 옆에 있는 * + * 아이콘을 클릭합니다.</block>
+  <block id="137b6252ec3ba5ac3a49061c09729ac4" category="list-text">사용 권한을 부여하려면 * 확인 * 을 클릭하여 Microsoft 365 로그인 페이지로 리디렉션합니다.</block>
+  <block id="38f5aa5092df020d3cbfa1f4a86c2ec1" category="summary">Microsoft 365용 NetApp SaaS Backup은 Microsoft 365 데이터를 Amazon S3 스토리지 또는 Microsoft Azure Blob 스토리지에 백업하는 안전한 웹 기반 SaaS(Software-as-a-Service) 오퍼링입니다.</block>
+  <block id="2f436bac94b3ef6b8baa68dcaa3e1c00" category="doc">NetApp SaaS Backup for Microsoft 365 개요</block>
+  <block id="32796454d262148a13da4e9b1ee67147" category="paragraph">Microsoft 365용 NetApp SaaS Backup은 Microsoft 365 데이터를 Amazon S3 스토리지 또는 Microsoft Azure Blob 스토리지에 백업하는 안전한 웹 기반 SaaS(Software-as-a-Service) 오퍼링입니다. SaaS Backup은 사용되지 않는 데이터와 사용 중인 데이터를 암호화합니다.</block>
+  <block id="0e465002245828506a54021571ded8ad" category="inline-image-macro">Microsoft 365에서 사용 가능한 스토리지 옵션으로 SaaS Backup for Microsoft 365 백업 및 복원에 대한 그래픽 개요</block>
+  <block id="3ec4d128dfee87634b3996d51a3dba51" category="paragraph"><block ref="3ec4d128dfee87634b3996d51a3dba51" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a64afcb574fca4c96b15a10e22a0c39d" category="summary">NetApp SaaS Backup for Microsoft 365 내에서 공유 사서함을 사용할 수 있는 권한을 부여할 수 있습니다.</block>
+  <block id="95f3075215d2bc775164c818bdb73dc1" category="paragraph">NetApp SaaS Backup for Microsoft 365 내에서 공유 사서함을 사용할 수 있는 권한을 부여할 수 있습니다.</block>
+  <block id="3020a4b1514f0cb1e3361ec6aa64c424" category="list-text">동의 허용 * 을 클릭합니다.</block>
+  <block id="c7dc1d3f720e6d88cc639bc7357d091d" category="inline-image-macro">동의 허가 아이콘 스크린샷</block>
+  <block id="68f6dd0b0b4c264c7db656eaa11d8e71" category="paragraph"><block ref="68f6dd0b0b4c264c7db656eaa11d8e71" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9715f71b9933d29dc5f912c216bb441d" category="paragraph">인증을 위해 Azure 인증 페이지로 리디렉션됩니다.</block>
+  <block id="0d845fd5a39ea33b7fec7e5555e21866" category="list-text">테넌트 계정을 선택합니다.</block>
+  <block id="8773db42e927ef3e4990df3c5eda63ed" category="list-text">* 권한을 * 수락 * 합니다. 공유 사서함은 다음 예약 * 자동 동기화 * 중에 검색되거나 * 지금 동기화 * 를 수행할 수 있습니다. 지금 동기화 * 를 사용하는 경우 공유 사서함을 검색하는데 몇 분 정도 걸립니다.</block>
+  <block id="9fcd7ad814c5e9f3d9fe76e295e8b851" category="list-text">자동 동기화 * 또는 * 지금 동기화 * 후 공유 사서함에 액세스하려면 다음을 수행하십시오.</block>
+  <block id="a310d658bc1a2f57b470e15e1e89cb0c" category="list-text">Microsoft Exchange Online * 을 클릭합니다.</block>
+  <block id="4faf1251828cc6acc6b3b36ba5f25f79" category="list-text">보호되지 않는 사서함 수를 클릭합니다.</block>
+  <block id="bc58035dc37b9c7a8c2441d74af2073c" category="list-text">공유 * 탭을 클릭합니다.</block>
+  <block id="32554193fa248d429a5c303d9f299cb5" category="summary">기존 규칙을 보호되지 않은 항목에 적용하고 규칙을 적용하는 순서를 변경하고 규칙을 삭제할 수 있습니다.</block>
+  <block id="c5740bfb2b88ba0a9944eae7a1e35c50" category="doc">기존 규칙 적용</block>
+  <block id="78386b15f34158b994f4ab5cd8644568" category="list-text">지금 적용 * 을 클릭하여 기존의 보호되지 않은 항목에 규칙을 적용합니다.</block>
+  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="summary">법적 고지 사항은 저작권 선언, 상표, 특허 등에 대한 액세스를 제공합니다.</block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">법적 고지</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">저작권</block>
+  <block id="09e95b77ffe81fe465a83ba99efad5c8" category="paragraph"><block ref="09e95b77ffe81fe465a83ba99efad5c8" category="inline-link-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">상표</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NetApp, NetApp 로고, NetApp 상표 페이지에 나열된 마크는 NetApp Inc.의 상표입니다. 기타 회사 및 제품 이름은 해당 소유자의 상표일 수 있습니다.</block>
+  <block id="7aa531e9acfe2b98e34d2c92fe9846ff" category="paragraph"><block ref="7aa531e9acfe2b98e34d2c92fe9846ff" category="inline-link-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">특허</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">NetApp 소유 특허 목록은 다음 사이트에서 확인할 수 있습니다.</block>
+  <block id="d7f1fbcf9ce4e42f705add574d262b2c" category="paragraph"><block ref="d7f1fbcf9ce4e42f705add574d262b2c" category="inline-link-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">개인 정보 보호 정책</block>
+  <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
+  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">오픈 소스</block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">통지 파일은 NetApp 소프트웨어에 사용된 타사의 저작권 및 라이센스에 대한 정보를 제공합니다.</block>
+  <block id="af482b62e5f593026c0e1f3b25e33b22" category="inline-link-macro">SaaS Backup에 대한 고지 사항</block>
+  <block id="6adebe2fbffbd6dcb646696cd1bfc9ee" category="paragraph"><block ref="6adebe2fbffbd6dcb646696cd1bfc9ee" category="inline-link-macro-rx"></block></block>
+  <block id="3e248cf36a6ce8d04e21a6fbb7b087f0" category="doc">새로운 기능 및 업데이트</block>
+  <block id="ce2695f1742a4173db63ce74517ac8af" category="paragraph">이번 릴리스의 NetApp SaaS Backup for Microsoft 365에는 다음과 같은 새로운 기능과 업데이트가 추가되었습니다.</block>
+  <block id="62783f5d69cb5d3cb22b077c1d2b8777" category="section-title">2021년 11월</block>
+  <block id="31cc60edfc700178b3b3efacb6ed562e" category="paragraph">Microsoft 365는 2021년 10월 Exchange Online의 기본 인증을 사용 중단하도록 목표로 하고 있습니다. 자세한 내용은 을 참조하십시오 <block ref="13656a114805a881003fbba8178f036a" category="inline-link-macro-rx"></block>. 사용 중단 후 Microsoft 365 그룹과 공유 및 아카이브 메일박스에 대한 검색 실패가 발생할 수 있습니다. 이러한 오류를 방지하기 위해 언제든지 최신 인증을 활성화할 수 있습니다.</block>
+  <block id="5e72ee82630f471af2db622957d8d623" category="paragraph">신규 고객인 경우 등록할 때 Modern Authentication이 활성화됩니다. 별도의 조치가 필요하지 않습니다.</block>
+  <block id="b32bf445c8b684008c9fd9cf380eb985" category="paragraph">기존 고객이고 최신 인증을 활성화하지 않은 경우 조치를 취해야 합니다. 을 참조하십시오 <block ref="718d39ae8b1f35b36dc8c2837eb10373" category="inline-link-macro-rx"></block>.</block>
+  <block id="a5667679a016ee66ef9bc45c1a173b3b" category="section-title">2020년 12월</block>
+  <block id="97b4589bea0c9a0d397ec4db7260d8e0" category="paragraph">미국에 Microsoft Azure를 구축한 경우 Microsoft 환경에서 데이터가 떠나지 않습니다. SaaS Backup for Microsoft 365의 등록 프로세스 중에 Azure Blob 저장소 또는 사용자 지정 스토리지를 사용할 수 있습니다.</block>
+  <block id="a72ba6abcd432d690074b970ea9e1e5a" category="inline-link-macro">무료 평가판을 통해 SaaS Backup에 등록하십시오</block>
+  <block id="8f8caa92edfef6726734d704b2b67044" category="paragraph"><block ref="8f8caa92edfef6726734d704b2b67044" category="inline-link-macro-rx"></block></block>
+  <block id="86ca1026a5895f803f6cb3b59d638cdc" category="inline-link-macro">유료 구독에서 SaaS Backup에 등록하십시오</block>
+  <block id="d31c8900ff029d35426a6b655cf439ee" category="paragraph"><block ref="d31c8900ff029d35426a6b655cf439ee" category="inline-link-macro-rx"></block></block>
+  <block id="0e347c50a0d60b8f46cb8c37cd3b5088" category="section-title">2020년 11월</block>
+  <block id="ec43c120f66e40978bc7df12e1cdc086" category="list-text">이번 달부터 모든 서비스에 대한 사용자 데이터를 모니터링할 수 있습니다. 이 새로운 기능을 사용하면 Excel 파일을 다운로드하여 전자 메일 또는 URL 주소, 사서함 유형, 라이선스 사용, 검색 상태, 마지막 검색, 백업 상태, 백업 계층 등</block>
+  <block id="935dcc2d07dcf421a5d4a1a8dbe78a83" category="paragraph"><block ref="935dcc2d07dcf421a5d4a1a8dbe78a83" category="inline-link-macro-rx"></block></block>
+  <block id="7108795963ed30e0b330aa85fa1e41d5" category="list-text">이제 Microsoft Office 365 그룹을 다른 그룹으로 복원할 수 있습니다.</block>
+  <block id="7c8ae2c9971bd58915ed46c67abeff00" category="list-text">비즈니스용 OneDrive 라이센스 소유자는 제한 없이 라이선스를 릴리스하고 사용자를 제거할 수 있습니다.</block>
+  <block id="ff5e1f223d92e521c6ae3a7151a6e224" category="paragraph"><block ref="13fb5063dfdc66cecf804982b04fd9ff" category="inline-link-macro-rx"></block>
+<block ref="2a76432804ac030e271a502cdaa78dc8" category="inline-link-macro-rx"></block></block>
+  <block id="f1c76c4d1313b6d0ce49a94431405b0e" category="list-text">작업 기록 로그에서 검색할 때 작업 유형, 서비스, 시작 시간 및 종료 시간 외에 작업 완료 상태별로 필터링할 수 있습니다.</block>
+  <block id="010d894e39c9b4024a2e355303134bad" category="paragraph"><block ref="010d894e39c9b4024a2e355303134bad" category="inline-link-macro-rx"></block></block>
+  <block id="0c32ac23d148fcf8f103092f860ea484" category="section-title">2020년 6월</block>
+  <block id="60a93d0f13a60df4d4419601c9c70515" category="list-text">SaaS Backup for Microsoft 365는 이제 Exchange Online 사용자를 위한 고급 검색 기능을 지원합니다. 고급 검색 * 을 활성화한 후 백업 데이터 이후 6개월 이내에 개별, 공유 및 아카이브 사서함 항목을 검색할 수 있습니다.</block>
+  <block id="d4221ec3faf6174be7b78d60fd6fb637" category="inline-link-macro">고급 검색을 사용합니다</block>
+  <block id="16ec1a94d324268e23458158820f2793" category="paragraph"><block ref="16ec1a94d324268e23458158820f2793" category="inline-link-macro-rx"></block></block>
+  <block id="73f8dc93b283396eb2824122850199c0" category="paragraph">이 기능을 활성화하려면 으로 이동합니다 <block ref="f87e0976e00f26ec4930aef7f830024f" category="inline-link-macro-rx"></block> 요청을 제출합니다.</block>
+  <block id="3cd39f227a4b0e68f03e12ad98e9ffca" category="section-title">2020년 3월/4월</block>
+  <block id="2a4b999dd10fa40d0af653d533da89a9" category="list-text">이제 다른 시간 범위를 선택하여 Microsoft 365 Exchange, SharePoint, OneDrive for Business 및 Groups for protected users의 백업을 찾아볼 수 있습니다.</block>
+  <block id="591f88ff9f4dd2e074cd1e9677419b34" category="paragraph"><block ref="591f88ff9f4dd2e074cd1e9677419b34" category="inline-link-macro-rx"></block></block>
+  <block id="9114c7c2f662b23740f680d86250a33b" category="list-text">SaaS Backup for Microsoft 365는 이제 Microsoft TeamsChat에 대한 백업을 지원합니다. 이 새로운 기능을 사용하면 대화, 채널, 탭, 첨부 파일, 구성원, 및 설정은 Microsoft TeamsChat에서 찾을 수 있습니다.</block>
+  <block id="c1a4e5de3e6ad0e73d8e6f95a3d92fd7" category="paragraph"><block ref="c1a4e5de3e6ad0e73d8e6f95a3d92fd7" category="inline-link-macro-rx"></block></block>
+  <block id="d835981d77534f5f20446d4648ad7e5b" category="section-title">2020년 1월</block>
+  <block id="9b2fd4ede320a82f1a8fe3dd515a1522" category="inline-link-macro">프로비저닝 해제 항목을 봅니다</block>
+  <block id="5f4aa1af949f13cebef477d4e0e501b1" category="list-text">이제 프로비전되지 않은 사서함, 사이트, 내 사이트, 그룹 또는 계정을 볼 수 있습니다.<block ref="83c15984a264b44dfb7bb5ab9143e339" category="inline-link-macro-rx"></block></block>
+  <block id="3927f940ec42d81c11ecbb003c68fd11" category="list-text">사용자 라이센스는 이제 계정이 삭제된 후 7일 후에 자동으로 릴리스됩니다. 7일 내에 제거되도록 예약된 항목 목록과 이미 삭제된 항목 목록을 볼 수 있습니다.<block ref="8983eb3cf0dc4aeb9f7917f42f04de11" category="inline-link-macro-rx"></block></block>
+  <block id="bf7a90919922cdd7a5a5b73fd47f5253" category="list-text">Microsoft OneNote 전자 필기장용 백업은 이제 Microsoft SharePoint Online 및 OneDrive for Business에서 지원됩니다.<block ref="f372349165bf76f8d7c8e81a2c8d818f" category="inline-link-macro-rx"></block></block>
+  <block id="bbfb6d5a145f45ac380d5c56707a3b3f" category="section-title">2019년 9월</block>
+  <block id="4509c06bbc5bd31ea1b574cc91ecd146" category="list-text">이제 SaaS Backup의 유료 구독에 대한 지원을 활성화할 수 있습니다. 지원을 활성화하면 전화, 온라인 채팅 또는 웹 티켓 시스템을 통해 기술 지원에 액세스할 수 있습니다.</block>
+  <block id="c264e349beaab99a8bb6652bda3cf659" category="inline-link-macro">지원을 활성화합니다</block>
+  <block id="26e40bc6f1282c9623b59cd8c4ef7ecc" category="paragraph"><block ref="26e40bc6f1282c9623b59cd8c4ef7ecc" category="inline-link-macro-rx"></block></block>
+  <block id="e289ad98e91a5c5e09b44d6006fba214" category="section-title">2019년 6월</block>
+  <block id="7d4ec3e0b5be7e315bc177db875f3c93" category="list-text">SaaS Backup for Microsoft 365는 이제 Microsoft SharePoint Online 및 Microsoft OneDrive for Business의 복사 기능을 사용하여 만든 항목의 백업 및 복원을 지원합니다.</block>
+  <block id="0ac7cd7b7da8ca54b63280dc76517b3c" category="list-text">복원 크기, 복원 위치 및 추가 설명을 포함하여 복원 통계에 추가 세부 사항을 포함하도록 기능이 향상되었습니다.</block>
+  <block id="40c6992ea910d43026a8f13fd0d7bfd6" category="section-title">2019년 5월</block>
+  <block id="75651fb4ddaf976562b98f16330919ab" category="list-text">SaaS Backup은 이제 애드온 라이센스를 지원합니다.</block>
+  <block id="b02b015caa6895d69dc7e8806258b548" category="paragraph"><block ref="b02b015caa6895d69dc7e8806258b548" category="inline-link-macro-rx"></block></block>
+  <block id="1b34d20d5f729538f1400e856387b228" category="section-title">2019년 4월</block>
+  <block id="403de9a0fab25a17acf9b35e6b72c565" category="list-text">SaaS Backup for Microsoft 365는 이제 보안 그룹 삭제를 지원합니다.</block>
+  <block id="24a863b441948a22c2f5079750e19513" category="paragraph"><block ref="24a863b441948a22c2f5079750e19513" category="inline-link-macro-rx"></block></block>
+  <block id="e08584a0fabb98372627a5763a172b44" category="list-text">공유 사서함에서 더 이상 사용자 라이센스를 사용하지 않습니다.</block>
+  <block id="692664770412ddd705b7f413cee7d6fb" category="section-title">2019년 3월</block>
+  <block id="f342fec16bfb61a8dd26a7f7ee694ea0" category="list-text">SaaS Backup for Microsoft 365는 이제 지원되는 각 지역에서 여러 백업 위치를 지원합니다.</block>
+  <block id="fc450d190b34e98c0417e7cc17568f3c" category="paragraph">이제 선택한 지역에서 사용 가능한 위치를 데이터 백업 사이트로 선택할 수 있습니다. 데이터 위치와 지리적으로 가장 가까운 위치를 선택하는 것이 좋습니다. SaaS Backup에서 권장하는 위치는 옵션 목록에서 * preferred * 로 표시됩니다.</block>
+  <block id="8683bf91a11e498ffd74c9c3a102487d" category="admonition">평가판 버전에서 업그레이드하는 경우 평가판에서 사용된 위치와 다른 백업 위치를 선택하면 평가판 데이터가 보존되지 않습니다.</block>
+  <block id="02d42668aef32358c91e97fac3b74454" category="paragraph"><block ref="02d42668aef32358c91e97fac3b74454" category="inline-link-macro-rx"></block></block>
+  <block id="8c673911badf0bc86b25912d2c703123" category="list-text">이제 사용자 라이센스를 릴리스하여 다른 사용자가 사용할 수 있도록 설정할 수 있습니다.<block ref="13fb5063dfdc66cecf804982b04fd9ff" category="inline-link-macro-rx"></block></block>
+  <block id="faae77443f7a8406deaf55c3795ace10" category="section-title">2019년 2월</block>
+  <block id="82caf71ab4314503cd4b4826bf47361d" category="list-text">SaaS Backup for Microsoft 365는 이제 다음을 지원합니다.</block>
+  <block id="154ae5da6ed22a4b973d787b66439540" category="list-text">아카이브 메일박스의 백업 및 복원</block>
+  <block id="c90f10bb653ed99db28b8f6a6d2f4d8e" category="list-text">Microsoft Office Exchange Online, SharePoint, OneDrive for Business에서 향상된 백업 및 복원 통계.</block>
+  <block id="7d69b3cb4cada18ae61811304f8fbcb5" category="section-title">보관됨</block>
+  <block id="4ad34508386b08c6cfe776e00a9354e7" category="paragraph">을 클릭합니다 <block ref="ffe3fccc14e82a61e12e48d2b0682108" category="inline-link-macro-rx"></block> 새 기능의 보관된 목록을 표시합니다</block>
+  <block id="41b34773b64b2abaab2984b716ed65b0" category="summary">고급 검색을 활성화하여 Microsoft 365 Exchange Online에서 백업된 항목을 검색할 수 있습니다.</block>
+  <block id="6b23667f3cbba43813b5f6399ec4babd" category="doc">Microsoft Exchange Online 고급 검색을 사용합니다</block>
+  <block id="23e9dcfa8b97aaea186eaaeb1177dea4" category="paragraph">Microsoft Exchange Online용 * 고급 검색 * 을 사용하여 개별 또는 공유 사서함 항목을 검색하고 이 항목을 원래 사서함으로 복원할 수 있습니다.</block>
+  <block id="c7f1896c455334213518b5df2a860b44" category="paragraph">관리자는 로 이동하여 * 고급 검색 * 을 활성화할 수 있습니다 <block ref="f87e0976e00f26ec4930aef7f830024f" category="inline-link-macro-rx"></block> 요청을 제출합니다. 또한 SaaS Backup 지원 팀에 saasbackupsupport@netapp.com 으로 이메일을 보낼 수도 있습니다.</block>
+  <block id="4c6fa9a7d2c0c345bf057d6d3e77c80a" category="paragraph">고급 검색 * 을 활성화한 후 개별 테넌트에 대해 SSP(셀프 서비스 포털)를 설정할 수 있습니다. 첫 번째 백업 전에 * 고급 검색 * 을 활성화하지 않으면 검색 결과가 나타나지 않습니다. 셀프 서비스 포털에 대한 자세한 내용은 를 참조하십시오 <block ref="b51bb0ef6b11f946c31f52683a5d978b" category="inline-link-macro-rx"></block>.</block>
+  <block id="267a5275d92e0cb500ece7c264c7eafe" category="inline-image-macro">고급 검색 설정 스크린샷</block>
+  <block id="4c1d3f657745aa4fa7c5b961a2f7a82f" category="paragraph"><block ref="4c1d3f657745aa4fa7c5b961a2f7a82f" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6e1c6cab6487c8b15e4140bfb0d5fd69" category="list-text"><block ref="7d190c308c24e5fb4e4af67edbc1dd47" category="inline-xref-macro-rx"></block></block>
+  <block id="1b5251c4623800d15616db1b5ad13ddc" category="list-text"><block ref="f533942d5f67ff90ffc7ef3d110249d7" category="inline-xref-macro-rx"></block></block>
+  <block id="2e678cfb6692fccd97fdd915d5b3a27e" category="list-text"><block ref="dfaa1db65f916ed1ff476bafd651fc3a" category="inline-xref-macro-rx"></block></block>
+  <block id="5e23ff9d9c602cb7300fedbed1382b43" category="section-title">고급 검색을 활성화합니다</block>
+  <block id="2bea3c3804042a7b5ec982475df525c9" category="paragraph">고급 검색 설정에서 * 고급 검색 * 기능을 활성화할 수 있습니다.</block>
+  <block id="b0eb2396acd040d98c146d201fe5307e" category="admonition">라이센스가 부여된 사용자 및 라이센스가 없는 사용자는 고급 검색 기능을 사용할 수 있습니다(활성화된 경우).</block>
+  <block id="c44cc41dbd8bd91ac75451de23ec8eb6" category="list-text">대시보드의 왼쪽 메뉴에서 * 고급 검색 * 을 클릭합니다.</block>
+  <block id="8a6a52b70517fecd0af84069290395fb" category="list-text">고급 검색 설정 * 을 클릭합니다.</block>
+  <block id="a9bd2ff124301f94dad1b83933f1de41" category="list-text">기본적으로 목록에는 라이센스가 부여된 모든 사용자가 표시됩니다. 목록에서 사용자 유형을 필터링하려면 * 모든 사용자 표시 * 와 * 허가된 사용자만 표시 * 간에 전환합니다.</block>
+  <block id="8fd454c9753a4c3d03fcb074d79d2f5e" category="list-text">검색 도구를 사용하여 3자 이상 입력하여 고유 사용자를 찾습니다.</block>
+  <block id="57c9b7b109956f01ec6fbd27f9e51071" category="list-text">사용자를 활성화하려면 * 고급 검색 * 열에서 * On * 을 선택합니다. 다음에 전체 또는 증분 백업에서 해당 사용자를 보호할 때 새 이메일 항목을 검색할 수 있습니다.</block>
+  <block id="14242c99845a0bf338d45c648e061643" category="list-text">설정 저장 * 을 클릭합니다.</block>
+  <block id="9d26c855a2d401584a2885908a0440b0" category="inline-link-macro">백업 예약 또는 백업 빈도 변경</block>
+  <block id="0af305178ed17ffd2d65f6827dd96941" category="list-text">활성화된 사용자를 백업하려면 로 이동합니다 <block ref="a56fa16a0623b92158e702c35634bdf7" category="inline-link-macro-rx"></block> 및 * User * (사용자 *) 탭에 남아 있어 백업할 사용자를 선택할 수 있습니다.</block>
+  <block id="6b2edf93f90ba6f21a0eae49dddc7440" category="paragraph">개별 또는 공유 사서함 항목을 검색하고 * 검색 수행 * 에서 이러한 항목을 원래 사서함으로 복원할 수 있습니다.</block>
+  <block id="30368d13df374be30faccbf80332ec3d" category="list-text">검색 수행 * 을 클릭합니다.</block>
+  <block id="d749315637e107f4e49a204009181ccf" category="inline-image-macro">이미지 에는 두 개의 필수 항목으로 검색 수행 옵션이 표시됩니다</block>
+  <block id="c2f947ac394b258702e93f2950da3014" category="list-text">별표(*)가 있는 필수 필드에 정보를 입력합니다. 옵션 필드: 조건 및 쿼리 조건.<block ref="94a613604503bf5de5b1927c26f3eadc" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="7a41dfb51c4cdf013ddd679e98de9298" category="list-text">* 사용자 선택 *: 사용자 이름에 최소 3개의 문자를 입력하여 선택할 사용자를 찾습니다.</block>
+  <block id="23c24dab11d24ab575fb8613517086e7" category="list-text">* 검색 *: 키워드에 3자 이상 입력하십시오. 구를 검색하려면 따옴표 안에 단어를 넣으십시오(예: "Hello world"). 단어를 별도로 검색할 수 있는 경우 따옴표가 필요하지 않습니다.</block>
+  <block id="6f9f601869ed6ab8936bf0acbb2c26f9" category="list-text">정확한 일치 *: 정확한 키워드만 검색하려면 선택합니다.</block>
+  <block id="f4365e4a5fca3c5860dbf2feb7544e69" category="list-text">* 조건 *:</block>
+  <block id="d3a512d9332bf24815914af5abe76227" category="list-text">* 항목 *: 사서함의 모든 항목을 검색할 항목을 선택합니다.</block>
+  <block id="0f5a5a4accd5a1d07ea5b18cc53c6e64" category="list-text">* 폴더 이름 *: 폴더 이름을 선택하여 사서함의 특정 폴더에서 항목을 검색합니다. 제공된 텍스트 상자에 폴더 이름을 입력합니다.</block>
+  <block id="aec3cdf63384910a576a0fe3adedf8af" category="list-text">* 날짜 범위 *: 날짜 범위 드롭다운 메뉴에서 * 최근 7일 * 또는 * 사용자 지정 범위 * 를 선택하여 검색 시작 및 종료 날짜를 입력합니다.</block>
+  <block id="b45b9f14da02cd97cc8dbdab2f60f291" category="list-text">* Size in bytes *: size in bytes 드롭다운 메뉴에서 * greater than(&gt;) * 또는 * Lesser than(&lt;) * 을 선택합니다. 그런 다음 크기를 바이트 단위로 입력합니다.</block>
+  <block id="97a92796e14587540ffb629ea37aa03e" category="list-text">* 보낸 사람 *: 보낸 사람의 이메일 주소를 입력합니다.</block>
+  <block id="ee31a416b5a87739039dde2ca5307492" category="list-text">받는 사람 *: 받는 사람 e-메일 주소를 입력합니다.</block>
+  <block id="56a5c3ef7cc99d2aa813936a77ec81bd" category="list-text">* 제목 *: 제목으로만 검색하려면 선택합니다.</block>
+  <block id="8f2f9d84e3bf13f607b4b96381ae7c45" category="list-text">* 첨부 파일이 있음 *: 이메일 항목 또는 항목에 첨부 파일이 있는지 여부를 선택합니다.</block>
+  <block id="b68e3baaece85a7fd6bb5480a8b002d0" category="list-text">검색 * 을 클릭합니다.</block>
+  <block id="9b3bc7bd4ed5e46080b209bdd7facb88" category="list-text">검색 작업을 찾으려면 아래의 이전 검색 작업 찾기 로 이동하십시오.</block>
+  <block id="57f7a88c0574298291b51b4649bf4229" category="section-title">이전 검색 작업을 찾습니다</block>
+  <block id="f6b15d7324df7c5169155143d4b34912" category="paragraph">이전 검색 작업은 * 이전 검색 작업 * 에서 찾을 수 있습니다.</block>
+  <block id="6578ea0c53e911e0fbac32ce91fa2510" category="list-text">이전 검색 작업 * 을 클릭합니다.</block>
+  <block id="4b3a8290be8aa16413045effb70c314a" category="list-text">이전에 수행한 검색 작업을 찾습니다. 검색 결과가 0으로 나타나면 입력한 검색 조건에 맞는 항목이 없음을 의미합니다.</block>
+  <block id="13510659f5f468ab16f6832afdd05e17" category="list-text">총 검색 결과 수를 클릭하여 표시합니다.</block>
+  <block id="3256acd5628ee1e52fa96f0c6a9bb5b4" category="list-text">결과 표시 보기에서 항목을 복원하거나 드롭다운 메뉴 * Show # entries * 를 사용하여 표시할 항목 수를 선택하거나 검색 을 통해 결과를 더 좁힐 수 있습니다.</block>
+  <block id="a400f6683b626003bec087df9811459d" category="inline-image-macro">이미지 복원 강조 표시, 항목 수 및 검색 기능이 있는 검색 결과 표시 보기를 표시합니다</block>
+  <block id="74336c770170c7097da19acb3a2c9e7c" category="paragraph"><block ref="74336c770170c7097da19acb3a2c9e7c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c338b09600084dabac11ca51f9bb51cc" category="admonition">복구된 항목은 명명 규칙 CC_SEARCH_MM.DD_TIME을 사용하여 원래 사서함으로 되돌아갑니다. 복원 작업을 찾으려면 왼쪽 메뉴의 * 작업 * 으로 이동하십시오.</block>
+  <block id="8d5f80c87fb73b96182c0d6e116fa42c" category="list-text">검색 결과 표시를 종료하려면 * 작업 검색으로 돌아가기 * 를 클릭합니다.</block>
+  <block id="82c3ac190dfb331b36c24d2629b9a365" category="doc">특정 백업 정책의 즉각적인 백업을 수행합니다</block>
+  <block id="628c8f272a9c1367ff9309cbf3ac2e39" category="paragraph">SaaS Backup for Microsoft 365를 설정하면 기본적으로 모든 데이터가 보호되지 않습니다. 데이터를 보호 계층으로 이동한 후에는 데이터를 이동한 계층에 대해 즉시 백업을 수행할 수 있습니다. 이렇게 하면 첫 번째 예약된 백업이 발생할 때까지 데이터가 위험에 노출되지 않도록 할 수 있습니다. 첫 번째 예약된 백업을 기다릴 수 있는 경우에는 즉시 백업을 수행할 필요가 없습니다.</block>
+  <block id="4be6e634687171d296ff9689efef1fa4" category="paragraph">데이터 보호에 필요한 것으로 판단되는 경우 언제든지 즉시 백업을 수행할 수 있습니다. SaaS Backup for Microsoft 365의 평가판 버전을 실행 중인 경우 서비스당 매일 3번의 즉각적인 백업을 수행할 수 있습니다.</block>
+  <block id="b21aade20be3aa52fbd7e19d44d95f15" category="list-text">대시보드에서 즉시 백업을 수행할 서비스를 선택합니다.</block>
+  <block id="500607720c4007205ed82f9627508ebf" category="list-text">백업 정책 * 에서 백업할 계층을 클릭합니다.</block>
+  <block id="6bdefe1209f1b4108898c3b0c0aa23a4" category="list-text">지금 백업 을 클릭합니다.</block>
+  <block id="c4e19d6a56de1db2b646ed468fe34406" category="inline-image-macro">SaaS Backup "Backup Now" 버튼 스크린샷</block>
+  <block id="04f8c5c5d0753d92448247da261dc16c" category="paragraph"><block ref="04f8c5c5d0753d92448247da261dc16c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6f37828bcbea36fbc57f899e8bdd0cd6" category="paragraph">선택한 계층의 서비스가 즉시 백업을 위해 작업 대기열에 배치됨을 나타내는 메시지가 표시됩니다.</block>
+  <block id="02e3ac3a05390b719a3b35ed0a8be233" category="sidebar">Microsoft 365용 NetApp SaaS 백업</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">릴리스 정보</block>
+  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">새로운 소식</block>
+  <block id="96573196b0bc5ca16f36a7ab51440d98" category="sidebar">새로운 아카이브</block>
+  <block id="0460583622f03a52d7693094d6fa2452" category="sidebar">개념</block>
+  <block id="3b878279a04dc47d60932cb294d96259" category="sidebar">개요</block>
+  <block id="24f47cdbe9ddba774a7cc53e51d9032e" category="sidebar">워크플로우</block>
+  <block id="dde2fb18b4f54ff454e49db402adbb99" category="sidebar">전역 권한이 있는 Microsoft 365 서비스 계정을 만듭니다</block>
+  <block id="1721af001af4943cc2771dbfd047f856" category="sidebar">임미일 백업을 수행합니다</block>
+  <block id="f683581d3e75f05f9d9215f9b4696cef" category="sidebar">업그레이드</block>
+  <block id="e78ef280ac4cdaeebd76c27ebe90d653" category="sidebar">업그레이드 후 지원을 활성화합니다</block>
+  <block id="898566549d933366de8ad6d6a1fbff27" category="sidebar">유료 구독으로 시작하십시오</block>
+  <block id="3bd34394db106447b9320c76b26ddbb5" category="sidebar">서비스 관리</block>
+  <block id="23ad15066715d93a5dfb7d99bfb0d157" category="sidebar">설정을 관리합니다</block>
+  <block id="d08ccf52b4cdd08e41cfb99ec42e0b29" category="sidebar">권한</block>
+  <block id="e83cc9977425de56ff0b99c4ad631195" category="sidebar">서비스 계정에 권한을 추가합니다</block>
+  <block id="5c1fb361cb9ffba7295636a36f900f1e" category="sidebar">역할 기반 계정 액세스</block>
+  <block id="1b4fcfaacbd0ae3e24bc82f8d7a82211" category="sidebar">사용자 관리</block>
+  <block id="f6aca2dcfee051b254bbcb878dc70d09" category="sidebar">추가 수익 실적을</block>
+  <block id="1f4da964f8eab62e96e8cfe406e44364" category="sidebar">규칙</block>
+  <block id="9175bb34d0aede26315b313b9432bcbb" category="sidebar">보안 그룹</block>
+  <block id="65d964d49665477bbec39032d9f3ca8a" category="sidebar">백업 관리</block>
+  <block id="3ac08b2c89424f473948e563666e5b4f" category="sidebar">즉시 백업을 수행합니다</block>
+  <block id="d8f5449c7bac4ba96fd7bbf9776e9ae8" category="sidebar">복구 관리</block>
+  <block id="5bca99f8ca33bc054588b4f637748fce" category="sidebar">세부적인 수준의 복원을 수행합니다</block>
+  <block id="25024e4580c1e3f5e67328bb98e2b101" category="sidebar">그룹 및 팀의 경우</block>
+  <block id="91434d2ec1694706c5f6880d6fada769" category="sidebar">데이터 보기</block>
+  <block id="7d94efa3e76bcde3b29091804d2f1435" category="sidebar">제거된 데이터를 봅니다</block>
+  <block id="4330b42a340140b836c42bbe9c7105be" category="sidebar">데이터 다운로드</block>
+  <block id="d648f2a68a54fd1b3329efc3cf24d29c" category="sidebar">법적 고지</block>
+  <block id="d707bbc05400b2ce6b59ba216d70b5aa" category="sidebar">셀프 서비스 포털을 사용합니다</block>
+</blocks>
