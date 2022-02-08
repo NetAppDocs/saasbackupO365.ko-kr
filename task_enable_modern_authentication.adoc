@@ -21,6 +21,9 @@ Microsoft 365는 2021년 10월 Exchange Online의 기본 인증을 사용 중단
 
 기존 고객은 조치를 취해야 합니다. 최신 인증을 활성화하려면 아래 지침을 따르십시오.
 
+
+NOTE: 최신 인증을 활성화하려면 테넌트 계정 자격 증명을 사용하여 로그인합니다. 계정 이름은 Microsoft 365 서비스 설정 에서 찾을 수 있습니다(아래 * 옵션 2 단계 * 참조). 글로벌 관리자 역할이 이 계정에 할당되어 있는지 확인합니다. Modern Authentication이 성공적으로 활성화된 후 admin 사용자의 전역 관리자 역할을 제거할 수 있습니다.
+
 .옵션 1 단계
 . SaaS Backup for Microsoft 365에 로그인합니다. 다음 메시지가 나타납니다.image:enable_mod_auth_pop-up.png["Modern Authentication Reads를 사용하도록 설정하는 팝업 메시지가 Microsoft Basic Authentication이 곧 비활성화됩니다. Microsoft 365 그룹, 보관 사서함 및 공유 사서함에서 검색 실패를 방지하려면 최신 인증을 활성화하십시오. 지금 활성화하시겠습니까?"]
 . 최신 인증을 활성화하려면 * 확인 * 을 선택합니다.
