@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: task_performing_high_level_restore.html 
-keywords: netapp, saas backup, perform, performing, restore, microsoft 365, high-level restores, Microsoft Exchange Online, Microsoft OneDrive for Business, Microsoft SharePoint Online, archive, archive, shared, mailboxes 
+keywords: netapp, saas backup, perform, high-level restore, microsoft 365, Exchange, OneDrive 
 summary: 동일한 절차에 따라 Microsoft Exchange Online, Microsoft OneDrive for Business, Microsoft SharePoint Online 사이트, Microsoft 365 그룹의 사서함에 대해 높은 수준의 복원을 수행합니다. 
 ---
 = 높은 수준의 서비스 복원을 수행합니다

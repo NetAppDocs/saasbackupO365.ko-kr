@@ -50,7 +50,7 @@ link:task_performing_high_level_restore.html["높은 수준의 복원을 수행�
 * 비즈니스용 OneDrive 라이센스 소유자는 제한 없이 라이선스를 릴리스하고 사용자를 제거할 수 있습니다.
 +
 link:task_releasing_a_user_license.html["사용자 라이센스를 해제합니다"]
-
+link:task_purging.html["사용자, 사이트 모음 또는 Microsoft 365 그룹을 제거합니다"]
 
 * 작업 기록 로그에서 검색할 때 작업 유형, 서비스, 시작 시간 및 종료 시간 외에 작업 완료 상태별로 필터링할 수 있습니다.
 +
