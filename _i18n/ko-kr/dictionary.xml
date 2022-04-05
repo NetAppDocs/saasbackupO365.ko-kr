@@ -1409,4 +1409,6 @@
   <block id="d707bbc05400b2ce6b59ba216d70b5aa" category="sidebar">셀프 서비스 포털을 사용합니다</block>
   <block id="986fd8fd4a9ddabca0d89b5e7da5ba20" category="admonition">최신 인증을 활성화하려면 테넌트 계정 자격 증명을 사용하여 로그인합니다. 계정 이름은 Microsoft 365 서비스 설정 에서 찾을 수 있습니다(아래 * 옵션 2 단계 * 참조). 글로벌 관리자 역할이 이 계정에 할당되어 있는지 확인합니다. Modern Authentication이 성공적으로 활성화된 후 admin 사용자의 전역 관리자 역할을 제거할 수 있습니다.</block>
   <block id="bab00dea1cabe9c56b693bc0180cbb13" category="list-text">업로드 오류가 발생한 경우 메시지 크기가 140MB를 초과하는 메일박스를 복구합니다.</block>
+  <block id="3268b398df77a34bc3dc7c2eee28b5d5" category="inline-link-macro">Microsoft Exchange Online 제한: 메시지 제한</block>
+  <block id="6567b22ffc8f6ae02aa92f63c67f763a" category="admonition">메시지 크기가 140MB를 초과하는 메일박스를 복구하면 서버에 다시 업로드에 실패할 수 있습니다. PST로 내보내기 옵션을 사용하여 높은 수준의 복원을 수행하는 것이 좋습니다. 자세한 내용은 을 참조하십시오 <block ref="005c12c4f12807842a060236e5445890" category="inline-link-macro-rx"></block>.</block>
 </blocks>
