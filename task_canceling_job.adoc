@@ -6,6 +6,7 @@ summary: 즉시 백업 또는 즉시 복구를 시작했지만 이 작업이 완
 ---
 = 작업을 취소합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

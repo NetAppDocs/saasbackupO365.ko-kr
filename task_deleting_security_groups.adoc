@@ -6,6 +6,7 @@ summary: 사용자 정의 규칙에서 보안 그룹을 사용하는 경우 삭�
 ---
 = 보안 그룹을 삭제합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

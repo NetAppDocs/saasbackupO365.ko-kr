@@ -6,6 +6,7 @@ summary: SaaS Backup for Microsoft 365를 시작하려면 데이터 백업, 관�
 ---
 = 특정 백업 정책의 즉각적인 백업을 수행합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

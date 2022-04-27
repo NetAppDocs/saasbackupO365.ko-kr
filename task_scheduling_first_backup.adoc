@@ -6,6 +6,7 @@ summary: SaaS Backup for Microsoft 365를 설정하는 경우 기본적으로 �
 ---
 = 첫 번째 백업을 예약합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

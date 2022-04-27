@@ -6,6 +6,7 @@ summary: 새로운 서비스 활성화, 기존 서비스 비활성화, 데이터
 ---
 = 사용자, 사이트 모음 또는 Microsoft 365 그룹을 제거합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

@@ -7,6 +7,7 @@ summary: 'Microsoft 365용 NetApp SaaS Backup은 Microsoft 365 데이터를 Amaz
 = NetApp SaaS Backup for Microsoft 365 개요
 :toc: macro
 :hardbreaks:
+:allow-uri-read: 
 :toc: 
 :nofooter: 
 :icons: font

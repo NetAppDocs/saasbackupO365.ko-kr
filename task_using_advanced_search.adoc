@@ -6,6 +6,7 @@ summary: 고급 검색을 활성화하여 Microsoft 365 Exchange Online에서 �
 ---
 = Microsoft Exchange Online 고급 검색을 사용합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

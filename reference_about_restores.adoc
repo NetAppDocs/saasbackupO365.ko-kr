@@ -6,6 +6,7 @@ summary: SaaS Backup for Microsoft 365는 각 서비스에 대해 세밀한 레�
 ---
 = 복원에 대해 설명합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

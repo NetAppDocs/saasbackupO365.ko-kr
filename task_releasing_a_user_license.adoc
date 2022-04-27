@@ -6,6 +6,7 @@ summary: 일반 또는 아카이브 사서함 사용자는 보호되거나 보�
 ---
 = 사용자 라이센스를 해제합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

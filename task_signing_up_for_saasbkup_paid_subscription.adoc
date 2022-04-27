@@ -4,8 +4,9 @@ permalink: task_signing_up_for_saasbkup_paid_subscription.html
 keywords: netapp, saas backup, microsoft 365, getting started, sign up, signing up, paid, subscription, licensed, version 
 summary: Microsoft 365 서비스 계정 또는 NetApp SSO 계정을 사용하여 SaaS Backup for Microsoft 365에 등록할 수 있습니다. 
 ---
-= SaaS Backup for Microsoft 365의 유료 구독에 등록하십시오
+= SaaS Backup for Microsoft 365에 등록하십시오
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
@@ -17,7 +18,7 @@ Microsoft 365 서비스 계정 또는 NetApp SSO 계정을 사용하여 SaaS Bac
 
 
 
-== Microsoft 365 서비스 계정으로 유료 구독을 신청합니다
+== Microsoft 365 서비스 계정으로 가입합니다
 
 .단계
 . 웹 브라우저에 SaaS Backup for Microsoft 365 URL을 입력합니다.https://saasbackup.netapp.com[]
@@ -38,9 +39,7 @@ Microsoft 365 서비스 계정 또는 NetApp SSO 계정을 사용하여 SaaS Bac
 
 
 
-== NetApp SSO 계정을 사용하여 유료 구독을 신청하십시오
-
-구독을 검증하려면 NetApp SSO 사용자 ID 및 암호가 있어야 합니다. NetApp SSO 계정이 없는 경우 로 이동하십시오 https://mysupport.netapp.com/eservice/public/now.do[] 를 클릭하여 1에 등록하십시오. 요청이 처리되면 NetApp SSO 자격 증명이 포함된 이메일 알림을 받게 됩니다. 요청을 처리하고 알림 이메일을 보내는 데 약 24시간이 걸립니다.
+== NetApp SSO 계정으로 등록하십시오
 
 구독을 검증하려면 NetApp SSO 사용자 ID 및 암호가 있어야 합니다. NetApp SSO 계정이 없는 경우 로 이동하십시오 https://mysupport.netapp.com/eservice/public/now.do[] 를 클릭하여 1에 등록하십시오. 요청이 처리되면 NetApp SSO 자격 증명이 포함된 이메일 알림을 받게 됩니다. 요청을 처리하고 알림 이메일을 보내는 데 약 24시간이 걸립니다.
 

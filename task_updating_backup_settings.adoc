@@ -8,6 +8,7 @@ summary: 백업 설정을 업데이트하여 다양한 백업 옵션을 제어�
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

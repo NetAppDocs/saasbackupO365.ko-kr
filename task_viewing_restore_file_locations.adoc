@@ -6,6 +6,7 @@ summary: 복원된 파일 및 폴더의 제목과 위치에 대한 로그를 다
 ---
 = 복원된 파일을 찾습니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

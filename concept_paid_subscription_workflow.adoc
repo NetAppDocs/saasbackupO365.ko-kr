@@ -4,10 +4,11 @@ permalink: concept_paid_subscription_workflow.html
 keywords: netapp, saas backup, microsoft 365, getting started, paid, subscription, workflow 
 summary: SaaS Backup for Microsoft 365에 대한 유료 구독을 시작하려면 백업에 사용할 스토리지 유형을 결정하고 글로벌 권한으로 Microsoft 365 서비스 계정을 만든 다음 등록 프로세스를 완료해야 합니다. 
 ---
-= SaaS Backup for Microsoft 365의 유료 구독 시작을 위한 워크플로우
+= 워크플로를 시작합니다
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 
@@ -18,7 +19,7 @@ summary: SaaS Backup for Microsoft 365에 대한 유료 구독을 시작하려�
 
 
 [role="lead"]
-SaaS Backup for Microsoft 365에 대한 유료 구독을 시작하려면 다음을 수행해야 합니다.
+SaaS Backup for Microsoft 365를 시작하려면 다음을 수행해야 합니다.
 
 . SaaS Backup에서 제공하는 Amazon S3 또는 Azure Blob 스토리지를 사용할 것인지 결정합니다.
 +

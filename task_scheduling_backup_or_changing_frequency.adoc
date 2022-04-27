@@ -6,6 +6,7 @@ summary: 동일한 프로세스에 따라 새 백업을 예약하거나 현재 �
 ---
 = 백업 예약 또는 백업 빈도 변경
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

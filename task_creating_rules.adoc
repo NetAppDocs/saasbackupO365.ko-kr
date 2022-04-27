@@ -6,6 +6,7 @@ summary: 규칙을 사용하면 사전 정의된 기준에 따라 사용자를 �
 ---
 = 새 규칙을 만듭니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

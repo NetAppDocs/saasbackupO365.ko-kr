@@ -6,6 +6,7 @@ summary: NetApp SaaS Backup for Microsoft 365 내에서 서비스 계정을 관�
 ---
 = 새 사서함, 사이트 및 그룹을 검색합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

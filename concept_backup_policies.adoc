@@ -6,6 +6,7 @@ summary: SaaS Backup for Microsoft 365에는 3가지 사전 정의된 백업 정
 ---
 = 백업 정책
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

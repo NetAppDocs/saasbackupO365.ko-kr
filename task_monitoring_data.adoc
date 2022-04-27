@@ -6,6 +6,7 @@ summary: SaaS Backup for Microsoft Office 365에서는 이메일 또는 URL 주�
 ---
 = 사용자 데이터를 모니터링합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

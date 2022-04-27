@@ -6,6 +6,7 @@ summary: 기존 규칙을 보호되지 않은 항목에 적용하고 규칙을 �
 ---
 = 기존 규칙 적용
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

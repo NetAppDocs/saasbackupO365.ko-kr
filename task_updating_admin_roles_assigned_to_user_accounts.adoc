@@ -6,6 +6,7 @@ summary: 사용자의 관리 역할을 업데이트하면 사용자는 SaaS Back
 ---
 = 사용자 계정에 할당된 관리 역할을 업데이트합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

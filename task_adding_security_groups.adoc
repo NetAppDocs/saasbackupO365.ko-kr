@@ -6,6 +6,7 @@ summary: 보안 그룹을 필터링 옵션으로 사용하여 데이터를 보�
 ---
 = 보안 그룹을 추가합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

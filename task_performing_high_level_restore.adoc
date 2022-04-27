@@ -6,6 +6,7 @@ summary: 동일한 절차에 따라 Microsoft Exchange Online, Microsoft OneDriv
 ---
 = 높은 수준의 서비스 복원을 수행합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

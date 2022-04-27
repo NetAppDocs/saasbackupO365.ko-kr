@@ -6,6 +6,7 @@ summary: 사용자 계정에 관리 역할을 할당하여 하나 이상의 서�
 ---
 = 사용자 계정에 관리 역할을 할당합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

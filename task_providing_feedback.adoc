@@ -6,6 +6,7 @@ summary: 더 나은 서비스를 제공할 수 있도록 피드백을 제공합�
 ---
 = 피드백을 제공합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

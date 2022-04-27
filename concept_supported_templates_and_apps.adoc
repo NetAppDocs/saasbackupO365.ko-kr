@@ -8,6 +8,7 @@ summary: Microsoft SharePoint Online에서는 특정 서식 파일 및 앱만 �
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

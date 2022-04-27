@@ -6,6 +6,7 @@ summary: 최신 인증 for SaaS Backup for Microsoft 365를 사용하면 Microso
 ---
 = 최신 인증 사용
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

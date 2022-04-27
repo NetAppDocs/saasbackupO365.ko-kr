@@ -6,6 +6,7 @@ summary: Microsoft Exchange Online에서 SaaS Backup을 사용하려는 경우 �
 ---
 = Microsoft Exchange Online에 대한 가장 구성
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

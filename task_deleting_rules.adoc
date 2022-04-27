@@ -6,6 +6,7 @@ summary: 기존 규칙이 더 이상 필요하지 않으면 삭제할 수 있습
 ---
 = 규칙을 삭제합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

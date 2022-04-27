@@ -6,6 +6,7 @@ summary: 필요에 따라 Microsoft 365 서비스의 즉각적인 백업을 수�
 ---
 = 서비스의 즉각적인 백업을 수행합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

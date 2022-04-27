@@ -6,6 +6,7 @@ summary: 인라인 검색을 사용하여 특정 콘텐츠를 찾을 수 있습�
 ---
 = 검색을 수행합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

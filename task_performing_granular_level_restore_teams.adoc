@@ -6,6 +6,7 @@ summary: SaaS Backup for Microsoft 365 Groups/팀을 사용하여 세밀한 레�
 ---
 = Microsoft 365 그룹 및 팀에 대한 세밀한 레벨의 복원 수행
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

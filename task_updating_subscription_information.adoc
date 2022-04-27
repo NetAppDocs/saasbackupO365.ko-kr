@@ -6,6 +6,7 @@ summary: 라이센스를 업데이트, 추가 또는 갱신할 수 있습니다.
 ---
 = 구독 정보를 업데이트합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

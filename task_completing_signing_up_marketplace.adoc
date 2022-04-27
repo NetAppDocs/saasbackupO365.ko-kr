@@ -6,6 +6,7 @@ summary: Microsoft 365 서비스 계정 또는 NetApp SSO 계정을 사용하여
 ---
 = 마켓플레이스를 통해 유료 구독으로 가입하세요
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

@@ -6,6 +6,7 @@ summary: 모든 Microsoft 365 서비스에서 백업을 찾아볼 수 있습니�
 ---
 = 백업 찾아보기
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

@@ -8,6 +8,7 @@ summary: '데이터가 개별 계층, 메일박스, 사이트 및 MySites에 대
 :toc: macro
 :hardbreaks:
 :toclevels: 1
+:allow-uri-read: 
 :toc: 
 :toclevels: 1
 :nofooter: 

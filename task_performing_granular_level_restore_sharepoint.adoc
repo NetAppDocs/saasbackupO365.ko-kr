@@ -6,6 +6,7 @@ summary: SaaS Backup for Microsoft 365를 사용하면 Microsoft SharePoint Onli
 ---
 = Microsoft SharePoint Online에 대해 세밀한 레벨의 복원을 수행합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

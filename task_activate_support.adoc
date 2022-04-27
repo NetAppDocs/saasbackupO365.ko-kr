@@ -6,6 +6,7 @@ summary: 지원을 활성화하면 전화, 온라인 채팅 또는 웹 티켓 �
 ---
 = 지원을 활성화합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

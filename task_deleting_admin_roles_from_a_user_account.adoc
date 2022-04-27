@@ -6,6 +6,7 @@ summary: 사용자 계정에서 모든 관리 역할이 삭제된 경우 사용�
 ---
 = 사용자 계정에서 모든 관리 역할을 삭제합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

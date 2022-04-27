@@ -4,8 +4,9 @@ permalink: reference_paid_subscription_data.html
 keywords: paid, subscription, data, saas, backup, microsoft 365 
 summary: 라이선스가 있는 버전의 SaaS Backup for Microsoft 365를 갱신하지 않으면 구독 중 사용된 데이터가 삭제됩니다. 
 ---
-= 유료 가입 데이터 삭제
+= 데이터 삭제
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

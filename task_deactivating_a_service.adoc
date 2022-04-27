@@ -6,6 +6,7 @@ summary: 서비스를 비활성화하면 해당 서비스와 관련된 모든 �
 ---
 = 서비스를 비활성화합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

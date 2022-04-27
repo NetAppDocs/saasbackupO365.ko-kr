@@ -6,6 +6,7 @@ summary: 백업 설정을 업데이트하여 다양한 백업 옵션을 제어�
 ---
 = 백업 설정
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

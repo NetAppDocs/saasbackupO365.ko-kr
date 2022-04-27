@@ -6,6 +6,7 @@ summary: 특정 조건에 맞는 결과만 표시하도록 사서함, 사이트 
 ---
 = 사용자 정의 필터를 만듭니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

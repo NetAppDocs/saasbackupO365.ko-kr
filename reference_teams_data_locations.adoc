@@ -6,6 +6,7 @@ summary: 표 참조에서는 SaaS Backup에서 팀 데이터를 찾을 수 있�
 ---
 = 팀 데이터 위치
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

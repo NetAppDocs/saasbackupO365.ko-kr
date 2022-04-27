@@ -6,6 +6,7 @@ summary: SaaS Backup 활동 및 작업 기록의 로그를 보거나 다운로�
 ---
 = 로그를 다운로드합니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
