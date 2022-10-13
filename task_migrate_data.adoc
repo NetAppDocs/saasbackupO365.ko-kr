@@ -1,0 +1,82 @@
+---
+sidebar: sidebar 
+permalink: task_migrate_data.html 
+keywords: netapp, saas backup, microsoft office 365, sharepoint, onedrive for business, exchange, groups, migrate, data, export 
+summary: SaaS Backup for Microsoft 365로 라이센스 종료를 준비하기 위해 테넌트 소유 Amazon S3 또는 Microsoft Azure Blob Storage로 데이터 마이그레이션을 요청할 수 있습니다. 
+---
+= 데이터 마이그레이션
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup for Microsoft 365로 라이센스 종료를 준비하기 위해 테넌트 소유 Amazon S3 또는 Microsoft Azure Blob Storage로 데이터 마이그레이션을 요청할 수 있습니다.
+
+데이터 마이그레이션이 완료된 후 NetApp SaaS Backup Bulk Export Tool을 사용하여 데이터를 내보낼 수 있습니다. 에 로그인합니다 link:https://mysupport.netapp.com/site/tools["NetApp 지원 툴 페이지"] 를 검색하여 NetApp SaaS Backup Bulk Export Tool을 찾습니다.
+
+
+NOTE: 데이터 마이그레이션은 라이센스 종료 작업입니다. 모든 테넌트는 SaaS Backup 계정의 어떠한 형태로든 작업을 피해야 데이터 마이그레이션 중에 데이터 및 메타데이터 불일치가 발생하지 않습니다. 데이터 마이그레이션이 완료되면 테넌트에 대해 예약된 모든 백업이 비활성화됩니다.
+
+* 요구 사항 *: 데이터 마이그레이션을 요청하려면 글로벌 관리자 권한으로 테넌트 계정 자격 증명을 사용하여 로그인합니다. 다른 사용자 역할에서는 사용자 인터페이스의 데이터 마이그레이션 탭에 액세스할 수 없습니다.
+
+* 권장 사항 *: 모든 고객 데이터를 저장할 수 있는 충분한 용량의 대상 스토리지를 프로비저닝해야 하며 10% 더 많은 용량을 메타데이터 스토리지의 버퍼로 추가해야 합니다.
+
+.단계
+. 계정 설정 * 으로 이동합니다 image:gear_icon.png["기어 아이콘"].
+. 데이터 마이그레이션 * 탭을 선택합니다.
+. 스토리지 세부 정보 * 에서 필드에 정보를 입력합니다.
++
+[cols="20,20"]
+|===
+| Amazon S3 | Microsoft Azure를 참조하십시오 
+
+
+| 버킷 이름 | 계정 이름입니다 
+
+
+| 지역 | 컨테이너 이름입니다 
+
+
+| 액세스 키 | 액세스 포인트 
+
+
+| 비밀 키 | 액세스 키 
+
+
+|  | 지역 
+|===
++
+
+NOTE: Microsoft Azure 사용자는 저장소 세부 정보에 제공된 컨테이너의 공용 액세스 수준을 "Blob"로 설정해야 합니다.
+
+. Test Connection * 을 선택합니다.
++
+녹색 확인 표시는 연결이 정상 상태임을 나타냅니다.
+
+. 동의 * 에서 데이터 마이그레이션 약관에 동의할 상자를 선택하고 * 제출 * 을 선택합니다.
++
+세부 정보를 저장했습니다. 이제 테넌트 ID가 * 마이그레이션 상태 * 에 표시됩니다.
+
++
+
+TIP: NetApp SaaS Backup Bulk Export Tool을 사용하여 데이터를 내보낼 때 테넌트 ID가 필요합니다.
+
+
+
+* 동의 후 SaaS Backup에 대한 추가 단계가 Amazon S3 버킷 * 제공, 정책 및 정책 메모가 이제 동의 아래에 표시됩니다. 다음 단계에 따라 데이터 마이그레이션 요청을 마칩니다.
+
+. 정책을 확인하고 복사합니다.
++
+image:policy-note-variables.png["IAM 사용자 및 대상 변수가 강조 표시된 정책이 복사되었습니다"]
+
+. Amazon S3 계정으로 이동합니다.
+. 스토리지 세부 정보 * 에 제공된 정책을 Amazon S3 대상 버킷에 부착합니다.
+. SaaS Backup for Microsoft 365의 * 계정 설정 * 에서 * 데이터 마이그레이션 * 탭으로 돌아갑니다.
+. Policy Confirmation * 에서 정책을 대상 버킷에 업로드했는지 확인하는 상자를 선택하고 * Submit * 을 선택합니다. 녹색 확인 표시는 데이터 마이그레이션 요청이 완료되고 데이터 마이그레이션이 현재 대기 중임을 나타냅니다.
+
+
+마이그레이션 진행률을 모니터링하려면 * 마이그레이션 상태 * 를 참조하십시오. 마이그레이션 기간은 데이터 양과 라이센스 수와 같은 몇 가지 요소에 따라 달라집니다.

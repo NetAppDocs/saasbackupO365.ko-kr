@@ -38,7 +38,7 @@ sidebar:
       url: "/task_signing_up_for_saasbkup_paid_subscription.html"
     - title: 첫 번째 백업을 예약합니다
       url: "/task_scheduling_first_backup.html"
-    - title: 임미일 백업을 수행합니다
+    - title: 즉시 백업을 수행합니다
       url: "/task_performing_immediate_backup_of_policy.html"
     - title: 데이터 삭제
       url: "/reference_paid_subscription_data.html"
@@ -162,6 +162,8 @@ sidebar:
       url: "/task_downloading_data.html"
     - title: 사용자 데이터를 모니터링합니다
       url: "/task_monitoring_data.html"
+  - title: 데이터 마이그레이션
+    url: "/task_migrate_data.html"
   - title: 피드백을 제공합니다
     url: "/task_providing_feedback.html"
   - title: 도움을 받을 수 있는 곳 및 자세한 정보를 얻을 수 있는 곳

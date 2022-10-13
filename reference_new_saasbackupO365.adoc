@@ -18,6 +18,14 @@ summary: SaaS Backup for Microsoft 365는 새로운 기능, 개선 사항 및 �
 
 
 
+== 2022년 10월
+
+* 이제 SaaS Backup for Microsoft 365에서 데이터 마이그레이션이 가능합니다. 계정 관리자는 테넌트 소유 Amazon S3 및 Azure Blob 스토리지 대상 버킷으로의 데이터 마이그레이션을 요청할 수 있습니다. 자세한 내용을 알아보십시오 link:task_migrate_data.html["데이터 마이그레이션"].
+* 이제 SaaS Backup Export Utility 툴을 사용할 수 있으며 마이그레이션된 데이터를 Amazon S3, Azure Blob 스토리지 대상 버킷 또는 로컬 스토리지로 쉽게 내보낼 수 있습니다. 에 로그인합니다 link:https://mysupport.netapp.com/site/tools["NetApp 지원 툴 페이지"] 를 검색하여 NetApp SaaS Backup Bulk Export Tool을 찾습니다.
+
+
+
+
 == 2021년 11월
 
 Microsoft 365는 2021년 10월 Exchange Online의 기본 인증을 사용 중단하도록 목표로 하고 있습니다. 자세한 내용은 을 참조하십시오 link:https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-authentication-and-exchange-online-september-2021-update/ba-p/2772210["기본 인증 및 Exchange Online - 2021년 9월 업데이트"]. 사용 중단 후 Microsoft 365 그룹과 공유 및 아카이브 메일박스에 대한 검색 실패가 발생할 수 있습니다. 이러한 오류를 방지하기 위해 언제든지 최신 인증을 활성화할 수 있습니다.

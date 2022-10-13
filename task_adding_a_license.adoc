@@ -14,7 +14,7 @@ summary: 라이센스를 추가하거나 릴리즈할 수 있습니다.
 
 
 [role="lead"]
-유료 구독에 대한 라이선스를 방금 받은 경우 다음을 따르십시오 <<concept_paid_subscription_workflow.adoc#workflow-for-etting-started-with-a-paid-subscription-toSaaS-Backup-for-Office-365,유료 구독 시작 워크플로>>. 워크플로의 일부로 라이센스 키를 입력합니다.
+유료 구독에 대한 라이선스를 방금 받은 경우 다음을 따르십시오 #workflow-for-etting-started-with-a-paid-subscription-toSaaS-Backup-for-Office-365,유료 구독 시작 워크플로. 워크플로의 일부로 라이센스 키를 입력합니다.
 
 SaaS Backup을 이미 사용 중인 경우 다음 단계를 따라 라이센스를 추가할 수 있습니다.
 

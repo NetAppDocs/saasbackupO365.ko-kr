@@ -22,9 +22,9 @@ Microsoft Exchange Online용 * 고급 검색 * 을 사용하여 개별 또는 �
 
 image:advanced_search_settings_exchange.png["고급 검색 설정 스크린샷"]
 
-* <<Enable Advanced Search>>
-* <<Perform a search>>
-* <<Find previous search jobs>>
+*  Advanced Search
+*  a search
+*  previous search jobs
 
 
 
