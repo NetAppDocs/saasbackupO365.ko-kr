@@ -14,7 +14,10 @@ summary: SaaS Backup for Microsoft 365로 라이센스 종료를 준비하기 �
 
 
 [role="lead"]
-SaaS Backup for Microsoft 365로 라이센스 종료를 준비하기 위해 테넌트 소유 Amazon S3 또는 Microsoft Azure Blob Storage로 데이터 마이그레이션을 요청할 수 있습니다.
+SaaS Backup for Microsoft 365로 라이센스 종료를 준비하기 위해 Amazon S3에서 테넌트 소유 Amazon S3 스토리지 또는 Microsoft Azure Blob에서 테넌트 소유 Microsoft Azure Blob 스토리지로의 데이터 마이그레이션을 요청할 수 있습니다.
+
+
+NOTE: Amazon S3에서 Microsoft Azure Blob 스토리지로의 교차 마이그레이션 또는 Microsoft Azure Blob에서 Amazon S3 스토리지로의 교차 마이그레이션은 지원되지 않습니다.
 
 데이터 마이그레이션이 완료된 후 NetApp SaaS Backup Bulk Export Tool을 사용하여 데이터를 내보낼 수 있습니다. 에 로그인합니다 link:https://mysupport.netapp.com/site/tools["NetApp 지원 툴 페이지"] 를 검색하여 NetApp SaaS Backup Bulk Export Tool을 찾습니다.
 
