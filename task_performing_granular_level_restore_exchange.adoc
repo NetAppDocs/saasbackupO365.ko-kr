@@ -184,4 +184,5 @@ NOTE: Export to Data * restore 옵션을 선택하면 제공된 링크가 7일 �
 . 복원 진행률을 모니터링하려면 * 작업 진행률 보기 * 를 클릭합니다.
 
 
+.관련 정보
 셀프 서비스 포털을 사용하여 Microsoft Exchange Online의 항목을 복원하는 방법에 대한 자세한 내용은 을 참조하십시오 link:reference_about_ssp.hmtl["셀프 서비스 포털 정보"].

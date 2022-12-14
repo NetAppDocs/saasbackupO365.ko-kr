@@ -20,7 +20,7 @@ Microsoft Exchange Online, OneDrive for Business, SharePoint Online 및 Microsof
 
 규칙을 만들려면 데이터에 사용자 정의 필터를 적용해야 합니다. 적용된 필터는 * 필터 * 아이콘 아래에 표시됩니다. NetApp SaaS Backup for Microsoft 365 기본 필터는 회색으로 표시됩니다. 사용자 정의 필터는 연한 파란색으로 나타납니다.image:rules.gif["규칙 생성을 위한 사용자 정의 필터 및 SaaS Backup 정의 필터의 예"]
 
-#creating-user-defined-filter,사용자 정의 필터를 만듭니다
+<<task_creating_user_defined_filter.adoc#creating-user-defined-filter,사용자 정의 필터를 만듭니다>>
 
 여러 규칙을 만들 수 있습니다. 규칙은 * 규칙 관리 * 목록에 나타나는 순서대로 적용됩니다.
 
