@@ -426,7 +426,6 @@
   <block id="441c6e9fc22b169f47087797e47a4e78" category="admonition">Export to Data * restore 옵션을 선택하면 제공된 링크가 7일 동안 유효하며 사전 인증됩니다.</block>
   <block id="6e1b2e76136fef4e065dc537ac7bec7d" category="paragraph">복원 작업이 생성되었음을 나타내는 메시지가 표시됩니다.</block>
   <block id="013131a779f73f268793ce1212aee294" category="inline-link-macro">셀프 서비스 포털 정보</block>
-  <block id="38d0504911fa47808177f1d71c40e7e1" category="paragraph">셀프 서비스 포털을 사용하여 Microsoft Exchange Online의 항목을 복원하는 방법에 대한 자세한 내용은 을 참조하십시오 <block ref="8bd99ae3cbd2ccc3f81def50302f803d" category="inline-link-macro-rx"></block>.</block>
   <block id="2257ec2d88aa324c25c4f721d53a8c78" category="summary">동일한 프로세스에 따라 새 백업을 예약하거나 현재 백업 빈도로 변경합니다.</block>
   <block id="202a038c87bf3da785fcbfe19ba95272" category="doc">백업 예약 또는 백업 빈도 변경</block>
   <block id="a1c60f51ed7e418b70cda3bb4a662731" category="paragraph">보호되지 않은 데이터를 백업 정책에 할당하여 백업할 수 있습니다. 보호되지 않은 데이터가 백업 정책에 할당되면 할당된 정책에 대해 예약된 다음 백업이 발생할 때까지 * pending * 상태로 이동하며, 그 후에는 * protected * 상태로 이동합니다. 보호 데이터의 백업 빈도를 변경하려면 데이터를 다른 백업 정책 계층에 할당할 수 있습니다.</block>
@@ -1172,8 +1171,6 @@
   <block id="b32bf445c8b684008c9fd9cf380eb985" category="paragraph">기존 고객이고 최신 인증을 활성화하지 않은 경우 조치를 취해야 합니다. 을 참조하십시오 <block ref="718d39ae8b1f35b36dc8c2837eb10373" category="inline-link-macro-rx"></block>.</block>
   <block id="a5667679a016ee66ef9bc45c1a173b3b" category="section-title">2020년 12월</block>
   <block id="97b4589bea0c9a0d397ec4db7260d8e0" category="paragraph">미국에 Microsoft Azure를 구축한 경우 Microsoft 환경에서 데이터가 떠나지 않습니다. SaaS Backup for Microsoft 365의 등록 프로세스 중에 Azure Blob 저장소 또는 사용자 지정 스토리지를 사용할 수 있습니다.</block>
-  <block id="a72ba6abcd432d690074b970ea9e1e5a" category="inline-link-macro">무료 평가판을 통해 SaaS Backup에 등록하십시오</block>
-  <block id="8f8caa92edfef6726734d704b2b67044" category="paragraph"><block ref="8f8caa92edfef6726734d704b2b67044" category="inline-link-macro-rx"></block></block>
   <block id="86ca1026a5895f803f6cb3b59d638cdc" category="inline-link-macro">유료 구독에서 SaaS Backup에 등록하십시오</block>
   <block id="d31c8900ff029d35426a6b655cf439ee" category="paragraph"><block ref="d31c8900ff029d35426a6b655cf439ee" category="inline-link-macro-rx"></block></block>
   <block id="0e347c50a0d60b8f46cb8c37cd3b5088" category="section-title">2020년 11월</block>
@@ -1217,8 +1214,6 @@
   <block id="692664770412ddd705b7f413cee7d6fb" category="section-title">2019년 3월</block>
   <block id="f342fec16bfb61a8dd26a7f7ee694ea0" category="list-text">SaaS Backup for Microsoft 365는 이제 지원되는 각 지역에서 여러 백업 위치를 지원합니다.</block>
   <block id="fc450d190b34e98c0417e7cc17568f3c" category="paragraph">이제 선택한 지역에서 사용 가능한 위치를 데이터 백업 사이트로 선택할 수 있습니다. 데이터 위치와 지리적으로 가장 가까운 위치를 선택하는 것이 좋습니다. SaaS Backup에서 권장하는 위치는 옵션 목록에서 * preferred * 로 표시됩니다.</block>
-  <block id="8683bf91a11e498ffd74c9c3a102487d" category="admonition">평가판 버전에서 업그레이드하는 경우 평가판에서 사용된 위치와 다른 백업 위치를 선택하면 평가판 데이터가 보존되지 않습니다.</block>
-  <block id="02d42668aef32358c91e97fac3b74454" category="paragraph"><block ref="02d42668aef32358c91e97fac3b74454" category="inline-link-macro-rx"></block></block>
   <block id="8c673911badf0bc86b25912d2c703123" category="list-text">이제 사용자 라이센스를 릴리스하여 다른 사용자가 사용할 수 있도록 설정할 수 있습니다.<block ref="13fb5063dfdc66cecf804982b04fd9ff" category="inline-link-macro-rx"></block></block>
   <block id="faae77443f7a8406deaf55c3795ace10" category="section-title">2019년 2월</block>
   <block id="82caf71ab4314503cd4b4826bf47361d" category="list-text">SaaS Backup for Microsoft 365는 이제 다음을 지원합니다.</block>
@@ -1230,7 +1225,6 @@
   <block id="6b23667f3cbba43813b5f6399ec4babd" category="doc">Microsoft Exchange Online 고급 검색을 사용합니다</block>
   <block id="23e9dcfa8b97aaea186eaaeb1177dea4" category="paragraph">Microsoft Exchange Online용 * 고급 검색 * 을 사용하여 개별 또는 공유 사서함 항목을 검색하고 이 항목을 원래 사서함으로 복원할 수 있습니다.</block>
   <block id="c7f1896c455334213518b5df2a860b44" category="paragraph">관리자는 로 이동하여 * 고급 검색 * 을 활성화할 수 있습니다 <block ref="f87e0976e00f26ec4930aef7f830024f" category="inline-link-macro-rx"></block> 요청을 제출합니다. 또한 SaaS Backup 지원 팀에 saasbackupsupport@netapp.com 으로 이메일을 보낼 수도 있습니다.</block>
-  <block id="4c6fa9a7d2c0c345bf057d6d3e77c80a" category="paragraph">고급 검색 * 을 활성화한 후 개별 테넌트에 대해 SSP(셀프 서비스 포털)를 설정할 수 있습니다. 첫 번째 백업 전에 * 고급 검색 * 을 활성화하지 않으면 검색 결과가 나타나지 않습니다. 셀프 서비스 포털에 대한 자세한 내용은 를 참조하십시오 <block ref="b51bb0ef6b11f946c31f52683a5d978b" category="inline-link-macro-rx"></block>.</block>
   <block id="267a5275d92e0cb500ece7c264c7eafe" category="inline-image-macro">고급 검색 설정 스크린샷</block>
   <block id="4c1d3f657745aa4fa7c5b961a2f7a82f" category="paragraph"><block ref="4c1d3f657745aa4fa7c5b961a2f7a82f" category="inline-image-macro-rx" type="image"></block></block>
   <block id="6e1c6cab6487c8b15e4140bfb0d5fd69" category="list-text"><block ref="7d190c308c24e5fb4e4af67edbc1dd47" category="inline-xref-macro-rx"></block></block>
@@ -1362,5 +1356,5 @@
   <block id="f086b6fce40b83560fe8ab80c4c78980" category="paragraph">SaaS Backup for Microsoft 365로 라이센스 종료를 준비하기 위해 Amazon S3에서 테넌트 소유 Amazon S3 스토리지 또는 Microsoft Azure Blob에서 테넌트 소유 Microsoft Azure Blob 스토리지로의 데이터 마이그레이션을 요청할 수 있습니다.</block>
   <block id="2082bcb44a92c4c9e2b835d60c6900b8" category="admonition">Amazon S3에서 Microsoft Azure Blob 스토리지로의 교차 마이그레이션 또는 Microsoft Azure Blob에서 Amazon S3 스토리지로의 교차 마이그레이션은 지원되지 않습니다.</block>
   <block id="135b308ed83c53f1516b7c754566d1c4" category="paragraph-title">시작하기 전에</block>
-  <block id="30f60d67f457bb040dffde52197a54da" category="paragraph-title">관련 정보</block>
+  <block id="afda39e1ba1136390162c552c18a5674" category="paragraph">고급 검색 * 을 활성화한 후 개별 테넌트에 대해 SSP(셀프 서비스 포털)를 설정할 수 있습니다. 첫 번째 백업 전에 * 고급 검색 * 을 활성화하지 않으면 검색 결과가 나타나지 않습니다.</block>
 </blocks>
