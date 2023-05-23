@@ -20,7 +20,7 @@ Microsoft Exchange Online에서 SaaS Backup을 사용하려는 경우 가장을 
 
 == 가장을 자동으로 구성합니다
 
-가장을 자동으로 구성하려면 를 실행합니다 https://["MSDN PowerShell 명령"].
+가장을 자동으로 구성하려면 를 실행합니다 https://msdn.microsoft.com/en-us/library/office/dn722376(v=exchg.150).aspx["MSDN PowerShell 명령"].
 
 
 

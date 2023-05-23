@@ -21,7 +21,7 @@ Microsoft 365 서비스 계정 또는 NetApp SSO 계정을 사용하여 SaaS Bac
 == Microsoft 365 서비스 계정으로 가입합니다
 
 .단계
-. 웹 브라우저에 SaaS Backup for Microsoft 365 URL을 입력합니다.https://[]
+. 웹 브라우저에 SaaS Backup for Microsoft 365 URL을 입력합니다.https://saasbackup.netapp.com[]
 . 지역을 선택하십시오. 선택한 영역에 테넌시가 생성됩니다. 데이터가 해당 데이터 센터 위치에 저장되고 나중에 변경할 수 없습니다.
 . 랜딩 페이지 맨 아래에 있는 * 등록 * 을 클릭합니다.
 . 최종 사용자 사용권 계약에 동의합니다.
@@ -42,10 +42,10 @@ Microsoft 365 서비스 계정 또는 NetApp SSO 계정을 사용하여 SaaS Bac
 == NetApp SSO 계정으로 등록하십시오
 
 .시작하기 전에
-구독을 검증하려면 NetApp SSO 사용자 ID 및 암호가 있어야 합니다. NetApp SSO 계정이 없는 경우 로 이동하십시오 https://[] 를 클릭하여 1에 등록하십시오. 요청이 처리되면 NetApp SSO 자격 증명이 포함된 이메일 알림을 받게 됩니다. 요청을 처리하고 알림 이메일을 보내는 데 약 24시간이 걸립니다.
+구독을 검증하려면 NetApp SSO 사용자 ID 및 암호가 있어야 합니다. NetApp SSO 계정이 없는 경우 로 이동하십시오 https://mysupport.netapp.com/eservice/public/now.do[] 를 클릭하여 1에 등록하십시오. 요청이 처리되면 NetApp SSO 자격 증명이 포함된 이메일 알림을 받게 됩니다. 요청을 처리하고 알림 이메일을 보내는 데 약 24시간이 걸립니다.
 
 .단계
-. 웹 브라우저에 SaaS Backup for Microsoft 365 URL을 입력합니다.https://[]
+. 웹 브라우저에 SaaS Backup for Microsoft 365 URL을 입력합니다.https://saasbackup.netapp.com[]
 . 랜딩 페이지 아래쪽에서 등록 을 클릭합니다.
 . 최종 사용자 사용권 계약에 동의합니다.
 . NetApp SSO * 로 등록 을 클릭합니다.image:sign_up_sso.gif["NetApp SSO 계정을 사용하여 SaaS Backup for Microsoft 365에 서명하기 위해 클릭된 단추 스크린샷"]
