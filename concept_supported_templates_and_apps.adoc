@@ -38,11 +38,14 @@ Microsoft SharePoint Online 백업에는 다음 서식 파일만 지원됩니다
 * EHS #1(루트 사이트)
 * EHS #0(루트 사이트)
 * SITEPAGEPBLISHING #0(통신 사이트)
-* 그룹 #0(그룹 사이트 모음 접두사)
+* SPERS #10(개인 사이트)
 * STS #1(빈 사이트)
 * STS#2(문서 작업 영역)
 * STS #3(현대적 팀 사이트)
 * 앱 #0(앱 템플릿)
+* BLANKINTERNET #0(게시 사이트)
+* TEAMCHANNEL #0
+* TEAMCHANNEL #1(개인 팀 채널)
 
 
 

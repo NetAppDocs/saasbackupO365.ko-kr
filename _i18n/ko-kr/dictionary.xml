@@ -761,7 +761,6 @@
   <block id="5a9fa37a8adc9079710c82bebd381be2" category="list-text">EHS #1(루트 사이트)</block>
   <block id="a1c702db865ff7988cecde653d31e549" category="list-text">EHS #0(루트 사이트)</block>
   <block id="e69fe81e6c14067bfa02448cc56f0d90" category="list-text">SITEPAGEPBLISHING #0(통신 사이트)</block>
-  <block id="cd6b1dceac9feb15ce679e63c41ec14b" category="list-text">그룹 #0(그룹 사이트 모음 접두사)</block>
   <block id="02331da6f964bf5a355bef176199392c" category="list-text">STS #1(빈 사이트)</block>
   <block id="370f28e84c7e5f280c6384763af39ff8" category="list-text">STS#2(문서 작업 영역)</block>
   <block id="bb39ae34f785130781c5d7c8f66840ca" category="list-text">STS #3(현대적 팀 사이트)</block>
@@ -1357,4 +1356,8 @@
   <block id="2082bcb44a92c4c9e2b835d60c6900b8" category="admonition">Amazon S3에서 Microsoft Azure Blob 스토리지로의 교차 마이그레이션 또는 Microsoft Azure Blob에서 Amazon S3 스토리지로의 교차 마이그레이션은 지원되지 않습니다.</block>
   <block id="135b308ed83c53f1516b7c754566d1c4" category="paragraph-title">시작하기 전에</block>
   <block id="afda39e1ba1136390162c552c18a5674" category="paragraph">고급 검색 * 을 활성화한 후 개별 테넌트에 대해 SSP(셀프 서비스 포털)를 설정할 수 있습니다. 첫 번째 백업 전에 * 고급 검색 * 을 활성화하지 않으면 검색 결과가 나타나지 않습니다.</block>
+  <block id="ecdf921a3a6a074b60616280efaea786" category="list-text">SPERS #10(개인 사이트)</block>
+  <block id="f381330caab1211a505b46814d00dafe" category="list-text">BLANKINTERNET #0(게시 사이트)</block>
+  <block id="b6402d0dbe2678a6ff7d1ebe657c7846" category="list-text">TEAMCHANNEL #0</block>
+  <block id="f240a6450359519ca5f7b84a102e94a3" category="list-text">TEAMCHANNEL #1(개인 팀 채널)</block>
 </blocks>
