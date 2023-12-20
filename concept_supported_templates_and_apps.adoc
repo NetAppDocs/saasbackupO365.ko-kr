@@ -5,17 +5,14 @@ keywords: netapp, saas backup, microsoft 365, backup, supported, templates, apps
 summary: Microsoft SharePoint Online에서는 특정 서식 파일 및 앱만 지원됩니다. 
 ---
 = Microsoft SharePoint Online에서 백업에 지원되는 서식 파일 및 앱
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

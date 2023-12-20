@@ -5,17 +5,14 @@ keywords: netapp, saas backup, microsoft 365, backup, setting, update, updating,
 summary: 백업 설정을 업데이트하여 다양한 백업 옵션을 제어할 수 있습니다. 사용 가능한 백업 설정은 서비스에 따라 다릅니다. 
 ---
 = 백업 설정을 업데이트합니다
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]
